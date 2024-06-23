@@ -1,0 +1,113 @@
+---
+author: 
+  - name: Pamella Beserra de Melo
+    url: http://lattes.cnpq.br/5559146180799726
+    orcid: 0000-0003-0255-4122
+    email: pambmelo@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Rio Grande do Norte
+      - name: Universidade Federal do Ceará
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Francisca Valéria de Sousa
+    url: http://lattes.cnpq.br/0363852725072024
+    orcid: 0000-0002-5232-8812
+    email: valeriasousa0140@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+filters:
+  - section-bibliographies
+bibliography: beserra_de_melo_assessoria.bib
+reference-section-title: References
+---
+
+# The Challenges of Public Servant Health: An Advisory Report
+
+## Introduction
+
+There is a difficulty in establishing the relationship between work and the illness of public servants [@ramminger2007saude]. Until 2009, the health of public servants at Universities and Federal Institutes was related to medical and dental examinations. Health promotion and prevention actions and their aggravations were practically nonexistent before the implementation of the Policy for Attention to Health and Occupational Safety of Federal Public Servants (PASS). The demands of this public, until then, were focused on improvements in remuneration and training. After the structuring and consolidation of the career plan for technical-administrative positions in education, from Law No. 11,091, of January 12, 2005 [-@brasil2005lei11091], health issues began to gain greater visibility. Thus, there is a need to think about and problematize the forms of work organization and socio-professional relationships in public service [@ramminger2007saude].
+
+The case presented here reports an intervention in health promotion at work carried out in the accounting and finance sector of a federal university. Therefore, this is an advisory report provided to this sector, which was responsible for coordinating and overseeing the institution's budget, as well as managing contracts and agreements. Among other duties, the workers in this sector checked all payments made by the institution daily to avoid improper or incorrect entries; issued commitment notes, which guaranteed the reservation of resources for payment to companies or individuals who had contracts with the University; and dealt with the payment of scholarships and allowances.
+
+The initial demand for the intervention came from the collective of workers referred to the University's Pro-Rectory of Personnel Management, after seven servants requested removal from the sector due to conflicts with managers. The complaint concerned the difficult relationship with the leadership and the imposition of new rules. The servants also highlighted the lack of autonomy, as decisions were made unilaterally by the leadership, authoritatively, without dialogue with the group. There were also changes in work processes without prior communication with the team. These issues reflected in low motivation for work and the interest of several servants in changing sectors. However, the removal of all servants from one sector to another, even within the same public administration body, was not a plausible solution.
+
+In light of this, what would justify a health promotion intervention based on the problems presented, as they were not directly related to physical or mental illnesses? This is due to an understanding that health is not the opposite of illness: it is possible to lose health even before falling ill. Having health, in this way, is being able to act and, especially, being able to reinvent oneself in the face of difficulties encountered in the activity carried out at work. Therefore, health is impaired when the worker's power to act is limited [@clot2010trabalho].
+
+It is thus seen that the ability of the servants in the accounting and finance sector to reorganize their activities in the face of imposed limits was curtailed to the point that they assessed that the only possible path was to leave the sector. In this sense, a health promotion intervention was necessary to allow these workers to regain their power to act. In light of this, a work psychologist and a group of psychology student interns linked to the institution's Pro-Rectory of Personnel Management took on the demand and promoted an intervention that, as will be seen below, repositioned the workers in the face of their own activity and the demands presented, as well as opened a communication channel with the managers.
+
+The intervention carried out was based on the Activity Clinic, which proposes to be a theory of action and transformation in work contexts. This perspective emphasizes the importance of strengthening and developing the work collective. To understand the Activity Clinic, it is important to elucidate the concept of craft, defined as the structure resulting from the conflict between four dimensions, which are: impersonal, transpersonal, personal, and interpersonal [@clot2010trabalho].
+
+The impersonal dimension comprises the rules and conditions to which workers are subject, such as arrival and departure times, materials and work tools, safety standards, and procedure manuals. The transpersonal dimension (or professional genre) also concerns norms. In this case, however, they are those formulated by the work collective itself, constitutive of an implicit professional culture that, even if not formally recorded, guides workers' actions in moments of difficulty. Each professional, in turn, imprints their history on the activity they perform and also develops new rules based on their experiences. That is why the craft is also personal. Finally, work is done in interaction with other people (colleagues, managers, consumers, among others), which characterizes the interpersonal level [@clot2010trabalho].
+
+It is also pertinent to understand the distinction between performed activity and real activity [@clot2006funcao]. The first consists of the actions that the worker effectively performs at their workstation and that, in many cases, are visible to an external observer. The real activity, in turn, is the set of possibilities that, at some point, were on the worker's horizon of action but were not realized. It is from the real activity that it becomes possible to renew the possibilities of acting in work contexts.
+
+Understanding these definitions, the work psychologist who works from the Activity Clinic can help workers revitalize professional cultures and also seek new forms of action from the real activity. In this way, it is possible to develop the power to act on the work environment, the organization, and oneself, which therefore implies promoting health.
+
+From this perspective, it is not up to the psychologist to make a diagnosis and inventory the psychosocial risks to which workers are exposed. It will be up to her to mediate reflections on the activity so that professionals can find psychosocial and personal resources to perform quality work. It is, thus, her role to assist in the search for unpredictable action capacities in the midst of activity and help rediscover the pleasures of well-done work, considered the driving force of health [@clot2017clinica]. To this end, the Activity Clinic mobilizes and promotes dialogue, aiming to resume collective creation and, thus, take care of work. Debates are promoted between workers, who hold the knowledge about their own activity, and later, between them and their managers [@clot2017clinica].
+
+## Method
+
+### Participants
+
+The intervention involved four accountants, one female accountant, one male accounting technician, and one female accounting technician, as well as the immediate and superior managers, both accountants, totaling nine participants. All the servants held the position of Technical-Administrative in Education (TAE) at the Higher Education Institution (IES) and, as mentioned earlier, worked in the accounting and finance sector.
+
+### Procedures, Instruments, and Course of the Intervention
+
+Before starting the presentation about the instruments and procedures used in the intervention, it is important to recall the idea that in the Activity Clinic, no preliminary diagnosis is made that would provide the psychologist with prescriptions that workers must follow to solve problems related to the activity or to gain more health and satisfaction. It is also not her goal to produce a list of risks, whether physical, ergonomic, or psychosocial, to produce an external evaluation of the work.
+
+The aim is, from the workers' protagonism, to put action in motion, to dialogue about it, and, with that, to break the barriers of crystallized activities, those that are already established and can no longer handle the challenges faced by workers. Thus, the goal is to rediscover new ways of acting in the activity and in the midst of discussions with the work collective (therefore in the interpersonal dimension of the craft), facilitating workers' reflection to expand their power to act [@clot2006funcao]. That said, it is also worth clarifying that all the stages described below are part of the intervention and that the procedures and instruments presented are used as mediators to achieve the objective indicated above.
+
+Initially, two meetings were held with the managers of the accounting and finance sector to explain the work proposal. On these occasions, the objectives of the action and the methodology that would be employed were presented. A similar procedure was followed with the servants, and subsequently, a working group was created with those who agreed to participate. The intervention was divided into three stages:
+
+1. Document analysis;
+2. Observation of activities and
+3. Conducting instructions to the double (ID).
+
+In the first stage, documents that characterized, regulated, and standardized the workers' activities were sought. The duties of the sector, its objectives, and its organizational structure were also analyzed. Additionally, the technical processes developed and the tasks explicitly assigned to the servants, as well as positions and functions of the sector, were examined. The aim was to understand the prescriptions of activities, norms, and procedures, as well as the general characteristics of work organization, that is, the impersonal dimension of the craft. The intention was thus to build the basis for dialogue between the working group and the intervention team, as well as among the workers themselves, through which the conflict over the quality of work could be thought about and debated [@clot2013oficio]. However, as will be seen later, some of these norms were not clearly defined for either managers or workers.
+
+In the second phase, observations were made to access the performed activities. This procedure yields a double result. The first is linked to producing knowledge about the observed object, the activity, following a tradition well developed by ergonomics and other approaches that value the study of situated work. The second, in turn, is related to the fact that the observation already generates an intervention in the field by producing an internal dialogue in the worker [@clot2010trabalho]. From this perspective, it was possible to understand and analyze work processes and identify problems and potentialities related to professionals' engagement with the changes to be made in procedures.
+
+The days and times of observations were previously agreed upon with the servants, and at the end of each visit, the team produced a report based on what was seen and what was said by the sector employees. Seven observation moments, each lasting an average of 3 hours, were conducted. Once this process was completed, a meeting was held with all the servants to discuss the systematizations produced. It was then possible to discuss suggestions and improvements proposed by the workers, which were negotiated and debated with the sector management. Thus, a partnership was established between managers and servants to implement the necessary measures.
+
+Upon completion of this stage, the third phase began, in which two meetings were held to conduct the ID, which consists of a technique where the activity clinician gives the following directive to the worker: “suppose I am your double and that tomorrow I will replace you in your workplace. What instructions should you give me so that no one notices the substitution?” [@clot2006funcao p.144]. For this stage, the group was divided into two according to the nature of the activities performed.
+
+In each subgroup, one servant was asked to volunteer to be the double's instructor, who was a member of the intervention team. After the instruction was completed, a space was opened for the other group members, who were in the observer position, to participate. They could then explain disagreements, questions, and additions regarding the worker's speech in the instructor position. Once the instructions to the double were completed, the recorded speeches were transcribed and returned to the servants so they could read and extract points for discussion.
+
+Next, meetings were held with each subgroup to discuss the points highlighted by them from reading the transcribed material. Among the themes addressed by the servants in these meetings, discussions included the nature of activities; rework and overload; the need for training; meeting goals; relationships with management; control of the information registration system, among others. Finally, meetings were held to discuss these issues with all the working group members.
+
+The intervention concluded with a general meeting where workers and managers discussed the demands raised at each stage and the changes made that were favorable to the group in the development of their activities. There was also a debate on suggested improvements that were not achieved for various reasons, including legal limits imposed on the public sector.
+
+## Results and Discussions
+
+Next, the obstacles discussed by the servants for performing quality work and the potentialities envisioned for reconstructing their activity and craft will be presented, based on the procedures and techniques previously presented and the discussions held with the work collective. The development of the power to act and the strengthening of workers around issues related to the impersonal dimension, specifically regarding work conditions and organization, and interpersonal relationships, were observed.
+
+Regarding working conditions, the servants stated that there was little space for circulation in the room where they worked, as it was small for the amount of furniture it had. Concerning the available tools for performing activities, they pointed out that most did not have a mousepad with arm support, which is important when spending long periods using computers and performing continuous movements. It was also suggested that this could lead them to develop repetitive strain injuries.
+
+Additionally, there was a lack of essential materials for performing activities, such as highlighters, to mark important values in notes to be entered into the system, and rulers and pens in good condition, as those provided by the university were of inferior quality and soon became unusable. Given this, workers ended up buying these and other materials themselves. In light of these issues and the impediments they posed to their activities, the collective could debate proposals discussed with the managers during the intervention, such as reorganizing the desks and chairs to improve circulation in the room and requesting consumable materials directly from the pro-rector to the warehouse sector, so that requests were met in a timely manner, as the response time to individual requests was very long.
+
+Regarding aspects related to work organization, the lack of clear and defined prescription was one of the main complaints raised by the servants, as the sector did not have an established workflow chart guiding how activities should be performed. The prescription consists of the task, norms, values, obligations, and procedures previously anticipated by the organization. Thus, it is understood that the lack of clarity on this generates doubts and uncertainties for performing activities. In this sense, while excessive prescription prevents creations and stylizations, its absence leaves the worker without a guide by which they can orient their actions, which can paralyze them [@pinheiro2016clinica].
+
+Given this lack, the intervention facilitators tried to refer the group to the informal prescriptions established by the work collective, the transpersonal dimension of the craft. They tried to make explicit, therefore, tacit guidelines that guided actions so that mutual support was provided for doubts and unforeseen events arising from what the formal prescription showed insufficient. Thus, it was possible to strengthen the work group by making explicit a professional genre [@clot2010trabalho] that guided them, allowing the establishment of some guidelines, especially regarding each one's duties, sector process flows, and procedures to be followed when problems were identified. It is thus perceived that “the power of (re)creation in the work environment develops from the appropriation of resources for action elaborated in the collective” [@souto2015reflexoes, p. 13], that is, in the professional genre, resources for performing activities can be mobilized.
+
+Still regarding work organization, the collective debated the goals set for the sector. It was noticed that these were inappropriately constructed, as they did not consider the activity flow. It was complained that the unachievable goals were defined without group participation and imposed hierarchically. The way results were measured did not match reality. The servants then created an activity monitoring spreadsheet to establish future goals with the management, considering the sector's reality and needs.
+
+Another demand brought by the workers concerned the lack of dialogue between them and their managers. In many cases, the servants' autonomy was constantly curtailed by decisions from superiors. Thus, feeling alienated from their activity, the servants were unmotivated to carry out tasks and performed them dispassionately, fearing that, at any moment, other changes could be imposed without the collective's consent. Additionally, the managers' inability to dialogue also led to the workers having only necessary, unfriendly, or even hostile communication among themselves.
+
+This generated a stiffening of relationships and an exacerbation of individualities, resulting in frequent removal requests, which caused high turnover in the sector, aggravated by the management's practice of constantly changing servants' functions. It was observed that these changes were imposed hierarchically without the participation of those who would stop performing their previous function and start performing a new one, without any prior debate or consultation about their interest in performing this new task. When they felt capable of performing a function, for example, by reading specific legislation, and were trained and accustomed to their activity, they were relocated to a new function without any justification.
+
+All this resulted in difficulties for the group to recognize itself as a work collective, as the servants did not see in each other a peer to refer to or turn to in difficult situations. This brings to light the mention that the sense of belonging to a collective allows the preservation of the craft. The set of possible and impossible actions, the tacit agreements made between the group, constitute a generic resource that acts as a guide for individual activity. When the renewal of the genre is hindered, the collective is exposed to the unforeseen realities, and the subjects can no longer recognize themselves in what they do [@clot2010trabalho].
+
+During the intervention, there was a change in one of the managers. Throughout the discussions in the instruction to the double, the workers stated that the new manager had training in the area of expertise and was always available, sensitive to the group's demands, which positively impacted this relationship. The new management accepted, for example, the proposal for annual rotation with servants who performed mechanical and repetitive activities, using the same keyboard commands and computer screen to analyze various processes daily. Some processed up to 50 cases daily, which made it “tedious, repetitive, and tiring,” in the words of one of the accounting technicians.
+
+Another change implemented by the new management, at the collective's request, was decentralizing some activities to other sectors, reducing the workload. The practice of assigning accounting workers to functions of other sectors' servants on vacation was also suspended, as it caused workload and dissatisfaction among the group, as the new function was not within their duties and should be performed by someone from the original sector.
+
+## Conclusions and Limitations of the Intervention
+
+The intervention was carried out in a context marked by servants' demotivation and various problems related to work organization and conditions, as well as the relationship between servants and their managers. Numerous debates on the activity and craft were promoted, allowing workers to find new ways of proceeding and to dialogue with managers about the difficulties encountered, positively contributing to the group's interpersonal relationships. Thus, there was an expansion of the power to act, which, from the Activity Clinic perspective, means promoting health. As a limitation, the initial difficulty of sensitizing the managers about the importance of considering the proposals brought by the workers as necessary for the proper development of activities was observed.
+
+Another limitation concerned some old and therefore outdated federal legislation that did not keep up with the institution's changes and modernization processes, generating a contradiction between the innovations imposed by management and the rigidity of the regulations, making some processes more cumbersome due to bureaucracy, whereas they could be more agile. However, modifying or updating the legislation is carried out by higher, external instances to the university itself, as it is linked to the mobilization of federal ministerial bodies.

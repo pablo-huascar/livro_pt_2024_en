@@ -1,0 +1,198 @@
+---
+author: 
+  - name: Francisca Denise Silva Vasconcelos
+    url: http://lattes.cnpq.br/2515278419639079
+    orcid: 0000-0002-3997-7869
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Antonio Anderson Mota da Silva
+    url:  http://lattes.cnpq.br/1663089060325612
+    orcid: 0000-0002-0407-3624
+    email: anderson.mota@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Francisca Bruna Pereira Farias
+    url: http://lattes.cnpq.br/2815710242920346
+    orcid: 0000-0003-2973-5070
+    email: brunafariaspsicologa@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Juliana Maria do Nascimento Mota
+    url: http://lattes.cnpq.br/6949209482037074
+    orcid: 0000-0002-5581-7996
+    email: juliananascimento@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+filters:
+  - section-bibliographies
+bibliography: vasconcelos_eneddes.bib
+reference-section-title: References
+---
+
+# National Meeting on Inequalities and Diversities - ENEDDES: Debates on Poverty, Youth, and Education
+
+> Theory is not inherently curative, liberating, and revolutionary. It only fulfills this function when we ask it to and direct our theorization towards this end (bell hooks).
+
+## LAEDDES & ENEDDES: Extension in Motion (A Brief Historical Overview)
+
+The Interdisciplinary Meeting of Studies on Inequalities & Diversities - ENEDDES, previously named ENEDES in its first two editions in 2013 and 2016, emerged from the studies and research conducted by the extensionists of the university extension program “Knowledge is Active Citizenship - LAEDES - Laboratory of Studies on Inequalities” (from March 2010 to August 2018), part of the Psychology course at the Federal University of Ceará, Sobral Campus.
+
+The extension program, initiated in 2010, stimulates debate and articulation of studies on poverty, inequality, and exclusion, drawing from Sociology, Critical Social Psychology, Psychology, Education, among others. The project targeted public school students, most of whom experienced the implications of poverty and its complications.
+
+The extension group conducted activities to demystify the discourse of meritocracy and the fatalism that the impoverished face daily. Using the methodology of conversation circles, dialogues with students aimed to promote arguments against blaming poor people, presenting education as a path to autonomy, citizenship, and political participation. Embedded in a public university in the interior, part of the federal university expansion program, and attentive to the context of social marginalization, suffering, and expiation of the poor population, LAEDDES has always positioned itself against the false meritocracy discourse. With the advancement of discussions and student movements, in 2018, the program's title was changed to: LAEDDES – Laboratory of Studies on Inequalities & Diversities.
+
+This name change reflects the theoretical, methodological, ethical, and political transformations of the undergraduates in academic and social debates and their interaction with the community. Consequently, in 2020, a connection with the Professional Master's in Psychology and Public Policies at the UFC Sobral campus was established.
+
+Aiming to amplify discussions on these topics and to disseminate the debates developed in the extension program to the academic community and the general public, the Laboratory took on the challenge and commitment to organize ENEDES, viewing it as an event capable of mobilizing new tensions, creating interaction spaces between undergraduates and scholars, raising theoretical and practical reflections that could reverberate in social transformations and contribute to and innovate in public policy creation.
+
+The Interdisciplinary Meeting of Studies on Inequalities – ENEDES, occurred in two editions, in 2013 and 2016, attracting over 500 people, including students and professionals from various fields such as Psychology, Social Sciences, Social Work, as well as professionals working in education and public policies in Sobral and neighboring municipalities. The event successfully promoted debates on Education, Inequalities, and Democracy.
+
+During this period, the event's name was altered to ENEDDES - National Meeting of Studies on Inequalities and Diversities. Due to the COVID-19 pandemic, the third in-person event was not held. However, considering the immense impacts of the pandemic on the most vulnerable populations, the Pré-Eneddes was organized virtually in November 2020 to create dialogues on the pandemic's context, the deterioration of public policies, and their effects on education, health, social assistance, and democracy, as a way to address pain and anguish and to advocate for collective well-being.
+
+## ENEDDES in Its Different Versions: An Ongoing Journey
+
+### 1st ENEDES
+
+The 1st Interdisciplinary Meeting of Studies on Social Inequality - ENEDES, an event planned and organized by LAEDES (Laboratory of Studies on Inequalities), with the support of the Federal University of Ceará, occurred in person on March 11, 12, and 13, 2013, in the city of Sobral - Ceará.
+
+The event included the participation of professionals and students from various fields who discussed the theme and its implications through conferences, round tables, and presentations of works, producing and sharing important knowledge and generating academic and practical mobilizations concerning social inequalities.
+
+In the first edition of ENEDES, we had the presence, among other professionals and scholars in the field, of Professor Pedrinho Guareschi, who reminded us of the importance of caring for different types of knowledge, recalling Paulo Freire. Popular knowledge is fundamental for us to deal with the pains and worldviews, while scientific knowledge serves as lenses that alert us to which direction we should look. He argued that education is still the gateway to emancipation and the exit from precarious conditions of economic, political, and cultural misery. In summary, these were the rich discussions and debates that permeated the three-day event.
+
+### 2nd ENEDES
+
+The second meeting, titled II ENEDES and I International Symposium on Poverty and Social Transformation, was held in person on December 14 and 15, 2016. Its main objective was to discuss topics transversal to LAEDES themes, such as:
+
+-   Citizenship;
+-   Democracy and Human Rights;
+-   Poverty and Coping Strategies;
+-   Poverty, Media, and Social Representations;
+-   Youth and Vulnerabilities;
+-   Public Health;
+-   Gender and Social Determinants;
+-   Music and Social Transformation.
+
+At this event, we had the presence of Ana Fonseca, a researcher and promoter of the Bolsa Família Program in Brazil, who fought against social inequalities through public policies until her death. The event also featured Canadian researchers Susan O'Neill and Yaroslav Senyshyn, who presented music as a means of emancipation from poverty. The II ENEDES concluded with a conference on Social Representations of Poverty by Aline Accorssi, enriched by different representatives speaking from various fields of knowledge.
+
+### Pré-ENEDDES
+
+In times of backlash against social policies and dismantling of fundamental achievements for improving the living conditions of low-income populations affected by ethical-political suffering, organizing the Pré-ENEDDES edition was considered a form of resistance. It also provided access to knowledge from various fields for our target audience, including UFC students and public school teachers. We hope that the debates promoted by the event, related to reflections on the intersections between poverty and education, as well as discussions on gender, race, and class relations within public schools, contribute to the training of LAEDDES extension students, public school teachers, and other members of the academic community. The Pré-ENEDDES was organized by undergraduate students and master's students in Psychology and Public Policies.
+
+## Debate and Mobilization Axes: Social Inequalities, Youth, and Education
+
+### Social Inequalities – Poverty: Outlines and Definitions
+
+Studying and thinking about poverty is a delicate subject with a difficult definition. Within our theoretical field of human sciences, our question is more qualitative and variable, under construction. As Accorssi and Scarparo [-@accorssi2016representacoes] have warned, "poverty is a polysemic and complex concept that requires care" (p. 68). The definitions of public policies to combat poverty and the economic perspectives of the World Bank and MDS, GDP, HDI, have their importance in directing policies aimed at people in vulnerable social contexts and in strategies to combat this situation. However, these are not the only ways to understand the concept of poverty.
+
+Poverty is not just food insecurity, precarious housing, or lack of education; it is also political. As Pedro Demo [-@demo2006pobreza] explains, poverty "is not pure and simple misery, but the one imposed, the discriminatory one, or, above all, the one of the majority due to the enrichment of the minority" (p. 7).
+
+Poverty can also be thought of as unequal access to modes of production. For Estanislau and Ximenes [-@estanislau2016vivencias], poverty is a "process, a consequence of the capitalist mode of production, whose important characteristics are the exploitation of labor to produce wealth and the concentration of income. A significant contingent of individuals is precariously inserted into the production process" (p. 142).
+
+Continuing on unequal access, Jessé Souza [-@souza2003construcao] identifies poverty as the constitution and reproduction in differentiated modes of people's skills who, without access or with greater limitations to educational and professional qualification, cannot enter or remain in the qualified labor market for a prolonged period.
+
+The term impoverished is the classification chosen by Guareschi [-@guareschi1992categoria] to talk about poverty. For him, in a world of categories, it is possible to talk about poor and rich, but in the world of relationships, no, as it requires one and the other. In this case, there are enriched and impoverished individuals, a dialectical relationship, people who have been impoverished.
+
+There is a multiplicity of classifications, ways to measure and identify poverty. This indicates that the issue of income does not sufficiently explain how this phenomenon is experienced and defined by people. Various authors describe poverty in a broad way, alerting to the need for a plural vision of the phenomenon and dimensions of participation, dignity, and social recognition. Poverty is not a natural condition and, although historical, dialectical, it therefore requires combat [@guzzo2016desigualdade].
+
+### Brazil, a Country of Poverty: Socioeconomic and Psychosocial Implications
+
+In Brazil, even with the old commitments to eradicate poverty in international agreements and the exit from the hunger map in 2012, the country has regressed and suffers from the estimated numbers of 61 million people in poverty, 19.3 million of whom are in extreme poverty, according to the research by the Center for Research in Macroeconomics of Inequalities at the University of São Paulo [@nassifpires2021genero]. Thus, poverty remains latent, absurd, and immoral at all levels.
+
+This scenario is most often explained from an economicist perspective, of a neoliberal nature, but it needs to be expanded. After all, it is not just about material absences; poverty "can entail specific and oppressive forms of identity constitution, weakening individuals' potentialities, maintaining existing conditions of oppression in society, and reproducing discriminatory practices towards poor individuals" [@mourajunior2012reflexoes, p. 15].
+
+That said, it is important to remember the ruptures of bonds, the precariousness that poverty represents most of the time. In Brazil, in this social, cultural, and political segregation, poverty and exclusion align. Thus, the naturalization of poverty and the stigmas of this category gain painful dimensions [@wanderley1999refletindo].
+
+In this class of disposables, there is no process of citizenship, but rather one of subcitizenship, a collective practice of unjust social recognition. In it, the notion of subcitizenship implies a hierarchical valuation of people, implicitly and institutionally rooted in an invisible way, which determines who is or is not considered human and, consequently, who is or is not a citizen. This process fundamentally impacts the differentiated access to material and symbolic resources in social life [@souza2003construcao].
+
+Various constraints cross this group not only by material lacks, an unquestionable fact, but also by subjective ones, that is, in the social imagination of these people. As part of this, processes such as shame and humiliation were well depicted in the studies of Moura Jr. [-@mourajunior2012reflexoes], Ximenes et al. [-@ximenes2016implicacoes], and Jovchelevitch [-@jovchelovitch2013sociabilidades]. The field of imagination, of planning, is strongly affected when experiencing a family/educational context marked by poverty, which "can permeate different levels and spaces: from hunger to existential (subjective) conditions, and from these conditions to ruptures in sociability relations" [@accorssi2016representacoes, p. 91].
+
+In this sense, studying poverty and its implications on the subjectivities of the poor population crosses the creation and constitution of events and debates. Inviting, dialoguing, and listening to scholars on the subject was a way to stimulate in other spaces and audiences the need for greater closeness to the theme, favor the continuity of studies/research, present gaps, and reflect on other (re)actions and places of action.
+
+### Social Inequalities: The Interfaces of Subcitizenship in Peripheral Societies
+
+The work of sociologist Jessé de Souza brought a vast collection of theories related to Brazil's exclusive modernization process and the production of subcitizens. His concept of subcitizen reveals the naturalization of oppression and humiliation experienced by most of the population and is recognized by an illusory concept of equality in the current competitive order.
+
+The individual who is already born deprived of basic conditions such as health, food, education, or has limited access to them, has a high chance of not meeting the competitive market's demands, which probably will not give them social recognition and "utility" in this economic model (which incorporates the social), potentially leaving them at the mercy of dramatic political and personal consequences.
+
+Subcitizenship is not only related to the historical marginalization of various social groups but also to the reproduction and maintenance of most individuals outside the objective order of modern production, which requires specific personalities and behaviors. Becoming a complete and productive citizen is intimately related to the concept of the rational subject's dignity. As this mode of production acquired almost dogmatic characteristics over the years, failure is seen as a personal misfortune, causing millions to remain on the margins of society [@souza2003construcao].
+
+Understanding subcitizenship and how it is structured also involves reinterpreting Pierre Bourdieu's concept of habitus by sociologist Jessé Souza, who states:
+
+> If habitus represents the incorporation in subjects of evaluative schemes and behavioral dispositions from a structural socioeconomic situation, then fundamental changes in the economic-social structure must consequently imply significant qualitative changes in the type of habitus for all social classes involved in some way in these changes [@souza2003construcao, p. 165]
+
+Souza [-@souza2003construcao] analyzed the concept of habitus in three spheres to explain other configurations of reality. The primary habitus, he defines, originates from Bourdieu's studies on the transition of traditional societies to modern society in the West. This habitus would have originated in the bourgeoisie, the first ruling class in capitalist society.
+
+For Bourdieu, the "secondary habitus" lies in the dimension of "taste." It would be at the upper limit of the "precarious habitus," where the "primary habitus" extends to a wide range of people in a given society. It is related to the source of social recognition and respect, in which patterns of social classification and distinction play a prominent role [@souza2003construcao].
+
+The focus of this theory's deepening lies in the concept coined by Souza [-@souza2003construcao] of "precarious habitus." The concept of habitus in marginal societies, late capitalism, can be extended to its most precarious level, where it would be a place marked by the lack of a set of psychosocial tendencies reflected in the role of the producer, in the field of personality, with direct reflections on the role of the citizen.
+
+Individuals of this habitus have not incorporated these requirements into their daily lives to constitute themselves as "full and complete citizens." They lack a sufficient position in the labor market, especially if we attribute to work the basic values that constitute this "meritocratic triad." From their qualification, position, and salary, this individual and their group will be recognized in their society [@souza2003construcao].
+
+It is possible, therefore, to perceive that there is a power relationship, those who can and those who cannot, the visible and the invisible, the legitimate and the illegitimate, and, therefore, there is, on the part of the social, a domination of positions and spaces established for this other, besides being seen as the culprit for social failures. This relationship became possible when modernity architected a binary logic, which denominated in different ways the negative component of the cultural relationship: marginal, indigent, mad, disabled, drug addict, homosexual, foreigner, etc [@duschatzky2001nome].
+
+## Debate Axis: Youth and Education: The Relationship of Poor Youth with School
+
+When discussing poverty, social inequality, and gender themes, ENEDDES directs these discussions to the young public, understanding that they are directly affected by these phenomena and all their implications. Therefore, it is important to understand what youth the event addressed and the relationship of poor youth with education.
+
+According to Léon [-@leon2005adolescencia], in the country, various fields of study and authors have dedicated themselves to discussing youth, thus constructing various views on this category, structured from different social and political perspectives, which end up fostering and guiding actions aimed at this public. These perspectives often generate dichotomous views on youth.
+
+The multiple images about youth are socially constructed models, which often bring simplistic views that prevent us from "understanding the ways in which young people, especially those from popular classes, construct their experiences" [@dayrell2003jovem, p. 41], making these experiences often neglected.
+
+Youth cannot be taken as a unique, singular, chronological, and homogeneous phenomenon, analyzed, and understood from a rigid axis. As Cordeiro [-@cordeiro2009juventude] affirms, being young goes beyond a generational phase, as it is related to multiple life experiences, linked to young people's belonging to the different social spaces they occupy, whether it is school, work, or the community. It is about transiting through these experiences, being crossed and constituted by them.
+
+In this sense, ENEDDES worked with the notion of plural, heterogeneous youth and considered the multiple ways and experiences of being young, understanding young people as social subjects who appropriate and interpret the contexts they are inserted in, giving them meaning, just as they give meaning to the places they occupy. Thus, young people are subjects who are biologically, socially, and culturally constituted in relationships with others [@dayrell2003jovem].
+
+Taking these young people as social subjects means considering that each one lives the condition of being young based on contexts and previous histories. Therefore, markers such as gender, race, economic conditions, social class, and inequality directly interfere with the ways of being young, as well as in their trajectories and how they signify and understand education.
+
+The relationship young people establish with school is constructed from numerous markers and can acquire different meanings. Sposito and Galvão [-@sposito2004experiencia] point out that the meanings young people attribute to education arise from the subjectivation and experiences of each individual. Given this, it is necessary to consider that education in the lives of poor youth assumes different roles; for many, it is seen as a stage or a duty to be fulfilled, for others, a tool for transforming the realities they live.
+
+Education in Brazil is pointed out in both studies and public policy actions as one of the main tools to combat inequalities, essential for overcoming social problems and for social mobility. However, this relationship between inequality and education yields permanent dialogues, as sometimes education is believed to overcome social inequalities, and at other times, it is seen as an eternal source of reproducing inequalities [@yannoulas2013literatura].
+
+Bourdieu and Passeron [-@bourdieu2014herdeiros] describe the school as a space for reproducing social inequalities, which are felt in the unequal distribution of educational opportunities according to origin and social class, in the access of poor youth to education systems, and in how this access occurs.
+
+Souza [-@souza2009rale] highlighted that, in a space marked by social inequality, the dissemination of advanced knowledge is still limited to children and youth from the dominant classes. Meanwhile, children from poor families receive limited education in the school to the basic knowledge type required for their future professional lives. He also highlights the myth of individual merit (meritocracy), which would depend on isolating the individual from society, as if everything they achieve in their life did not depend on the possibilities that society offers them.
+
+Analyzing the relationship between poverty and the student population, Duarte [@duarte2012politicasocial] points out that 44% of the student population in public elementary education in Brazil was in poverty in 2009. In the Northeast region, 67% of students were in social vulnerability conditions.
+
+Still according to the same author, analyzing the indices between youth and schooling, the disparities are significant. While 76% of students among the wealthiest 25% had completed high school by the age of 19, among the poorest 25%, this rate drops to 16%. For youth between 15 and 17 years old attending high school, the rate is 81% among the wealthiest and 30% among the poorest. These indices indicate that poor students are not a minority in public schools; they are a majority that needs to be considered [@duarte2012politicasocial].
+
+Considering the interfaces of subcitizenship in education, the issue is often marked by many educators' view of the impoverished student, as Souza [-@souza2009rale] points out:
+
+> … Analyzing public education policy texts from the State of São Paulo, he found the presence of demeaning conceptions about popular classes, accompanied by the idea that the school needs to assume the family's role. This perspective ends up transforming the school institution mainly into a space for socialization, having its capacity to fulfill its social function impaired (p. 51).
+
+Considering public education policy, we recognize this field as a strong marker of individual differences, as it has long been constituted on the sphere of difference and categorization of individuals, including the various manifestations of poverty and social inequality. Thus, the school must continuously evaluate its practices, think and experiment with new educational practices to better establish relationships with the social reality in which it is inserted. It is noted that it is not about destroying or extinguishing established parameters but generating a denaturalization of traditional teaching measures to constitute educational practices that genuinely promote education and, consequently, citizenship.
+
+It is fundamentally important to realize that the school context is strongly linked to the constitution of social and subjective representation. The plurality of structuring forms creates a dialectic between standardization or permissiveness. The school will serve as a mediator, or rather, an environment that will propose mediations between individuals who will be constituted from the interaction with others and the positions they will occupy in the social context in which they are inserted.
+
+Considering education as a promoter of citizenship, it should include social diversity and recognize these individuals as subjects of rights, who come from different cultural realities and experiences, building their frame of reference for thought and action from this. It is up to the teacher to broaden their view beyond the school's walls, to know the student's starting territory, their values, what is significant in their life.
+
+In this sense, school education is one of the main and fundamental spaces for systematically disseminating principles related to differences, diversities, and inequalities, requiring the performance of committed and well-informed teachers. However, the teachers' own training in related topics is still very limited, hindering quality work with students at various educational levels, as good intentions alone are not enough for the educator to deal with the issues of difference, diversity, and inequality. It takes much more than that; it requires theoretical grounding and knowledge on the topics.
+
+Besides serving as a mechanism, the place for difference should not be forced but managed. The school should not position itself as an institution of fixed concepts and ways of dealing with individuals but should perceive itself as an institution dealing with subjects who present themselves in various possible performances.
+
+Thus, education can be a valuable tool for helping liberate historically impoverished groups, consolidating the generation of rights; or it can configure the opposite, becoming another instrument of humiliation, social rejection, and disdain by public agents towards the poor, reinforcing stereotypes and prejudices [@brandao2013programabolsafamilia].
+
+## Transgressional Axes: Diversities
+
+In addition to the initial thematic axes, the event's discussions included themes such as gender, the LGBTQIA+ movement, race/ethnicity, peripheral youth, and marginal lives and knowledge. Space for other epistemologies is necessary to ensure the foundation of studies and actions. Thus, decolonial studies, black feminism, feminist and gender studies also incorporate the foundations of research and analyses of the extension program's works and future events.
+
+### Intersectionality
+
+Arising from the extension's concerns and experiences, ENEDDES focused on organizing an event to debate themes and works from the concept of intersectionality. According to Akotirene [-@akotirene2019interseccionalidade], intersectionality is a multiple concept, being a theory, methodology, and research tool that, by articulating race, gender, and class, critically analyzes the intersection and convergence of cisheteronormative/patriarchal/imperialist/racist structures, among others, as well as an ethic aimed at recovering silenced voices, annulled bodies, new humanities. In this sense, in Crenshaw's [-@crenshaw2002documento] analogy, thinking from intersectionality means perceiving the clash between historically oppressive structures as traffic lanes that dictate advantages and disadvantages depending on one's "place" in the world. Thinking and articulating social issues intersectionally allows for analyzing the dynamics of the social structure and its pernicious products. It is not about overlapping oppressions, quantifying pain, but thinking and developing politically other modes of (re)knowledge.
+
+### Gender: Multiple Understandings, Still Unknown to Popular Knowledge
+
+Gender is a term and concept of broad debate not for the purpose of producing an exact, static definition, but to promote dialogue and distance from misunderstandings about the topic. The understanding that gender and sexuality are relational and natural is still prevalent and dangerous.
+
+Thus, regarding gender, a concept produced from feminist movements and struggles, there is no consensus and exact definition. However, according to authors such as Berenice Bento, Guacira Louro, and Judith Butler, gender, although considering physical elements of the body, is not defined by biological sex or sexuality. Gender is a social and historical construction about the biological distinctions of bodies crossed by socially elaborated sexual characteristics. It is in social relations, discourses, and languages that gender, gender performance, emerges and reproduces.
+
+Constituent of subjectivities, there is no determinism, biological essentialism, but a social, relational question about the category, which is analytical and political. It is also in the social arena of relational, institutional practices that gender inequalities and hierarchies occur.
+
+## Final Considerations
+
+The existence of ENEDES, later ENEDDES, has only been possible due to the university tripod: teaching, research, and extension. Therefore, it is impossible to think of ENEDDES without LAEDDES. For the people who designed the meetings, the classroom extends beyond the disciplines. In each text, discussion, and theme, there were struggles in this process: welcoming, learning, sharing. Guided by an education as a practice of freedom and not as an activity of domination [@hooks2013ensinar], the event's foundation will always be laid.
+
+The daily difficulty of hoping, especially after the most progressive period of the supposed Brazilian democracy, is highlighted. The defamation of human rights, the dismantling of public policies, the freezing of public spending, the commodification of public education, the fascist governmental structure, and the COVID-19 pandemic have further exacerbated social inequalities, poverty, and silenced youth and marginal knowledge.
+
+Despite the limitations the event faced, we hope that by presenting the memory of ENEDDES, it can, beyond registering our existences, contribute to further studies on the topic, foster other research on the subject, and strengthen practices and public policies aimed at combating inequalities, especially in educational institutions.
