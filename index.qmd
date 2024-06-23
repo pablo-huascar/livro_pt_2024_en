@@ -1,0 +1,80 @@
+---
+author: 
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url:  http://lattes.cnpq.br/8266089190930601
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Federal University of Ceará    
+  - name: João Paulo Pereira Barros
+    url: http://lattes.cnpq.br/0351156693555523
+    orcid: 0000-0001-7680-576X
+    email: joaopaulobarros@ufc.br
+    affiliations: 
+      - name: Federal University of Ceará
+language: 
+  title-block-author-plural: "Editors"
+filters:
+  - section-bibliographies
+bibliography: index.bib
+reference-section-title: References
+toc: false
+---
+
+# Introduction {.unnumbered}
+
+Commenting on the construction of this book means discussing a technical production. According to the latest CAPES classification [@hemerly2019producao], a publishing product is defined as resulting from “the processes of editing and publishing fiction and non-fiction works. It includes planning and executing, intellectually and graphically, books, encyclopedias, preparing texts, illustrations, layout, etc., linked to the Program (projects, lines, students/graduates)” (p. 41). Broadly speaking, this is what we did, and by this definition, we are well-aligned.
+
+That said, it is necessary to state that producing this book was a way to free ourselves from some constraints, although we are still bound to another, not by choice, but by an institutional framework that we can at least qualify as questionable. We will return to this particular institutional constraint later.
+
+The first constraint we freed ourselves from by constructing this book was that of publishers. In an analog world, where books needed to be printed and distributed for their content to be accessed, publishers played a significant role. Maintaining the necessary infrastructure for a book to go from someone’s mind to the reader was expensive, and most people who wanted to publish something could not afford the required resources. If this is true, on the other hand, the decision about what the public should read was concentrated in the hands of a few companies, and what dictated this decision was the potential commercial return of a work. There was, therefore, an oligopoly on thought.
+
+This same logic applies to any other form of expression that depended on analog means and structures to be created and distributed: music, films, news, etc. However, today we live in a world where the production and transmission of information are digital. Thus, just as it is no longer necessary to have a soundboard to record or a vinyl record to materialize a phonogram, printed paper is dispensable (which does not mean it has no value). It is also no longer necessary to have a truck transporting tons of books back and forth for people to access them.
+
+Despite this liberation, this story, which is still ongoing, so far, does not seem to have a happy ending. Capitalism is like the Borg: it always finds a way to adapt and keeps insisting that resistance is futile. In the new world of the internet, the oligopoly of analog production and distribution by publishers, record companies, radio, and TV was replaced by that of large technology companies through streaming platforms, whether video, audio, or even books. Yes, we can create and distribute books, music, and news without intermediaries, but only those linked to the most well-known transmission platforms have a chance to appear and stand out, with rare exceptions.
+
+Despite this setback, the initial premise, that it is possible to create and distribute without intermediaries, is valid, can be explored, and is what we did. In this context, this book was developed with free and open-source software called Quarto, which is platform-agnostic. In our case, R and R Studio were the tools used to mediate our relationship with the documents and other files we created. Furthermore, all the code used for the book's production is publicly available on [GitHub](https://github.com/pablo-huascar/livro_pt_2024){.external target="_blank"}.
+
+In this new form of digital organization, we are also free from the linearity imposed by the analog medium. When we used a cassette tape, to get to the song we wanted to hear, we had to fast-forward to the point where it was. If we were watching a TV show and needed to go to the bathroom for a few moments, we would miss that crucial moment of the series where the entire plot was revealed. Today, we can even pause a live TV broadcast and return later.
+
+Thus, in a book, we had a series of printed words and pictures and would go from page to page to where we wanted. Visually impaired people needed a Braille version to access the material autonomously. In digital versions, the book does not need to have only words or pictures, and they do not have a concrete form. In this sense, concerning visual impairment, screen readers are common and increasingly accurate, which, as long as the material is properly organized, allows it to be accessed by blind or low-vision people. Even the figures, if audio-described (and in our case, they are), can be “read.”
+
+In this context, any of the chapters of this book can be accessed with a click, and there is a search tool to find terms or concepts one wishes to retrieve. Since we do not only need to have words, we can, for example, place videos wherever we wish and blocks for people to execute R codes. Here are some examples of how the possibility of bringing together various media in a single space was utilized in this production:
+
+-   The chapter “Clinic, Aesthetics, and Politics of Care: The Experience of Continuing Health Education in the Context of the COVID-19 Pandemic” addresses the experience of a course aimed at health professionals from various municipalities in Ceará, whose videos are available on YouTube. Readers of this chapter can watch the course videos directly within the book, as they have been interspersed with the words, paragraphs, and topics of the text.
+
+-   In “Podcasts on Psychology, Human Rights, and Contemporary Socio-Psychological Processes: Experiences of VIESES-UFC in the Pandemic Context,” some of the podcast episodes presented are available in the book's margin.
+
+-   The statistical analyses in the chapter “Work and Mental Health of Teachers in the Interior of Ceará During the COVID-19 Pandemic: Conclusive Technical Report of Research” were conducted using the R programming language, mentioned earlier. Thus, given the integration that Quarto allows, all the code used for data analysis is available to readers, which follows a trend of promoting open and reproducible science.
+
+-   Still on R, in the chapter “Report on the Course ‘Introduction to R for Data Analysis in Psychology’: Proposal and Construction,” it is possible to run R codes within the book itself. Some examples of topics covered by the course are presented, and readers can try executing some exercises on them within the chapter.
+
+These are examples of what can be done, and as researchers better understand these intersection possibilities, much more can be articulated. There is a universe of creativity to be explored.
+
+The third constraint does not depend solely on technological means to be freed from. It depends on a political struggle to rethink scientific production in Brazil, especially the ways of evaluating graduate programs, granting scholarships, and funding researchers. I have heard from more than one sensible voice that Einstein would never have an approved project in Brazil. Over the years, a neoliberal managerial logic has taken over Brazilian education at all levels and seems to have taken root in evaluation mechanisms.
+
+The formula is very similar to the financialization that has taken over companies: only the quarterly profit for dividend distribution and to increase managers' bonuses matters. Immediate profitability must come at any cost, even if it means making cuts that will take away innovation possibilities and, in the long run, render the company uncompetitive in the market.
+
+In graduate studies, what we see is: publish massively, even if they are absolutely irrelevant products, but that score points in the miraculously elaborated evaluation tables. The more you do this, the more access to resources and “prestige in the field” you will have, to perhaps someday do what you truly believe needs to be done.
+
+Obviously, we are not saying that all production is irrelevant; there are numerous innovations and discoveries that emerge amidst this perverse logic, but the caricature serves to show the path this model leads us down. With this caveat made, in the long run, it is necessary to denounce that this scoring table model applied to graduate studies can make scientific production voluminous but without any impact, whether in basic science, where we simply want to understand how the universe works, or in the attempt to solve the numerous problems the country faces.
+
+This model already has by-products: the trade in participation in collection books, whose advertisements claim to be “compliant with Qualis CAPES,” and perhaps even more ethically questionable, the sale of co-authorship in chapters. If the game is to score points, what's the problem with selling points to those who want or need them? The logic is simple: pay, publish, and score.
+
+And what do we do? We invent a pretty name to avoid going to the root of the problem: they are “predatory” publishers and journals. We will make endless lists to put them on our academic vanity bonfire, proclaim to the four winds that these practices need to be combated, and continue avoiding the discussion that really matters, which is to ask ourselves why the evaluation has this purely quantitative character based on questionable scoring criteria. There are ‘qualitative’ elements in the evaluation forms, but, in the end, it is the volume of “well-scored” production that counts, and the competition between programs is the basis of the evaluation system.
+
+In this sense, we will not criticize the people who organize and make money from this trade, even if the practice is morally questionable (tell us something in capitalism that isn’t?), nor the people who participate in it, because they are not the cause of the problem but the most obvious consequence of the model we are questioning. We will not criticize, but we have to ask ourselves: does anyone believe in the relevance of most of the “knowledge” generated in this academic fruit market? And this market arises from the managerial model that needs to create scoring tables to say who is more or who is less in this four-yearly ranking of graduate programs.
+
+A small addendum to show how this spreads throughout Brazilian education. Something similar happens in basic education when looking at large-scale assessments, a U.S. proposal that has already proven flawed there, but which is still treated with deference here due to the enormous influence that private foundations linked to large corporate groups have on educational policies. Several municipalities display advertisements showing the scores that municipalities and schools obtained in the Basic Education Development Index (IDEB). Political opponents will accuse managers of fraud to get the scores, but in many cases, there is no fraud in the sense they are accusing.
+
+The fraud lies in treating education as training children to solve Portuguese and math tests, the only subjects evaluated. This leads to what is called curriculum narrowing [@gesqui2015estreitamento; @rubio2020avaliacao], where all other subjects are relegated to second place. There are cases where history, geography, and any other subject teachers are pressured to teach the topics that will be covered in external assessments and abandon their content. If we think about it, even Portuguese and math are sidelined because they themselves do not matter, but rather the children's ability to solve the tests. Critical thinking, citizenship, scientific education, for what? What I need is to advertise how high the municipality's score was.
+
+Translating this statement to graduate studies: cutting-edge scientific production, solving the country’s problems, making discoveries about the universe, for what? What I need is to score, score, and score to reach the Olympus of grade 7. In both cases, what has this brought positive to society? Nobody cares because what is at stake is the quarterly result to distribute dividends to shareholders and give bonuses to managers. In this logic, the long term is for those who like to philosophize and not for those who like to make money or score.
+
+Here, another addendum: will we criticize those who play the game as it is set? Never! People are trying to survive in this jungle of competition that this evaluation model has created and are workers with precarious working conditions who, in the midst of all this, try to do something relevant for the world. What we can do is invite them to reflection and engagement in the struggle for better working conditions, which involves a profound change in how scientific production is evaluated in Brazil. Did you think we ourselves would abandon this game because there is no way? You thought wrong...! The first thing capitalism condemns us to is fatalism, and we will not surrender to it.
+
+As we said before, we purposely caricature the path of scientific irrelevance to which this model leads, but we recognize the struggle of teachers and researchers to produce high-level knowledge in a country that treats science and technology as something subordinate. If here we make the denunciation, it is not against the workers, but against the capitalist system that intertwined its financial logic in the management and evaluation of graduate studies and proclaims the end of history, as if nothing else were possible beyond the deepening of this perverse model.
+
+::: callout-warning
+The content of the chapters is the sole responsibility of the authors. The opinions and positions adopted do not necessarily reflect the views of PPGPSI, PPGPPPP, or the organizers.
+:::

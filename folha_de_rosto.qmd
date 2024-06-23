@@ -1,0 +1,61 @@
+---
+toc: false
+---
+
+# Title Page {.unnumbered}
+
+::: {style="line-height: 1;"}
+**Technical Productions in Psychology: Shared Experiences**
+
+**ISBN** 978-65-00-97283-2
+
+This book is distributed under the terms of the [CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/){.external target="_blank"}.
+
+**Published in Brazil**
+
+*Graduate Program in Psychology (PPGPSI) - Federal University of Ceará*
+
+Av. da Universidade, 2762, Benfica - CEP: 60020-180 - Fortaleza/CE – Area 2 of the Humanities Center - Didactic Block Prof. Ícaro de Sousa Moreira - 1st floor.
+
+*Professional Master's Program in Psychology and Public Policies (PPGPPPP) - Federal University of Ceará*
+
+Rua Coronel Estanislau Frota, 563 – Centro – CEP 62010-560 – Sobral – CE – Sobral Campus – Mucambinho
+
+**Cover Art**
+
+Nara Maria Forte Diogo Rocha
+
+**Cover Layout**
+
+Francisco Pablo Huascar Aragão Pinheiro
+
+**Text Revision**
+
+João Paulo Silva Matos
+
+::: {.callout-note appearance="simple" icon="false"}
+[joaopaulosmatos2\@gmail.com](mailto:%20joaopaulosmatos2@gmail.com)
+:::
+
+**Coding for Book Construction**
+
+Esthela Sá Cunha
+
+::: {.callout-note appearance="simple" icon="false"}
+## Beta Consulting and Academic Advisory
+
+<br> [beta.consultac\@gmail.com](mailto:%20beta.consultac@gmail.com)
+
+[\@beta_consultoria_academica](https://www.instagram.com/beta_consultoria_academica/ "Instagram"){.external target="_blank"}
+
+[https://esthela.quarto.pub/beta/](https://esthela.quarto.pub/beta/){.external target="_blank"}
+:::
+
+Francisco Pablo Huascar Aragão Pinheiro
+
+**Funding**
+
+This book was supported by the Ceará Foundation for the Support of Scientific and Technological Development (FUNCAP) \[process number: BP5-0197-00046.01.00/22\].
+:::
+
+![](./imagens/ficha-198318-1.png){fig-alt="Title and subtitle: Technical Productions in Psychology [electronic book]: shared experiences. Organization: Francisco Pablo Huascar Aragão Pinheiro, João Paulo Pereira Barros. Edition: 1st edition. Place of Publication: Fortaleza, CE. Publisher: Author's Edition, 2024. Format: PDF. Additional information: Various authors. Includes bibliography. ISBN 978-65-00-97283-2. Main subjects of the work: Articles - Collections. Psychology. Psychology - Research. Work indexers: I. Pinheiro, Francisco Pablo Huascar Aragão. II. Barros, João Paulo Pereira. Call number CDD: 150. Systematic cataloging indexes: Psychology 150. Cataloging by: Aline Graziele Benitez – Librarian – CRB-1/3129."}

@@ -1,0 +1,57 @@
+---
+toc: false
+---
+
+# Institutional Information
+
+::: {style="line-height: 0.5;"}
+### President of the Republic
+
+Luiz Inácio Lula da Silva
+
+### Minister of Education
+
+Camilo Sobreira de Santana
+
+### Federal University of Ceará – UFC
+
+::: column-margin
+[![](./imagens/brasao1_horizontal_cor_300dpi.png){fig-alt="The image shows the coat of arms of the Federal University of Ceará. The coat of arms consists of a blue shield with a golden diagonal band containing three green stars. Above the band, there are three torches with lit flames. Below the shield, there is a banner with the Latin motto 'VIRTUS UNITA FORTIOR' (Virtue united is stronger). The inscription 'UNIVERSIDADE FEDERAL DO CEARÁ' is positioned horizontally next to the shield, in uppercase letters and in black. The design is formal and represents the educational institution's visual identity, suggesting tradition and academic seriousness."}](https://www.ufc.br/)
+:::
+
+**Rector**
+
+Prof. Custódio Luís Silva de Almeida
+
+**Vice-Rector**
+
+Prof. Diana Cristina Silva de Almeida
+
+#### **Graduate Program in Psychology - PPGPSI**
+
+::: column-margin
+[![](./imagens/ppgpsi.png){fig-alt="The image shows the visual identity of the Graduate Program in Psychology at the Federal University of Ceará. On the left, the university's coat of arms, with three lit torches on a blue background, a golden band with three green stars, and the motto 'VIRTUS UNITA FORTIOR' on a white banner at the bottom. On the right, the text 'UNIVERSIDADE FEDERAL DO CEARÁ' in large, uppercase black letters and below, in smaller font size, 'PROGRAMA DE PÓS-GRADUAÇÃO EM PSICOLOGIA', centered relative to the text above. The set conveys the association of the specific academic program with the higher education institution."}](https://pospsi.ufc.br/pt/)
+:::
+
+**Coordinator**
+
+Professor Aluísio Ferreira de Lima
+
+**Vice-Coordinator**
+
+Professor Paulo Coelho Castelo Branco
+
+#### **Professional Master's Program in Psychology and Public Policies - PPGPPPP**
+
+::: column-margin
+[![](./imagens/ppgpppp.png){fig-alt="The image shows the visual identity of the Professional Master's Program in Psychology and Public Policies at the Federal University of Ceará. On the left side, there is the university's coat of arms, with three lit torches on a blue shield, decorated with three green stars and surrounded by a band with the motto 'VIRTUS UNITA FORTIOR'. On the right, in large black letters, it says 'UNIVERSIDADE FEDERAL DO CEARÁ' and below, in slightly smaller font size, the name of the program: 'PROGRAMA DE PÓS-GRADUAÇÃO PROFISSIONAL EM PSICOLOGIA E POLÍTICAS PÚBLICAS', centered relative to the university's name above. The composition of the text and coat of arms conveys formality and associates the specified program with the educational institution."}](https://psipolpublicas.ufc.br/pt/)
+:::
+
+**Coordinator**
+
+Professor Francisco Pablo Huascar Aragão Pinheiro
+
+**Vice-Coordinator**
+
+Professor Paulo Henrique Dias Quinderé
+:::
