@@ -16,7 +16,7 @@ book:
   cover-image: cover_pt.png
   cover-image-alt: |
     The image displays the cover of the book *Technical Productions in Psychology: Shared Experiences*. At the top of the cover, in smaller black font, are the acronyms PPGPSI and PPGPPPP, followed by the name Federal University of Ceará, indicating the association with the institution. The main title is presented in large, bold letters, with *Technical Productions* in green and *in Psychology* in black. Below this is the subtitle *Shared Experiences* in smaller, italic font. Centered on the cover is a drawing of a bird, a caracara, in flight with its wings spread and its body facing left, outlined in black strokes. The bird is carrying a snake in its talons. Below the drawing, in smaller black letters, are the names Francisco Pablo Huascar Aragão Pinheiro and João Paulo Pereira Barros, followed by *Orgs.*, suggesting they are the editors of the publication. The cover has a light background, and the overall design is simple.
-  repo-url: https://github.com/pablo-huascar/livro_pt_2024.git
+  repo-url: https://github.com/pablo-huascar/livro_pt_2024_en.git
   repo-branch: main
   favicon: cover_pt.png
   reader-mode: true
