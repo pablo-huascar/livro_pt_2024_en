@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 7dcec41c-fa8a-4e53-8d6a-825155e058d9
+      url: 'https://fphap.quarto.pub/pt-psi-en'

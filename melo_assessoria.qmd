@@ -1,0 +1,154 @@
+---
+author: 
+  - name: Carolina Silveira Leitão Melo
+    orcid: 0000-0002-9397-5098
+    url: http://lattes.cnpq.br/1876555616462121
+    email: leitaoscarolina@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Viktoria Braga Leite
+    orcid: 0000-0003-4139-9161
+    url: http://lattes.cnpq.br/4437365971976104
+    email: viktorialeite1010@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Julia Mesquita Lopes
+    orcid: 0009-0006-0616-1798
+    url: http://lattes.cnpq.br/5065932639924858
+    email: juliamesquita_lopes@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Maria Lídia de Farias Araújo
+    orcid: 0000-0002-5911-9327
+    url: http://lattes.cnpq.br/3595437832137996
+    email: lidiadoisdo4@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Dária Maria Barbosa Dedê
+    orcid: 0009-0005-6962-1694
+    url: http://lattes.cnpq.br/5895095834187930
+    email: dariadede2110@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Ana Laís Carvalho de Sousa
+    orcid: 0000-0002-7300-0402
+    url: http://lattes.cnpq.br/6232262336638923
+    email: analaisc1@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Renata Guimarães de Carvalho
+    orcid: 0000-0002-3592-7709
+    url: http://lattes.cnpq.br/6991808774604401
+    email: renatagui.carvalho@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+filters:
+  - section-bibliographies
+bibliography: melo_assessoria.bib
+reference-section-title: References
+---
+
+# Reflective Group on Mental Health at Work: An Experience Report in a Public Services Organization
+
+## Introduction
+
+The context of the COVID-19 pandemic brought numerous challenges and uncertainties that affected the physical and mental health of the general population. Work environments were impacted, and workers underwent adaptation processes in their functions—both remotely and in person—experiencing a new routine involving isolation or exposure to risk situations of contamination [@antunes_fischer_2020; @helioterio2020].
+
+Guilland et al. [-@guilland2022], based on a study conducted in 2021, affirm that the groups that presented the highest risk of developing symptoms of anxiety and depression were frontline workers, women, individuals who, even not being on the front line, maintained contact with diagnosed or suspected COVID-19 cases, and workers who were not in total isolation. In the latter case, levels of psychological distress were accentuated by the fear of personal and family contamination, especially for professionals who needed to continue performing their activities in person.
+
+In this context, the field of studies and interventions in Work-Related Mental Health (SMRT) applies, which presupposes that the health-disease process is impacted by social determinants and that the physical and mental dimensions of the subject are inseparable. In this sense, studies on health and mental wear must articulate macro-social aspects, such as labor, organizational, productive, and technological transformation processes, and micro-social aspects, such as specific work situations and workers' life trajectories, to understand the labor contribution both to health strengthening and to the intensification of suffering and the determination of mental disorder conditions [@seligmann2011trabalho]. Work-related mental and behavioral disorders express illness processes "determined by places, time, and work actions" [@jardim2010diagnostico, p. 50], not emerging from isolated factors but from pathogenic work contexts capable of generating or contributing to the emergence of psychopathological symptoms.
+
+In this sense, the Laboratory of Studies on Subjectivity and Health at Work (LESSAT) at the Federal University of Ceará/Campus Sobral proposed to carry out actions focusing on promoting mental health among workers in the pandemic context as a way to prevent illnesses. Thus, at the end of 2021, it received and accepted the request to conduct a group on mental health and work with employees working in a public service concessionaire organization in the city of Sobral (CE). The requesting organization was private and operated as a citizen service center, with public service and a high flow of people in its facilities. Due to the essential nature of the institution's service provision, the service workers did not remain in social isolation during the second wave of COVID-19, at the beginning of 2021.
+
+At the end of 2021, after a year of the return to in-person activities, the company's managers sought LESSAT, bringing reports of employee absenteeism, demands related to organizational indicators, and the need to create an in-person psychological support group addressing mental health topics. Cases of contamination and loss of close relatives due to the new coronavirus were also reported, indicating that these employees were part of the group most affected regarding mental health during the pandemic.
+
+LESSAT, based on the collected information, developed the proposal for a "Reflective Group on Mental Health and Work" [@silva_bernardo_2018] to develop a space for reflection, reception, and dialogue on care and self-care strategies in mental health, non-psychotherapeutic in nature, where workers' experiences could be shared. This proposal was accepted by the organization's managers in a meeting held at the beginning of 2022, with a preliminary schedule defined for the start of project actions in March of the same year.
+
+Thus, this chapter consists of an experience report regarding this psychosocial intervention action, characterized as an advisory service as a technical product in psychology, and aims to describe and reflect on the construction and implementation of a mental health group at work within a public services organization.
+
+## Methodological Path
+
+In constructing this advisory action, we sought to understand psychosocial intervention as a process that begins with demand analysis, objective definition, and activity planning; then moves to execution; and finally evaluates the results obtained and suggests directions for future actions. This cycle is flexible, dialogical, and subject to changes according to the needs of the target audience [@neiva2010intervencao].
+
+LESSAT, having as one of its main objectives the study and intervention in health and subjectivity in work contexts, shares the view that workers are protagonists of their daily practice. Therefore, the choice of the intervention tool, the reflective group, is aligned with this understanding since the group can provide experiences that facilitate a cooperative attitude and an active posture towards the lived work situation, as well as point to the construction of individual and collective strategies to improve the quality of life of these individuals [@silva_bernardo_2018].
+
+Following these premises and understanding that workers are protagonists of their work activity [@oddone2020ambiente], the group's construction happened collaboratively between laboratory members and participants. Initially, six meetings were aligned with the management, from March to August 2022, but, at the participants' request, the project was extended by another month, totaling seven meetings (the conclusion occurred only in September of the same year). They took place in suitable rooms located within the company, with a monthly frequency and an average duration of two hours (although, in some situations, this time was exceeded).
+
+As methodological strategies, conversation circles, dynamics, mediating materialities, videos, news, and Mindfulness practices were used. The meetings always included three laboratory members: one main facilitator, present throughout the group's functioning, and two auxiliary facilitators, who varied at each meeting. A new planning occurred gradually after each meeting, respecting the participants' movement and needs.
+
+Field diaries and photographs (with participants' authorization) were used to record the actions. After each meeting, experiences and perceptions were recorded to have a subsequent object for analysis, considering the facilitators' personal information and impressions, as well as the relationships established in the field, among other aspects that could enrich the group's construction process [@silva_bernardo_2018].
+
+Additionally, in LESSAT's weekly meetings, which took place after each meeting, discussions were held that contributed to the planning, continuity, and recording of activities.
+
+## Results
+
+After meetings with managers to prospect the demand, a LESSAT member visited the company to make the first contact with the workers, present the laboratory, the objectives, and the group proposal. This moment took place during the team's alignment meeting, which happened daily at the end of the workday.
+
+After this visit, a virtual interest form was sent to the company's management containing fields to be filled out with general information (name, age, email, marital status, education, position, and work time), as well as guidelines on the group's methodology (clarifying that it was not a psychotherapeutic group), in addition to questions that contributed to the format and topics to be addressed, such as: "Why the interest in participating in the group?"; "What are your expectations?"; "What topics would you like to be addressed?"; "What types of mental health care are you looking for or have you sought?".
+
+This instrument confirmed the company's perception regarding the developments of the pandemic concerning mental health, with this subject pointed out by the workers as one of the main topics of interest, along with the feeling of exhaustion. Factors such as stress, mental balance, stereotypes, anxiety, and depression were brought up by them, as well as the expectation of having a space to express their emotions and perceptions more openly and collectively. The need for sharing was present in all meetings, so we sought to enable contact with the topics more fluidly, respecting the group's interests.
+
+Initially, the group consisted of 15 participants, considering the functioning during working hours, the need for participants to leave their workstations, and the impossibility of sectors closing completely. The selection criteria for participants were decided by the company, which was responsible for mapping the interested parties according to their sector, selecting attendants, partners from companies working in the consortium, and members of the welfare team.
+
+Initially, the 15 vacancies were filled, but during the process, some members left the institution, and the group ended with 11 members—one male and 10 female. A closed group format was defined, with no possibility of new members due to the continuity of actions. Therefore, attendance records were collected by the human resources department during all meetings.
+
+In the first meeting, participants were welcomed through a mindfulness practice stimulating the five senses. The goal was to bring attention to the present moment, providing disconnection from the hectic work environment and greater participation in the proposed activities. The room used had a multifunctional character, allowing the team to carry out different daily activities. The mindfulness practice, whose literal meaning is full attention, was a way to make this space connect with the activities being initiated, taking the team out of an "automatic mode" of behavior.
+
+The facilitators were introduced, and the group's objectives, duration, dates, and times were presented. Subsequently, a dynamic was conducted where five teams were formed to introduce themselves and find something in common that they liked in the work environment, aiming to stimulate sharing and speaking in the group environment and opening space for participants' expectations regarding the meetings. The topic of mental health at work was presented, using data and studies to raise awareness of its importance for future reflections. As presented by them in the initial form, the need to speak emerged as an important demand, so some planned actions did not materialize as the laboratory team prioritized this direction.
+
+In the second meeting, participants were again welcomed through mindfulness activities. The room was partially lit, with serene background music, and the chairs were arranged in a circle with pieces of bubble wrap on top. In the center, a "carpet" with the same material was prepared, and participants were invited to take off their shoes and walk on it. This moment was designed to help them slow down with a relaxing and welcoming environment.
+
+It was observed that they were already more attentive to the room's stimuli (smell, sounds, images), as in the first meeting, they noticed acting in automatic mode and had difficulty observing their surroundings more sensitively. Some showed insecurity in taking off their shoes and enjoying the experience, needing encouragement in some situations—despite a sign inviting them to do so. These behaviors were later discussed collectively.
+
+The main topic of the meeting was burnout and exhaustion in the work environment, as these elements had great prevalence in the form and the first meeting's sharing. To this end, a conversation circle was organized, and in the center of the room, current reports on this subject were placed. From this, various personal situations were reported, making it possible to notice an emerging demand for speech (which influenced time management for the planned activities).
+
+At the end of the meeting, constructing a coexistence contract (pending from the previous meeting) was proposed based on principles that participants considered necessary for the group's proper functioning, as well as the establishment of rules that would guide the group throughout the period of activities. Finally, the meeting concluded with listening to participants' perceptions about the addressed topic, setting the next date and the following month's topic.
+
+After the first two meetings, the need to offer fewer activities and open up more for sharing was aligned in the LESSAT team's planning meetings, allowing participants to suggest the topic based on their interests and reflections in the meetings. In each one, a snack was provided, which was available and could be accessed according to each worker's needs. However, it was noticed that they preferred this moment to happen collectively, so the snack became part of the planning. Although they worked together daily, they said they had few interaction moments, so the practice was included considering this movement.
+
+The third meeting's theme was "coloring life" and involved a reception activity where participants were invited to paint something about their routine. For this, the room was prepared with cushions and mats on the floor in a circle, and in the center were placed posters, colored paints, brushes, and an invitation to paint. On the screen, calm music with color explosions was played, and the video "Choices" was presented, proposing a reflection on the daily work routine and self-care through the metaphor of coloring the day with simple actions.
+
+Later, participants were invited, through generating questions, to reflect and list individual self-care actions, involving both activities they already practiced and actions they would like to do but did not, to discriminate the obstacles preventing them. Upon finishing the list, those who felt comfortable could share their impressions of the individual activity with the group, fostering collective reflection and relating them to the self-care concepts previously presented.
+
+Finally, each participant was asked to choose a self-care activity to be carried out until the next meeting, aiming to encourage using the concepts outside the group, create a link between meetings, and potentially develop meaningful activities for each subject. This meeting had a more introspective characteristic, both for the activity and the collective itself (which presented a greater need for silence).
+
+The fourth meeting differed by occurring in another space within the company: the break room—daily used by participants during the shift break. Workers were received with chocolates and self-care phrases, and in the center of the room were spoons with homemade brigadeiro for them to taste.
+
+A mindfulness practice with food was conducted, reflecting on the need to be present in simple daily activities and the relationship between presence and self-care. Many shared that they no longer felt the taste of food when eating and that, even when not at work, they ate quickly, as if they had little time to enjoy. Thus, stopping to savor the food brought this perception of disconnection from daily activities.
+
+As the snack was included in the program, this moment was used for them to share the self-care activities each had chosen to practice during the meeting intervals. Some shared they had succeeded, and others had not, summarizing the process and being welcomed by other members in both situations.
+
+As the third meeting saw a more introspective group, a more active dynamic was proposed. Since it occurred in June, the hot potato dynamic, which alludes to the celebrations in the Northeast during this period, was used. To the sound of quadrilha music, a box was passed around the circle, and when it stopped, the person holding it had to open and read the question. Inside the box were questions about self-care, aiming to deepen the discussions made in the previous meetings and present concepts contained in a booklet prepared by LESSAT.
+
+The fifth meeting also took place in the break room at the workers' request, and the initial dynamic consisted of offering a relaxing and introspective moment. Warm water containers and a foot soak were placed in the room, and participants were invited to remove their shoes and rest their feet in the water. From this, a reflection was made on participants' self-care forms, which do not always require a high financial investment (as this was a factor presented as an obstacle for some in the activities chosen in the last meeting).
+
+The meeting's theme was self-compassion, the need to welcome oneself and respect one's limits. To start this reflection, a mindfulness practice called the soothing touch [@neff2017autocompaixao] was facilitated, in which self-welcoming is performed through touch. Participants shared how they felt during the practice, the facilities and limitations related to respectful touch and self-welcoming agitation. Each participant related situations in their lives with the respect perceived in the group regarding the welcome and safety they felt when bringing reflections on self-care. At the end, an activity was proposed that consisted of writing a letter to oneself, to be done that week and reread on the eve of the next meeting.
+
+Between the fifth and sixth meetings, there was a longer interval. According to the proposal, the sixth meeting was supposed to be the last, but, as mentioned earlier, the proposal was extended. The room was prepared intimately with candles and low light, and the question "Have you looked at yourself today?" was projected on the wall while Lenine's song "Patience" played.
+
+The practice aimed to seek a deeper look at oneself, the other, the limitations, and the details of being in today's society. The dynamic of observing the other's gaze and the sensations that can arise from this experience enabled this reconnection as a group due to the more extended period without meetings. The discomfort of observing and being observed and sustaining a gaze even with someone seen daily (bringing this perception of distance, even being physically very close) was shared.
+
+The main theme was the need for rest, leisure, breaks, and leisure. To this end, a conversation circle was held after showing an episode of a series that addressed chronic fatigue in contemporary society. The circle was guided by generating questions displayed in the room's center: "Does free time need to be productive?"; "Active life or multitasking"; "Constant need to optimize time"; "Is my leisure fun or obligation?"; "Do I feel guilty for idleness?"; "Recurrent feeling of 'not enough time'"; "Is the cell phone rest or prison?"; "Productivity goals"; "Success or self-exploitation?".
+
+The seventh and final meeting took place in the break room and focused on closing and evaluating the project's actions. Participants were received with dim lighting and ambient sound, with snacks served and printed photos of all meetings' records exposed on the chairs (chosen according to each one's preference), bringing back the memories of lived events, those who did not continue in the group, and the reflections built. During the snack, each one shared why they chose that photo with the group and their main memory of the activities.
+
+In this context, the final activity was called "store in a jar." Participants were given jars with tags available in the room, colored papers, and pens, on which they should write what they would take from that experience, that is, what they would store in a jar to retrieve later. They should name their jar, write their learnings, and share them with the group. Many brought self-care, self-respect, the need to be present in activities, and to get out of an automatic behavior pattern. They affirmed how the meetings evolved over time and how they felt welcomed and safe to share about themselves.
+
+## Discussion
+
+From the historical perspective of humanity, work has been one of the main drivers of social existence, enabling the subject to build identity, bonds, and support; have a purpose; obtain status and prestige; and be a source of income and subsistence. Thus, the importance and centrality of work are evident, as well as its potential to directly impact workers' health—positively or negatively [@alencar_merlo_2018; @seligmann2011trabalho].
+
+Some relevant aspects perceived in the reflective group meetings demonstrated that participants were mobilized regarding mental health topics and the application of daily self-care actions. However, the lack of time and resources were pointed out as obstacles to achieving better quality of life. Regarding this, Dejours, Abdoucheli, and Jayet [-@dejours1994psicodinamica] emphasize that workers can not only reconstruct the logic of pressures that cause them suffering but also develop defensive strategies to deal with destabilizing and pathogenic effects related to work, contributing to maintaining the current situation. Despite the ongoing difficulty in establishing a causal link between work and mental health, Souza and Bernardo [-@souza_bernardo_2019] point out that there is much evidence of the relationship between suffering expressions and work organization as factors that can significantly affect workers' health.
+
+It is worth noting that there were occasional interruptions during meetings due to work demands (such as when a participant was asked to leave for a moment), causing disruptions like breaking the reasoning during thematic reflections. Some workers also left the group as they received demands during meetings, even though the company agreed that they should participate fully in the group without interruptions. These events relate to a current work model increasingly directed toward productivity and maintaining high performance levels, which can generate work intensification and a sense of exhaustion [@antunes_praun_2015].
+
+In this sense, although the pandemic context was the driving force for the organization to seek ways to address its employees' mental health demands, participants did not place special emphasis on the pandemic theme during the meetings. Therefore, it is understood that the pandemic aggravated various social, health, and economic issues and brought visibility to previously socially neglected needs (such as mental health) that date back to an earlier period [@schmidt_crepaldi2020; @souza_bernardo_2019]. This is because pre-pandemic data indicated that cases of depression, suicide attempts, anxiety manifestations, substance abuse, stress, emotional exhaustion, among other manifestations of suffering, were increasingly common, ranking as one of the leading causes of work absenteeism in the country [@souza_bernardo_2019].
+
+A counterpoint to the hegemonic work logic, which exalts competitiveness and productivity, is the strengthening of bonds between workers and the intermediation of social support, positively constituting a protective health factor associated with well-being [@paschoal_torres_porto_2010]. Colleagues' support or the perception of possible support can contribute to reducing absenteeism, better performance, higher job satisfaction, greater creativity and innovation, lower turnover intention, among others [@oliveira_gomide2018]. Thus, establishing a space and time where workers could interact more personally and build bonds—such as in the collective snack experience—characterized an essential moment of connection and social support perception in the group.
+
+The experience also created a bond between participants and facilitators, established through shared information (many of them beyond the work context). The implementation of a methodological strategy that privileged the sharing of affections and collective interaction was fundamental for achieving this result. Using various expressive resources, revisiting topics raised in the previous meeting to establish continuity and process fluidity, and feedback from workers about how they felt and thought during the period preceding the meeting, all these elements allowed the participant a broader contact with themselves and others, establishing new relationship possibilities in the work environment.
+
+A positive fact is the managers' intention to continue the project with new participant groups, indicating the recognition of the relevance of actions that favor workers' well-being and mental health and the purpose of offering these actions within the work environment and during working hours.
+
+From the group's realization, it was possible to perceive the importance of promoting spaces and discussions that foster reflection on the addressed topics, which comprise the interaction field between mental health and work. The strengthening of bonds, awareness of harmful behavior patterns, and the importance of self-care and self-compassion as valid strategies for dealing with pressures fomented by work conditions and organization are emphasized. A limitation of this intervention is the difficulty of reflecting on the relationship between mental health and work beyond the group, which could result in a broader process of transformation and care, involving work conditions that contribute to workers' suffering and illness.

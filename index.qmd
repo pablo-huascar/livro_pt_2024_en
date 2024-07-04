@@ -16,14 +16,15 @@ language:
   title-block-author-plural: "Editors"
 filters:
   - section-bibliographies
-bibliography: index.bib
+bibliography: intro.bib
 reference-section-title: References
+citeproc: false
 toc: false
 ---
 
 # Introduction {.unnumbered}
 
-Commenting on the construction of this book means discussing a technical production. According to the latest CAPES classification [@hemerly2019producao], a publishing product is defined as resulting from “the processes of editing and publishing fiction and non-fiction works. It includes planning and executing, intellectually and graphically, books, encyclopedias, preparing texts, illustrations, layout, etc., linked to the Program (projects, lines, students/graduates)” (p. 41). Broadly speaking, this is what we did, and by this definition, we are well-aligned.
+Commenting on the construction of this book means discussing a technical production. According to the latest CAPES classification [@hemerly2019prod], a publishing product is defined as resulting from “the processes of editing and publishing fiction and non-fiction works. It includes planning and executing, intellectually and graphically, books, encyclopedias, preparing texts, illustrations, layout, etc., linked to the Program (projects, lines, students/graduates)” (p. 41). Broadly speaking, this is what we did, and by this definition, we are well-aligned.
 
 That said, it is necessary to state that producing this book was a way to free ourselves from some constraints, although we are still bound to another, not by choice, but by an institutional framework that we can at least qualify as questionable. We will return to this particular institutional constraint later.
 

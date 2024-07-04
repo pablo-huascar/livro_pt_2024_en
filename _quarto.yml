@@ -4,9 +4,14 @@ number-sections: false
 indent: true
 
 book:
+  sidebar:
+    tools:
+      - icon: translate
+        href: https://fphap.quarto.pub/pt-psi/
   page-navigation: false
   title: "Technical Productions in Psychology"
   subtitle: "Shared Experiences"
+  isbn: "978-65-00-97283-2"
   page-footer:
     right: | 
       This book was built with <a href="https://quarto.org/">Quarto</a>.
@@ -39,6 +44,13 @@ book:
       chapters:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
+        - melo_assessoria.qmd
+        - rodrigues_relatorio_tecnico.qmd
+        - costa_assessoria_saae.qmd
+        - sampaio_assessoria.qmd
+        - lima_assessoria.qmd
+
+
 
 format:
   html:
@@ -57,7 +69,7 @@ format:
     code-copy: true
   
 
-    author-meta: "Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros"
+    author-meta: "Francisco Pablo Huascar Aragão Pinheiro and João Paulo Pereira Barros"
 
 editor: visual
 csl: apa.csl

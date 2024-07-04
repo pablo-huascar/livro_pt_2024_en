@@ -1,0 +1,294 @@
+---
+author: 
+  - name: Gabriele Sousa Costa
+    url: http://lattes.cnpq.br/6196583625689808
+    orcid: 0000-0003-2905-4144
+    email: gabrielesousa304@gmail.com 
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Nayana Rios Nunes da Silva
+    url: http://lattes.cnpq.br/7512339128002498
+    orcid: 0000-0001-5182-2344
+    email: nayanarios87@gmail.com 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Marinara Nobre Paiva
+    url: http://lattes.cnpq.br/3568578397107591
+    orcid: 0000-0003-4084-5289
+    email: marinaranobre@alu.ufc.br
+    affiliations: 
+      - name: Faculdade Anhanguera
+  - name: Renata Guimarães de Carvalho
+    url: http://lattes.cnpq.br/6991808774604401
+    orcid: 0000-0002-3592-7709
+    email: renatagui.carvalho@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Kallyne Rose da Silva Rodrigues
+    url: http://lattes.cnpq.br/7390990722343792
+    orcid: 0009-0001-0697-4493
+    email: kallynerose@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Quitéria Alves Melo
+    url:  http://lattes.cnpq.br/4267116496336781
+    orcid: 0000-0002-2831-1631
+    email: quiterialvesm@gmail.com 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+      - name: Universidade Federal do Rio Grande do Norte
+  - name: Francisca Valéria de Sousa
+    url: http://lattes.cnpq.br/0363852725072024
+    orcid: 0000-0002-5232-8812
+    email: valeriasousa0140@gmail.com 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Giovana Mayra Liberato de Lima
+    url: http://lattes.cnpq.br/3966197000035755
+    orcid: 0000-0002-6442-8917
+    email: giomayra@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Luiza Silva de Lima
+    url: http://lattes.cnpq.br/5503141889077701
+    orcid: 0009-0009-8400-6381
+    email: luizasilvv@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+filters:
+  - section-bibliographies
+bibliography: costa_assessoria_saae.bib
+reference-section-title: References
+---
+
+# “If I take the service and don't solve it, he thinks the problem is me”: consultancy report on an  intervention with customer service professionals
+
+## Introduction
+
+Customer service is essential for mediating interests between the organization and its clients. Although it may seem like an easy task, it promotes significant conflicts in the workplace. Regarding mediation work, different understandings are perceived, for example, the institution, which seeks to transform the attendant into a personification of the company's interests, and the user, who often does not recognize the worker's individuality and holds them responsible for all their demands [@ferreira2000serv_atend_publico].
+
+Teleoperators, in particular, have a script that describes the procedures to be performed in contact with the public. However, according to these workers, this script does not match the reality encountered when performing the activity, given unforeseen problems brought mainly by users [@ziliotto_oliveira_2014].
+
+In a study with former telemarketing professionals from two companies in Salvador, Jesus et al. [-@jesus_benevides_dutra2019prejuizo_alforria] found that workers considered working conditions in the customer service sector inadequate. They pointed out pressures related to meeting goals and intimidations from managers with threats of dismissal. The authors stated that although participants deemed relationships built in the workplace important, mainly in supporting colleagues, many noted that such a sense of belonging to the collective could not combat the fear they felt from institutional rules. Additionally, some health repercussions, such as physical and mental exhaustion, were highlighted.
+
+Teixeira and Moreira [-@teixeira_moreira_2021] point out that call center companies' control over productivity and interpersonal relationships of attendants has contributed to their psychological suffering. The lack of freedom in performing activities and punishments for failing to reproduce the company's script proved harmful to workers' health, who began to manifest feelings of anger, fear, mental exhaustion, and anxiety. Additionally, the impacts caused by the workday, such as the limited time to go to the bathroom or have meals, were highlighted. Pereira [-@Pereira_2022], in a study on the experiences and perspectives of former call center workers in Pernambuco, also found that operators had limited time to go to the bathroom and often needed to explain to supervisors when they took too long.
+
+According to Pacheco and Rosa [-@pacheco_rosa2016estresse_fatores], in a study conducted with attendants of a medical clinic in Brasília, the main stress factors in the workplace were related to the lack of recognition in performing activities, sector conflicts, pressure from managers, and work overload. Furthermore, they found that the violent manner in which clients expressed themselves and complaints about service also contributed to workers' stress. However, it was found that most participants dealt positively with this condition, as they did not easily let problems affect them and usually gave their best to achieve the company's proposed goals.
+
+In the Brazilian context, Rocha and Aguillera [-@rocha_aguillera_2016] pointed out that turnover in the call center department was associated with excessive demands, control over workers' bodies, and low salaries. The authors also highlighted the challenges for professional growth, such as prioritizing robotic and statistical work, which disregards attendants' knowledge and potential. It was further observed that many remained in the sector to sustain personal life or academic training.
+
+Ribeiro et al. [-@Ribeiro2019] conducted a study with 363 call center operators in companies in Montes Claros-MG. They identified higher stress levels among call center operators. This can be explained by gender issues, as women are burdened with reproductive work, i.e., care performed in the domestic environment. Additionally, these operators' stress levels, regardless of gender, are higher compared to professionals who tend to deal with greater pressures, such as doctors and military police.
+
+Regarding work during the covid-19 pandemic, Brandão and Ramos's [-@brandao_ramos_2023] study with teleworkers in Portugal pointed out that the virtual modality enabled companies to continue their economic activities even in a difficult scenario. Regarding participants' perception, they presented, as a positive point, the well-being feeling when receiving good working conditions from the institutions and, as a negative point, the reduced interaction among peers.
+
+Additionally, Santos et al. [-@dos_santos_saraiva_da_silva_marolla_2022], in a study with 652 Brazilian managers and subordinates, pointed out that many workers felt unprepared to perform their tasks during the pandemic. The authors observed that one reason for professionals' insecurity was the limited time organizations had to transfer their activities from in-person to virtual mode.
+
+This study reports consultancy provided to the customer service sector of an Autonomous Water and Sewage Service (SAAE). This SAAE was located in a city in the interior of the state of Ceará. The intervention was conducted by the team of the Laboratory of Practices and Research in Psychology and Education (LAPPSIE) at the Federal University of Ceará, Sobral Campus.
+
+The SAAE had two hundred and fifty workers, who were responsible for maintaining water supply to 72,000 residences and treating sewage for over 45,000 households. The customer service sector had fourteen workers distributed among in-person, virtual, and telephone service modalities. In-person service was responsible for mediating the relationship between users and the institution, handling requests such as water connection and inspection services, sewage services, issuing duplicate bills, debt statements, and negotiations.
+
+Virtual service was created in 2020, during the covid-19 pandemic, to continue the services already provided by in-person service and to expand communication with users. Despite the end of the need for social isolation, this service modality was maintained. Regarding telephone service, complaints, requests, suggestions were received, and users were provided with clarifications.
+
+Given this scenario, the SAAE's people management sector identified, through employee reports, a demand related to illness and suffering arising from the work context. Among the difficulties pointed out by workers were the absence of task prescriptions and training. Instructions and rules on how to proceed were passed on by other attendants who had been in the sector longer, which created impasses, as each person's way of dealing with demands was different.
+
+Thus, after evaluating the demands, the intervention team proposed using the elaboration of a procedure manual as a way to mediate the discussion among workers about the activity performed. As will be seen later, this process of collective reflection on work and the construction of new ways of acting implies health improvement. Additionally, the produced document could help build prescriptions for workers and guide new attendants joining the sector.
+
+### Theoretical Foundation: Clinic of Activity
+
+The intervention team used the Clinic of Activity as a theoretical and methodological framework. This methodology has the premise of transforming and understanding work as inseparable processes [@clot2017clinica_atividade]. Thus, unlike traditional approaches in work psychology, the intervener does not occupy an expert position, dictating or establishing procedural norms. Instead, they act as a mediator of the work analysis process, conducted jointly with workers as they develop their activities [@clot2013oficio_saude].
+
+In this case, the intervention team's role was not only to describe the activities that should be performed by the attendants and transpose them into the Manual. Their goal was to mobilize the collective of workers to assume the position of experts in their activities to collectively build successful ways of performing the work. Once this position is established, work transformation is based on developing professionals' power to act, which is essential for promoting work health.
+
+From this perspective, work is structured through the architecture of the trade. This is responsible for shaping the particularities of each professional activity. To do this, this architecture develops through four dimensions, namely: impersonal, corresponding to the prescriptions established by the organization; interpersonal, referring to relationships between peers, service users, and supervisors; personal (style), concerning the worker, their uniqueness, subjectivity, and individual activity; and, finally, transpersonal, which corresponds to the culture of the work collective. This dimension is established through implicit norms built by workers that guide the activity similarly to official prescriptions [@clot2010trab_poder].
+
+Transpersonality occurs through the memory of the work collective. Therefore, while it does not have a determined commander, it allows all workers to appropriate it and perform their work without constantly reinventing themselves in the face of each unforeseen event [@clot2010trab_poder].
+
+## Method
+
+### Clinic of Activity as a Methodological Approach
+
+Clot [-@clot2010trab_poder] distinguishes the approach taken by the Clinic of Activity from traditional intervention strategies. While the latter consists only of recommendations, the former's objective is to introduce a methodological tool that can become an action device for the group of workers. In this sense, work analysis seeks to help the collective reestablish their power to act, developed from the appropriation of jointly constructed tools for action. Thus, the methods employed aim to revitalize professional activity as well as the elaboration of knowledge around this dynamic.
+
+At this point, it is essential to establish the distinction between performed activity and real activity to understand this clinical approach. This differentiation derives from a previous one: that between prescribed task and activity. The notion of a task refers to what should be done in a specific work situation under the conditions and rules defined by the organization [@souto_lima_osorio_2015]. Nevertheless, the performed activity, which encompasses the observable dimension of action, does not encompass the real. In other words, what the worker does is a set of actions that won a conflict between various possibilities. It is precisely on these possibilities that the concept of real activity rests.
+
+In this sense, the activity is no longer reduced to what is done, i.e., the performed does not hold a monopoly on the real. The set of suspended and impeded actions, along with the performed activities, form a discrepant unit. Expanding the power to act, at this point, means “using one's experiences to make other experiences” [@clot2010trab_poder, p. 147]. Clot [-@clot2010trab_poder] states that in work, the subject, when not impeded, constantly reinvents their tools, making clear the assimilation of this creative nature by the Clinic of Activity for understanding work activity [@souto_lima_osorio_2015].
+
+This is why the Clinic of Activity employs indirect methods of analysis. The real activity cannot be accessed directly, either by the interlocutor or the subject. The term indirect highlights the proximity between the proposal presented here and the historical-cultural perspective, with Lev Vygotsky as its main exponent [@souto_lima_osorio_2015].
+
+Thus, the intervention used the construction of the procedures manual to mediate attendants' reflection on their work, to access the real activity and enable the construction of new means of action. In this sense, it was intended that the work collective's interactions throughout the intervention would help strengthen the professional genre, considering the stylistic solutions found by each worker that could be shared.
+
+#### Clinic of Activity and Historical-Cultural Psychology
+
+Vygotsky [-@vygotsky1995obras] is interested, among other things, in human development and states that the foundations for this process are provided by social relations, specifically interaction and the transmission of human history, made possible by the existence of language. In this sense, individual activity has the social as its source, from which it develops. From this, the individual detaches from social modes of conduct and creates their action.
+
+For Vygotsky, the sign system, a human production, occupies a privileged position for the role it plays in the institution and the social and cultural evolution of individuals [@pino1995semiotica_cognicao]. Furthermore, for the Russian author, object and method maintain a close relationship. The definition of the research problem and investigation tools occur simultaneously, so the method is both a principle and a product of the investigation. Thus, it is necessary to recognize the attribution of semiotic mediation to human psyche, in such a way that if individuals' relationship with the world is indirect and mediated by psychological instruments, the investigation must consider this and use indirect methods, assuming a historical developmental principle [@vygotsky1995obras].
+
+Vygotsky [-@vygotsky1995obras] points out three principles that constitute the analyses developed in this perspective. The primacy of process over product is the first. The object cannot be conceived as a stable form, and since it is historically instituted, it must be investigated in motion, from the unfolding of the phenomenon in its main moments. The second principle concerns the contrast between descriptive and explanatory tasks of analysis. It is necessary to go beyond mere description of the phenomenon to explain the relationships that originate it, as the central point to be reached is the process's genesis, not its external manifestations. In other words, what is sought is the historical and social emergence of the phenomenon. This last assertion indicates the third and final principle of this approach: genotypic analysis over phenotypic analysis [@vygotsky1995obras; @zanella_reis_titon_urnau_dassoler_2007].
+
+The historical-developmental principle proposes investigating fossilized behaviors or processes, as these hold clues to complex historical structures of ancestors while announcing new formations. However, it is not about taking them in their finished form. It is necessary to impose movement on them to be understood from a genetic perspective. This guideline points to an investigation based on a social and historical perspective of the subject's psyche, understood as a process, not as what it is, but as what it is becoming based on what has been [@vygotsky1995obras; @zanella_reis_titon_urnau_dassoler_2007].
+
+Similarly, in the Clinic of Activity, directed activity is defined as the base unit of psychological work analysis. As previously mentioned, performed activity is only a set of winning reactions, so the discarded possibilities, though not directly accessed, continue to act on the subject's action. In line with the historical-developmental methodology, to know the real activity, it is necessary to favor the development of performed activity, decrystallizing it. In this sense, one should not only understand to transform but transform to understand. Experience can only be observed from this transformation, not as an object but as a process [@clot2010trab_poder].
+
+Therefore, the interest lies in the development history, its possibilities, obstacles, and principles. Thus, technical devices used in the Clinic of Activity, such as self-confrontation, instruction to the double, photo workshop [@osorio_pacheco_barros2013oficinas_fotos], and letter to the sender, the latter recently developed by a student of the Professional Master's Program in Psychology and Public Policies at the Federal University of Ceará and collaborators [@Oliveira2022], act as mediators and indirectly transform the subject's activity, moving them to a new context. The resources used allow a reentry into the action through language, which reorganizes and modifies the activity already performed by the individual and the work collective [@clot2010trab_poder].
+
+### Participants
+
+Table @tbl-participantes shows the number of attendants who participated in the intervention process, with nine women and three men. It also presents the workers' ages, the type of service they performed in the sector, their career time, and their institutional affiliation.
+
+|   Name   | Age | Type of Service | Time at Work |   Affiliation   |
+|:--------:|:---:|:---------------:|:------------:|:---------------:|
+|  Aline   | 26  |     Virtual     |   8 months   |    Outsourced   |
+|  Carla   | 22  |    In-person    |   8 months   |    Outsourced   |
+|  Dário   | 55  |    In-person    |   31 years   |      Permanent     |
+|  Flávia  | 40  |    In-person    |   10 years   |      Permanent     |
+|  Joana   | 37  |    In-person    |    1 year    |    Outsourced   |
+| Leonardo | 26  |     Virtual     |    2 years   |    Outsourced   |
+|  Marina  | 25  |    In-person    |   8 months   |    Outsourced   |
+|  Marta   | 28  |    In-person    |    8 years   |      Permanent     |
+|   Rita   | 49  |    In-person    |    8 years   |      Permanent     |
+| Roberto  | 59  | Phone Center |   38 years   |      Permanent     |
+|   Sara   | 50  |    In-person    |    2 years   |    Outsourced   |
+|  Talia   | 26  |     Virtual     |    1 year    |    Outsourced   |
+
+: Participant Data {#tbl-participantes}
+
+## Intervention Course
+
+The intervention began in mid-April 2022 and ended in July of the same year. During this period, ten weekly meetings, each lasting an average of 1h30, were held in person at the SAAE during the professionals' working hours. The meetings were mediated by five facilitators, recorded in audio, and transcribed by the intervention team.
+
+### Meeting 1
+
+In the first meeting, the workers and the team of facilitators introduced themselves. Then, the intervention objectives were presented. To start the dialogues, the "Like/Dislike" dynamic was used, in which two dice are used: one with the words "like" and "dislike" and another with "do" and "don't do." Each participant rolls the dice and comments on an activity they perform based on the combinations of the four words, for example, "do and dislike" [@osorio_pacheco_barros2013oficinas_fotos].
+
+Over five rounds, participants rolled the dice and commented on the sector's activities. Marta, for example, mentioned that she liked performing the transfer service, but this was only possible when users submitted the documents correctly. The sanitary declaration was an activity that Aline performed with satisfaction because she could resolve users' demands immediately.
+
+Overall, during the dialogues, participants said they could not perform some activities satisfactorily due to a lack of experience and guidance on how to proceed. This was precisely the demand that led to the intervention: the absence of prescriptions. There were also reports of being physically and verbally assaulted by customers. In one specific case, a customer called a local sensationalist news site to report Joana. Already in this first meeting, workers listed strategies to avoid customer aggression, including referring service to Marina, considered the calmest attendant on the team. Marina's strategy was to agree with everything the user said and always apologize for the setbacks.
+
+### Meeting 2
+
+In the second meeting, the "Like/Dislike" dynamic continued. During the activity, Marina stated that she did not like dealing with customers' demands that required field teams to perform operational services, such as water connection, sewage, and street leak repairs. These teams did not meet established deadlines, causing dissatisfaction among SAAE users. For Roberto, the reduction of field teams during the pandemic contributed to this situation. Additionally, Talia and Marina reported being held responsible for delays. They reported that customers were asked to evaluate the SAAE's customer service. Thus, they received negative evaluations not for their work but because the company could not meet customers' needs satisfactorily.
+
+This discussion about customer evaluation provoked great involvement from workers. Talia, for example, emphasized that, on the one hand, direct contact in in-person service facilitated customer understanding, while in virtual service, attendants were pressured for more agility in problem-solving. On the other hand, Leonardo commented that he did not like performing water analysis service but found it convenient when he received this demand virtually. This service, which mainly involved determining whether the water was suitable for consumption, was quickly performed by the SAAE, avoiding wear and tear between customer and attendant.
+
+In the final moments of this meeting, they recalled other episodes of violence they had suffered, such as the day two users threw papers at Carla and Marina because they did not accept the bill amounts and demanded that the charges be reviewed. Additionally, they emphasized that a customer threatened to assault all the attendants after being told he had to pay a high bill. Leonardo noted that women were more often assaulted because, when he worked in in-person service, he was rarely challenged or harassed.
+
+### Meeting 3
+
+The third meeting began with a presentation by the facilitators on tasks that should be performed by attendants. The list of assignments, which had 71 items, was obtained from the sector manager based on the services registered in the system used to record customer demands. Faced with this list, participants were surprised, as they did not imagine they performed so many activities. On the other hand, they also stated they were unaware of several procedures.
+
+In light of this, Mr. Roberto explained that the list included services that were no longer performed. The existence of similar services registered with different names was also noted. Additionally, several services were not on the list. This confusion pointed again to the initial demand of the intervention: the lack of adequate task prescriptions.
+
+The attendants reorganized the list to make it closer to what they performed daily. Throughout this process, questions about some activities were raised. Carla, for example, asked how to perform the water meter seal replacement service. Then, one of the more experienced participants, Roberto, described that this happened when the meter was read, and the seal was found to be tampered with, requiring the customer to be fined.
+
+After that, an activity was proposed in which they had to mark with red and gold markers, respectively, which activities were more complex and which were more frequent. After this stage, a discussion about the activities began. One of the facilitators questioned why, for example, the water connection was one of the most complex activities to perform. Roberto replied that it was a service involving the SAAE maintenance teams and, therefore, more difficult to complete.
+
+After this moment, the final activity of the meeting was to categorize the services, each with its specificity. The following classification was obtained: regarding the object, water-related and sewage-related; regarding frequency, rare; and regarding location, internal. The water-related services were: water connection, requested cut, and reconnection. The sewage-related category included: sewage connection, sewage unclogging, cesspool cleaning, and sewage inspection. Rare services, those not frequently performed, were divided as follows: social tariff, water truck removal, complete water analysis, branch relocation, and water meter seal replacement. Finally, internal services, which did not require the SAAE external team, were: bill duplicate, change of ownership, sanitary declaration, debt installment, verification, and debt statement.
+
+### Meeting 4
+
+This meeting continued the service categorization. The facilitators presented the previously defined categories with a slide projection. However, there were still changes, as Flávia, who was not present at the previous meeting, raised questions, and the classification was revised. After this moment, the group was asked to choose an activity to describe its step-by-step process.
+
+Collectively, water connection was chosen as the activity to be described. To start, the facilitator explained how this description would be: participants had to list all the procedures they performed to launch a service in the systems used and list the documentation required from customers. After this activity, participants would split up and perform the same procedure with other services.
+
+The group discussion culminated with one of the facilitators questioning the group about using the computerized systems the attendants operated: Poseidon, old version; Poseidon, new version; and Ninfas. In this dialogue, one of the new participants reported having difficulty using them. Workers then tried to describe how each one worked and stated that the three systems were mostly complementary. It was also observed that system use varied depending on whether the service was in-person or virtual.
+
+At the end of the meeting, one of the facilitators asked which service was more practical for users: in-person or online. Flávia replied that it depended on the customer's profile, as some preferred online for convenience, while others liked going to the SAAE. She also stated that the demand for online service grew due to the covid-19 pandemic and noted that before it, the in-person queue was long, requiring more work from the sector. After the pandemic, she noticed that customers' visits to the SAAE decreased.
+
+### Meeting 5
+
+In the fifth meeting, the service descriptions continued, but now this was done in pairs of workers. At the end of the meeting, each pair would present their description to the group, and a new discussion would be held. For this purpose, scripts were provided where attendants chose a service to describe: name, respective code in the system, requirements for individuals or companies, necessary documents, and procedures.
+
+Roberto suggested that the pairs consist of one worker from in-person service and another from virtual service, as he considered the performance in each modality different. The dialogue between pairs lasted an average of 15 minutes.
+
+During the collective work discussion, one topic generated controversy among participants: the need to archive documents requested from users. Aline reported that in virtual service, documents were archived in the system, and Dário said that in in-person service, archiving was required at the company. Different procedures were adopted, as in virtual service, documents were received via WhatsApp, and in in-person service, customers had to present original documents and deliver copies. Flávia, on the other hand, reported another procedure: if the user was the account holder and it was updated, she only requested their identification document. The debate generated controversy among the group participants, as they operated differently regarding document request and archiving.
+
+### Meeting 6
+
+The service descriptions continued in the sixth meeting. Carla and Leonardo commented on the sewage inspection, which aimed to verify if there was a collector network near the user's residence and inform if the service fee was being charged incorrectly. When asked about the refund of incorrect charges, Flávia replied that reimbursement needed to be requested by the user, as the suggestion never came from the SAAE. This statement led the attendant to describe the reimbursement process, in which the customer wrote a handwritten request informing the charging period, a document sent to the management, and finally, the discount was recorded in the system to be applied to the next bill. The facilitator asked if they were guided by the SAAE on using this strategy. Flávia then replied no, as she thought inducing the user to produce a request opposed the institution she worked for.
+
+Near the end of the meeting, Carla presented the service of clandestine water inspection and highlighted that when an infraction was confirmed, the registration and inspection sector was responsible for applying the fine, and the customer service sector for the installment and reconnection request. From the discussion, the facilitator asked if the number of installments was determined by the attendants, as they expressed empathy for users. For example, when the participant understood a customer's case who did not know they were committing an infraction by placing a faucet before the meter. Flávia explained that this was at the management's discretion. Additionally, she emphasized that with management changes, the team always had to adapt to new procedures. Furthermore, Leonardo agreed with his colleague and stated that this information was not passed on to everyone, so the uninformed needed to adapt as cases arose.
+
+### Meeting 7
+
+In this meeting, the activities presentations began. Dario started the activity by describing two services: the standpipe and the water shortage. In this presentation, some problems with the standpipe installation activity were discussed. Rita mentioned a situation where a user did not want to pay for the service and called it stressful.
+
+Next, the discussion focused on deadlines. Rita explained that she did not usually give exact deadlines to users. According to her, some services were performed by the external team, so attendants had no control over whether the activity would be completed within the expected date. Talia, on the other hand, called the standpipe replacement activity one of the most complicated, as deadlines were usually not met, causing user dissatisfaction. However, her performance differed from Rita's, as she liked to inform deadlines to customers.
+
+At the end of the meeting, the same debate caused controversies among the group. Marta reported that in some situations, attendants informed different dates to users. She cited a situation where Carla gave a 15-day deadline. Days later, the customer returned with the same problem, and Marina provided another deadline. According to their report, the customer was dissatisfied with the situation.
+
+### Meeting 8
+
+At the beginning of the eighth meeting, internal services and the description of the last pending service: occasional services, were presented. Attendants chose to do this activity individually, but Rita and Dario chose to do it in pairs.
+
+During the presentation of internal services, they discussed how services were performed during the pandemic. Marta mentioned that it was unexpected, as she had never served users virtually. Flávia also reported that it was very challenging initially, as there were many complaints, mainly due to the delay in virtual service, but overall, the SAAE managed to overcome the limitations of the context, offering quality service.
+
+In this perspective, Dario mentioned that people were still afraid of covid-19, so they preferred online service. Continuously, one of the facilitators asked him how he reacted to the virtual model. The participant reported that he had to adapt to keep up with work evolutions but preferred in-person service. He even called technological tools, such as cell phones and computers, "cold" since he did not have the same interaction with users as at the counter.
+
+At the end of the activity, Flávia mentioned that during the week, a user got irritated and went in person to complain about the delay in WhatsApp service. She explained that due to high demand and handling service requests in the order of receipt, delays were normal. Additionally, she reported that she became friends with this user, which facilitated problem-solving as she managed to handle the irritation.
+
+### Meeting 9
+
+At the beginning of the ninth meeting, the group discussed validating the manual, titled Standard Operating Procedure. The facilitator presented the progress of the first version and revisited issues that had arisen in previous meetings, such as the requirement for document copies and the establishment of deadlines. Then, the facilitator asked about the deadline for water connection, as participants had not reached a consensus in previous meetings. Marina replied that she usually said between 45 to 60 days to avoid upsetting the customer when the deadline was missed. Participants continued the discussion and emphasized other skills related to deadlines. For example, Flavia and Marta explained to the user that the high service demand required more waiting time. Carla clarified that the water connection did not depend solely on the customer service sector but also on the field team. Marina also pointed out that the institution served the city and districts, causing service completion delays.
+
+The discussion culminated in questions about how to interact with users when determining waiting times. The facilitator asked what motivated the team to develop these strategies. Flávia replied that they were created as a defense mechanism, as users usually expected immediate feedback from the service, so they needed to be creative to solve problems. Marta agreed with her colleague and said she felt embarrassed when the user returned to the SAAE for the third time.
+
+At the end of the activity, participants reported that user pressure also affected their personal lives. For example, Flavia mentioned that a customer approached her at church and asked if she could give her private number to resolve work issues. Carla recalled a day when she was sick at the Emergency Care Unit and had to explain to a user that she could not answer their questions. Finally, Rita and Marta said they were chased on the street by a user with questions after being observed by security cameras. Overall, during the discussion, the group pointed out that the challenges faced in the customer service sector were associated with the lack of organization in the administrative sector, as field teams did not meet the deadlines established by the institution. Additionally, Carla emphasized that observing colleagues' work styles was a way to avoid future embarrassments in in-person service.
+
+### Meeting 10
+
+In the final meeting, the manual validation continued. The activity began with presenting the requested cut service and analyzing the procedures adopted in other services. During the validation, there was a discussion about the definition of the water reconnection service, as most participants had different definitions. Rita suggested not including a definition in the document, as each understood it differently. On that occasion, one of the facilitators said they would speak with management about this specific case and later give them feedback.
+
+In the final moments of the activity, the collective decided to change some procedures. One of the facilitators commented on the complexity of services, as they had many details. Rita agreed, stating that many procedures changed over time. Additionally, she pointed out that when performing the activities, everything seemed simple, but describing them required considerable effort. This statement was also supported by the other attendants. Finally, they were informed about the end of the meetings and the presentation of the manual to the institution's management.
+
+## Discussion
+
+Some themes stood out during the meetings, such as the lack of prescriptions and user aggression, especially against female attendants. Work during the covid-19 pandemic was also discussed.
+
+It was noted that precarious, changeable prescriptions, depending on management, and sometimes restricted to a thirty-year-old institutional regulation led to a lack of standardization of procedures. Workers, thus, had to rely almost exclusively on guidelines shared among themselves. In this way, the interpersonal dimension of the trade ended up substituting the impersonal dimension. Workers relied on informal rules, but there was not yet a strongly established professional genre.
+
+This resulted in providing imprecise—sometimes contradictory—information to service users, such as the possibility of installment plans for overdue bills, deadlines for service performance, among others. Leal et al. [-@leal_almeida_bauer2015vivencias_prazer_sofrimento] found a similar situation when they found that the lack of training in customer service caused workers to feel incapable of proceeding.
+
+Regarding user aggression, SAAE workers, notably women, showed extreme politeness to avoid more severe conflicts. In such situations, they apologized or referred the service to the professional considered the calmest in the sector. These behaviors are similar to the findings of Sznelwar and Abrahão [-@sznelwar_abrahao_2012]. The authors pointed out that when constrained or prevented from acting, professionals adopted a more automated approach to customers to avoid their aggressiveness leading to more damaging situations.
+
+Thus, the transpersonal dimension of the trade manifested through strategies that were part of the collective memory and contributed to facing adversities. However, even using this set of knowledge built by them over the years, they felt that other skills needed to be employed to alleviate work constraints. In this sense, they began to describe individual actions that helped develop daily activities, such as mentioning the high service demand and the sector's dependence on field teams.
+
+Through these reports, which described the actions undertaken during violence contexts, the intervention also gave visibility to the personal dimension of the trade. As the group's ways of acting became insufficient to deal with situations, the professional style emerged to transform and revitalize the genre [@clot2010trab_poder].
+
+It should also be considered that the administrative sector's disorganization impacted professionals' personal lives, as their leisure time was invaded by work-related demands. Leal et al. [-@leal_almeida_bauer2015vivencias_prazer_sofrimento] pointed out that customer behavior should be attributed to institutions, as their irritation was mostly related to long waiting times.
+
+Adding to what was exposed, a focus on the female gender in customer service sectors. Venco [-@Venco2009] considered that the marked hiring of women was associated with characteristics socially attributed to them, such as patience, delicacy, and empathy, i.e., their actions were reduced to feminine attributes. Additionally, Nogueira [-@Nogueira2009] pointed out that female workers were subjected to excessive control over time, the number of tasks performed, and the results obtained. She also emphasized that the pursuit of customer satisfaction posed greater health risks, as they needed extra emotional effort to overcome daily difficulties without abandoning institutional rules.
+
+When discussing work during the covid-19 pandemic, virtual service was mentioned as complex by attendants. The abrupt adaptation to the new modality was seen as a factor that hindered activity development, as many participants had no previous experience with telework or were not used to digital tools. Generally, these adversities led to work fatigue and overload.
+
+The exposed situation aligns with the findings of Filardi et al. [-@filardi_castro_zanini2020vantages_desv_teletrab]. The authors pointed out that the lack of training made the work appropriation process through the internet more unpleasant for workers. Conversely, Brandão and Ramos [-@brandao_ramos_2023] found that when training was offered, it provided workers with a positive perception of their role, mainly in the sense of independence and satisfaction with the activity.
+
+As it was a new work arrangement, there were also complaints related to the change in interaction with users. Thus, they demonstrated that remote contact did not guarantee customer understanding, as they could not serve them more affectionately, as in in-person service. However, some attendants approved the current service, considering that the customer's return to the service caused emotional strain.
+
+In line with participants' reports, Santos et al. [-@dos_santos_saraiva_da_silva_marolla_2022] pointed out that virtual service prevented establishing more empathetic relationships between attendants and users. The authors also showed that telework negatively affected demand resolution, as professionals could not understand customer complaints and consequently delayed feedback. Baccilli and Cruz [-@baccili2021virtualizaccao] noted that another negative aspect was related to work overload due to the increased number of demands received via WhatsApp and Email. However, operators felt safer, as digital platforms could record dialogues and recover customer interactions if necessary.
+
+Overall, evaluating the intervention's methodological proposal, the employed techniques expanded group dialogue. An example is that the various changes in the sector, such as services that were no longer provided, were noticed from the interactions the intervention allowed the work collective.
+
+Furthermore, the dialogues allowed a return to the activity that transcended its immediate performance, as attendants realized the decisions they made in performing activities that were not immediately recognized. This was highlighted when one participant reported the effort required to describe them and assess what was done beyond immediate execution.
+
+Regarding customer interactions, it was observed that attendants, from the discussions that occurred during the intervention, were confronted with their activities as they could narrate not only what they performed but also what they could not do. Thus, it was possible to access the real activity, which is not limited to the performed activity but comprises the process that leads the worker to decide how to proceed. In this sense, the real activity refers to “...what is not done, what cannot be done, what should be done, what one would like to do, and what is done without needing to.” [@clot2007func_psic, p. 216].
+
+Additionally, the manual's construction provided a space for controversies among workers, especially in the dialogues related to adopting different procedures for task performance. It was noted that during disputes, the professional genre was strengthened, as it was possible to discuss the attendant's trade, which differed from the collective's pre-intervention stance. Thus, controversy implied expanding dialogue, ensuring that other experiences were developed and transformed [@clot2017clinica_atividade].
+
+## Final Considerations
+
+The study aimed to report a consultancy carried out in the customer service sector of the Autonomous Water and Sewage Service (SAAE), using the construction of a procedure manual as a dialogue mediator among workers. Moreover, it aimed to create a space where they could reflect on the attendant's trade, different ways of acting, working conditions, and health repercussions. The Clinic of Activity was used as a theoretical and methodological framework to observe the renewal of the professional genre and the collective transformation of work.
+
+Among the themes discussed by participants, the absence of prescriptions was noted, resulting in the transmission of imprecise information to customers. Additionally, adversities related to violence experienced by female participants and the strategies developed to deal with these situations emerged. Besides these, the discomfort about adopting virtual service during the covid-19 pandemic and its repercussions on user interaction emerged in attendants' discourse.
+
+Strengths and potentialities were noted in this investigation. Group engagement was prevalent in all meetings, and workers led the discussions, taking on the role of experts in the trade. Additionally, there was group recognition regarding experience and strategy exchanges. In this context, workers learned from each other, regardless of their time at the institution. This dynamic points to an increase in participants' power to act. It was also observed that the intervention provided greater interaction between in-person and online service professionals, as they did not usually have direct contact to share and discuss different ways of acting.
+
+Regarding the intervention's limitations, the reduced time workers had to discuss their activities is highlighted, as there were changes in the initially idealized schedule due to holidays and other field-related setbacks. Additionally, attendants' fatigue was noted, as activities occurred on Fridays at the end of the week's shift. Moreover, the space offered by the institution for the group was inadequate, as it was in an area of free access for other worker categories. This partly compromised participants' freedom of expression. Regarding intervention contingencies, there was a high turnover of participants, as those returning from vacation joined ongoing discussions.
+
+Finally, it is worth noting that future studies can be conducted in the SAAE customer service sector, for example, analyzing workers' power to act and health after validating the Procedure Manual and how the document has impacted their socio-professional interactions. Additionally, studies and interventions related to violence against female attendants are also warranted, considering that this points to a gender issue that deserves further discussion.

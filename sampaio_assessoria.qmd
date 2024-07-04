@@ -1,0 +1,171 @@
+---
+author: 
+  - name: Juliana Vieira Sampaio
+    orcid: 0000-0001-5770-244X
+    url: http://lattes.cnpq.br/9556200287516417
+    email: julianasampaio@sobral.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Ariadsa Mesquita Aragão
+    orcid: 0009-0001-8800-7826
+    url: http://lattes.cnpq.br/1964456384291965
+    email: ariadsamesquita@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Luiza Barbara Cunha Freire
+    orcid: 0009-0009-5242-1361
+    url: Luiza Barbara Cunha Freire
+    email: luizabcfreire@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Adrielle Jennifer Candido Coelho
+    orcid: 0009-0008-7512-2148
+    url: http://lattes.cnpq.br/9870035361869779
+    email: adriellecoelho88@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Brígida Sousa de Oliveira
+    orcid: 0009-0001-8960-3945
+    url: http://lattes.cnpq.br/2888574633177001
+    email: brigidasousa@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Carla Cecilia Mendes Oliveira
+    orcid: 0009-0001-4055-4767
+    url: http://lattes.cnpq.br/5932580912543222
+    email: carlacecilia542@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+filters:
+  - section-bibliographies
+bibliography: sampaio_assessoria.bib
+reference-section-title: References
+---
+
+# Consultancy on sexual and reproductive rights and health with women in social assistance services
+
+## Introduction
+
+The Nucleus for Studies and Extension on Subjectivation and Sexuality (SuSex) is linked to the Psychology undergraduate course at the Federal University of Ceará, Sobral campus. SuSex's general objective is to promote gender equity and respect for sexual diversity. Through our actions, we seek to produce resistance against processes of homogenization and standardization of ways of living. In this sense, this study presents the experience report of producing and developing a technical consultancy service on sexual and reproductive rights and health in public social assistance facilities.
+
+The technical service involves conducting actions with society and institutions, particularly consultancy, which is the act of “assisting, helping, supporting, coadvising, or collaborating with a specific process. In consultancy, problems are identified, and solutions are implemented with the direct participation of the consultant interfering in the processes” [@bastos2016consideracoes, section EIXO 3].
+
+The consultancy involved producing four workshops aimed at promoting sexual and reproductive health rights, specifically with cis women[^sampaio_assessoria-1], in social assistance facilities, including two at the Social Assistance Reference Center (CRAS) and two at the Specialized Social Assistance Reference Center (CREAS), during 2022. The history of reproductive rights is recent, and sexual rights even more so, having the feminist and LGBTQI movements as fundamental actors in their configuration and production. Thus, through sexual and reproductive rights, a political and ethical stance was introduced into the debate on reproduction and sexuality [@Rohden2011]. These two social movements share the questioning of universal categories, scientific truths, the naturalization of sex, and the normalization of sexuality, contrasting with the biologizing and pharmacological perspective of biomedical knowledge.
+
+[^sampaio_assessoria-1]: We use the terms woman or women, in general, throughout the text to refer to cisgender women, that is, women whose gender identity corresponds to the sex assigned at birth.
+
+It was through the deconstruction of motherhood as an obligation, the struggle for the right to use contraceptive methods, and abortion that feminists worldwide began to build their agendas on reproductive rights. These seek to link reproductive needs not only to health but also to human rights [@Brasil2013]. Reproduction ceases to be discussed solely in its demographic aspect, which exclusively falls on the woman and her body, and begins to encompass ethical, social, and cultural issues [@Correa1996]. Reproductive health is part of reproductive rights and defends the autonomy and right to choose whether, when, and how often to reproduce.
+
+Meanwhile, sexual rights imply respect for different types of sexual expression, autonomy over one's body, and sexual equality. The notion of sexual health brings to the fore other elements unrelated to reproductive health, such as the expression of sexuality without coercion, violence, discrimination, and the risk of sexually transmitted infections (STIs), as well as mutual respect, pleasure, safety, self-esteem, and freedom of sexual expression [@Brasil2013].
+
+In 2005, Brazil launched the National Policy on Sexual Rights and Reproductive Rights, resulting from the articulation between the Ministries of Health, Education, Justice, and Social Development and Fight Against Hunger; and the Secretariats of Policies for Women, Policies for the Promotion of Racial Equality, and Human Rights. This and other strategies advocate respect for autonomy, maximizing benefits and minimizing harm, equity, and respect for cultural, ethnic, sexual, religious, etc., diversity. Conservative and moralizing perspectives on sexuality have opposed the changes driven by social movements, so many debates that have occurred in the political sphere and the struggles for sexual and reproductive rights seem not to reach or are blocked [@Rohden2014].
+
+While biomedical and pharmacological knowledge advocates the medical discourse as the only true one and drug treatment as the most efficient, the field of sexual and reproductive rights argues that each person should decide on the uses, sexual, reproductive, or otherwise, of their bodies. Thus, we will describe and analyze the process of creating care practices aligned with sexual and reproductive rights in social assistance, guided by four ethical principles: personal integrity, individuality, equality, and respect for diversity [@Rohden2014].
+
+## How We Do It
+
+The consultancy action was developed in partnership with the Human Rights and Social Assistance Secretariat of the city of Sobral, Ceará, in October and November 2022. Four workshops were held, two at the Social Assistance Reference Center (CRAS) and the other two at the Specialized Social Assistance Reference Center (CREAS). The target audience for the CRAS workshops were women served by the Comprehensive Family Protection and Assistance Service (PAIF) and at CREAS, mothers of young people serving socio-educational measures in an open environment. In total, about 30 cis women participated, all in poverty, most of them black and brown.
+
+Workshops on sexual and reproductive health with an educational character were held in the city's social assistance facilities, aiming to construct new healthier ways of living based on collective care through the dialogued circulation of scientific knowledge. The workshops used materials such as internal and external condoms (obtained through a partnership with the Sobral Reference Center for Infectious Diseases - CRIS), paper, and colored pencils. The activities were structured based on the following organization:
+
+The women were divided into 2 groups, each with at least two extensionists, one responsible for facilitating and mediating the workshop, and the other for observing and recording the activity in the field diary. The activity started with an introduction dynamic where the women drew or wrote what they liked to do most when they were teenagers and/or before becoming mothers while songs they said they liked to listen to were played. Then, they shared their drawings, stating their name and explaining what they drew and wrote.
+
+Next, cards with the following themes, to be addressed in the workshop, were presented:
+
+a)  Sexually Transmitted Infection (STI),
+b)  contraception,
+c)  motherhood,
+d)  Pink October,
+e)  practical activity represented by the image of a "little flame."
+
+Then, they drew each theme, revealing the cards to perform the activity. We describe below the different dynamics used for each cited theme:
+
+a)  STI – “catch or don't catch” dynamic where some possible STI infection situations are taken from an envelope, and participants answer “if you catch or don't catch” STI in the described cases. The cases were:
+
+    -   You don't catch it from pool water; sweat; toilet seat; towel; soap; cutlery; glasses; reused plates and cups; and mosquito bites;
+    -   You catch it from oral sex; already used needle or syringe when injecting drugs; reused needle for tattoos and piercings; reused dental instruments; also listed the possibility of transmission during pregnancy; at birth; during breastfeeding.
+
+b)  Contraception – to address the theme, a fictional case about a sexual relationship where the condom broke was read. This way, it is possible to address emergency prevention and inform how to access contraceptives available in the Unified Health System (SUS), as well as how to act in such cases.
+
+c)  Motherhood – the theme was addressed through triggering questions such as:
+
+    -   “When a woman becomes a mother, what does society expect from her?”;
+
+    -   “Are the expectations of how mothers should be nowadays the same or different from those of the past?”;
+
+    -   “Are the expectations of what it means to be a mother different from what is expected of a father? How?”.
+
+d)  Pink October – At the CRAS and CREAS request, due to the action scheduled for October, we added the “Pink October” theme to discuss breast cancer prevention. To this end, we asked questions to promote discussion about health care, such as:
+
+    -   “What is the best way to detect breast cancer?”;
+
+    -   “At what age is breast cancer most common?”;
+
+    -   “What is the best way to prevent breast cancer?”.
+
+e)  Little flame – The practical activity illustrated by the Little Flame card is used to discuss condom use. Initially, participants are asked if they know how to use internal and external condoms. If not, they are invited, if they feel comfortable, to demonstrate condom use, and the extensionists help demonstrate the correct use.
+
+After all the cards were drawn, and the themes discussed, the meeting ended with distributing internal and external condoms, as well as informational leaflets on health care.
+
+The entire consultancy experience was recorded in field diaries produced by the extensionists. This recording strategy is based on the debate on observation “in” everyday life proposed by Spink [-@Spink2007], where it is understood that we are part of this “community and share norms and expectations that allow us to assume a shared understanding of these interactions” (p. 07).
+
+The workshop activity seeks to break with vertical intervention models, where participation is limited to responding to instruments. In this perspective, knowing and doing are placed in the same field and process [@Passos2009]. We adopt as our epistemological basis the queer perspective [@Butler2010], post-structural feminism [@Haraway2009], with attention to aspects related to intersectionality [@Piscitelli2008] and post-coloniality [@castrogomez2005cienciassociais]. We seek to produce socially situated knowledge and practices aligned with social commitment and ethical-political-scientific justice. In this sense, we question the social inequalities and hierarchies produced based on social markers of difference.
+
+## Contraception: Discourses and Practices
+
+Women have not always been solely responsible for the reproductive process or its interruption. In different cultures and historical periods, researchers show that abortion and infanticide were accepted and had collective support, not being crimes punishable by law. Such practices, in some cultures, were associated with maternal courage, preventing unwanted beings from being condemned to life [@matos2003delineando]. Abortion, infanticide, and child abandonment were common practices during Antiquity and the Middle Ages. While in Antiquity, the father decided whether to accept the child, in the Middle Ages, this function passed to the mother, who could then be questioned and condemned by the Church as a sinner [@vieira1999medicalizacao].
+
+In modern times, there is a shift in the perception of abortion, infanticide, and child abandonment, as these practices began to be associated with impoverished women, no longer with men or even couples. Women became the main responsible for reproductive planning and, thus, the dissemination of contraceptive methods such as "withdrawal, water douches, sponges moistened with disinfectants placed at the bottom of the vagina, gut and rubber condoms, and control tables" [@matos2003delineando, p. 113]. Since antiquity, different contraceptive methods have been known to humanity, but only from the 20th century did contraception techniques begin to focus on women's bodies [@pedro2003representacoes]. We see that, even before birth control pills and tubal ligation, women became the main responsible for birth control.
+
+In Brazil, the Ministry of Health only began distributing contraceptive methods in the 1980s with the implementation of the Women's Comprehensive Health Assistance Program (PAISM). Before that, initially, the distributed materials came from donations from other organizations, including international ones like the World Bank. Only in 2007 did Brazil publish the National Family Planning Policy, which provides for the distribution of condoms and contraceptives, sex education, and actions in reproductive health.
+
+During the workshops held at CRAS and CREAS, we noticed that the themes that most mobilized women's speeches were motherhood, contraception, the use of internal and external condoms, and, therefore, we will focus on describing and analyzing the dynamics involving the last two themes in this text, namely, the fictional case and the little flame. Many women who participated in the workshops did not know what contraception meant, and after the extensionists' explanation, they concluded that it was synonymous with not "getting pregnant," a term commonly used in the Northeast to refer to a pregnant woman, who is called "pregnant."
+
+The discussion on contraceptive methods used the reading of a fictional case of a young woman who had a sexual relationship in which the condom broke as a mediator. After reading the fictional case, we noticed that women demonstrated knowledge of different ways to avoid pregnancy, including the hormonal "chip," but few knew about the morning-after pill. The logic present in most women's discourse was that the fictional character should wait and see what would happen; if she got pregnant, she should continue with the pregnancy because it was "not the end of the world."
+
+We notice today that, for the more economically favored population, having children is associated with the idea of gratification, so future parents should wait for the right moment to procreate, i.e., when the child is no longer an obstacle to personal and professional achievements, besides the imperative of having children only if they can provide them with the best possible living conditions [@altmann2007sexualidade]. Meanwhile, among the impoverished population, having children is generally associated with the transition to adulthood, which is valued because being an adult is related to the world of work and obtaining income and social and financial independence [@altmann2007sexualidade]. Understanding these intersectional aspects is essential to developing effective strategies for promoting sexual and reproductive rights and health, referencing each group of women's concrete reality.
+
+A younger participant said she knew about the morning-after pill and reported that her 15-year-old sister became pregnant in her first sexual relationship due to a lack of communication with her other sisters, who suggested using this method after unprotected sex. Another participant reported that her daughter was a "morning-after pill baby" because she used the method incorrectly, taking two pills simultaneously without waiting the necessary time between doses. We explained in the workshop the proper way to use the morning-after pill and the method's effectiveness, which, if used correctly, prevents the egg's fertilization.
+
+Using and popularizing information about contraceptive methods would be one strategy to prevent unplanned and/or unwanted pregnancy, marking an important milestone for women's lives in general and the feminist movement, as women could choose if and when to get pregnant. However, gender, race, and class inequality still permeate the reproductive process. Despite the public policies' free distribution of contraceptive methods, this alone cannot provide sexual freedom, reproductive rights, and women's autonomy. In this sense, it is necessary not only to ensure women's sexual and reproductive rights, defended by the Cairo Conference (1994), but also to guarantee human rights and social justice for women from ethnic minorities and impoverished backgrounds [@un1995programme].
+
+The discourse that preventing unwanted pregnancy is solely a woman's responsibility was prominent in the workshops, brought up in statements like "it's your fault" after a participant's teenage pregnancy story, "a woman only gets pregnant if she wants to," "didn't prevent," "didn't take care," "now has to face the consequences," "today a woman only gets pregnant if she wants to, there are many free methods." Pregnancy appears in these statements as a form of punishment for women with an active sex life and as their exclusive responsibility. Even using contraceptive methods, if pregnancy occurs, it is still the woman's fault for not "taking proper care." These statements align with the idea that it is important to avoid pregnancy, but if it is not possible, "a child is a blessing from God."
+
+We observed that the popularization and increased availability of contraceptive methods, for some economically advantaged women with greater access to information and health services, made possible the emergence of new family and marital arrangements. These women began to have more freedom to exercise their sexuality more freely and detached from the reproductive process, but if something goes wrong, i.e., if the woman gets pregnant, she will be the only one to blame, regardless of her class or race [@pedro2003representacoes]. Contraceptive methods, while allowing women to control their reproduction and "future," can also become instruments of control over their bodies to regulate birth rates and hold them responsible for reproduction.
+
+Several women reported having their first pregnancy when they were still minors. One of them commented that when she lost her virginity to her child's father, she made him use two condoms out of fear of getting pregnant. She continued, saying that thinking and talking about sex always evoked feelings of shame at that time, and she did not want to discuss it with her parents. The extensionists warned that using two condoms is more unsafe as it facilitates breaking them, to which the woman responded that they did it out of lack of information, believing it would help them have safe sex.
+
+It is important to highlight the lack of equity among women of different classes and races. According to Perpétuo [@perpetuo2000raca], black women start their sexual life and become pregnant earlier than white women and have more children. Black women have limited access to contraceptive methods, often using none to prevent pregnancy and sexually transmitted infections (STIs). These women also have little knowledge about reproductive physiology, reflecting a high failure rate when using contraceptives.
+
+Taking as a reference the issues that articulate gender, class, and race, we can question the model instituted in our society that marks who are the subjects fit to be mothers, their age, and their economic and social condition. Social conventions dictate that pregnancy is only legitimate if it results from marriage. Although women's role in society is still associated with their reproductive activity, we can see that this process has been invested with normative standards guiding when and how often women should be mothers. These rules are mainly associated with race, income, marital status, and, in recent decades, age has also been a significant factor in this regulation. In this sense, sexual and reproductive rights are linked to economic inequality, political interests, eugenic practices, geopolitics, territorial issues, and gender inequality [@preciado2008testo].
+
+These reports show that although motherhood has ceased to be an unquestionable destiny for many women, especially white and economically advantaged ones, due to the spread of contraceptive methods, this scenario is not a reality for many Brazilian women, especially black and poor women. The increased access to contraceptive methods did not happen homogeneously among women, according to the Ministry of Health
+
+> “one relevant data on the issue related to black women's health is that they have less access to quality health services, gynecological care, and obstetric assistance, whether in prenatal care, childbirth, or postpartum” [@Brasil2013, p.73].
+
+Thus, the female body remains a concern and control target for the women themselves, their partners, doctors, and rulers due to their reproductive capacity. This concern often ends with using definitive techniques, such as tubal ligation and hysterectomy. The tubal ligation process also affects women's bodies differently according to age, race, and social class. In 1986, a special supplement of the National Household Sample Survey (PNAD) indicated that the highest rates of sterilized women in Brazil, aged 15 to 54, were found in the states of Maranhão (75.4%), Goiás (71.3%), and Pernambuco (61.4%), indicating the prevalence of surgical sterilization in the Northeast region, where the black population is the majority [@roland1991saude].
+
+Vasectomy could be another definitive option for birth control, but despite being a simpler sterilization method than tubal ligation, it is less common [@Brasil2013]. One woman during the workshop reported having four children and not wanting more, but after her partner suggested a vasectomy, she disagreed because even though it was simpler, the husband might want more children if they separated.
+
+Another woman reported that her brother has three children, each with a different mother, and although he faces problems with all three due to legal issues, he refused to have a vasectomy when she suggested it. According to her, the brother feared "ceasing to be a man" (losing the ability to have erections). The women said they knew there was no connection between vasectomy and sexual performance, but it is common for men to repeat this discourse.
+
+The lower incidence of vasectomy is linked to masculinity standards, which distance men from family planning, the reproductive process, and health care. Many men believe that after the procedure, they will lose their erection and sexual pleasure [@Casarin2014]. Thus, despite the surgical risk, women continue to undergo tubal ligation, even though other alternatives involve men in the reproductive process.
+
+The presentation of the use of internal and external condoms was one of the activities that most mobilized women's participation and curiosity. Many did not know about the use of internal condoms and their benefits and had never seen or touched this material. Generally, women did not know about internal condoms, but some younger ones had heard about them at school. Most knew other contraceptive methods, especially hormonal contraceptives. It is important to highlight the dual function of condoms, which, in addition to preventing pregnancy, also prevent STIs and HIV.
+
+During the condom distribution at the end of the workshops, several women took both types of condoms, stating they would test the use of internal condoms since they could handle them. The greater curiosity about the internal condom can be related to discussions about motherhood and contraception, as women reported being responsible for preventing pregnancy, and if they became pregnant, it was their responsibility to care for the children. Some said they might have difficulty using the internal condom, but others liked having this option because "even when the man doesn't want it, it's already there," and another said, "who has to like (the internal condom) is me, not my husband."
+
+Contraceptive methods enabled many changes in women's lives, especially for white and economically advantaged women, being both a source of sexual freedom, an important aspect for the feminist struggle, and a tool for moral control of reproduction. The historical hierarchy between men and women is still present in the family, work, and social space they occupy. Thus, we highlight that sexual and reproductive rights alone cannot guarantee gender equity. It is also important to note that how people exercise their sexuality, using or not using contraceptive methods, is not only a private matter but also a state interest in birth control [@Brasil2013].
+
+The excerpts of speeches from women assisted by SUAS, mostly black and poor women, show that, throughout history, the spread of quality information on sexual and reproductive rights and health has not succeeded in bringing together women from different social backgrounds, often lacking true concern from social movements with working-class women. Moreover, we need to be careful in our actions in the field of sexual and reproductive rights, as sometimes the arguments developed by family planning advocates are based on blatantly racist premises, such as the interest in reducing birth rates among the poorest population, especially black people. The history of this movement leaves much to be desired in contesting racism and class exploitation [@davis2016mulheres].
+
+Reproduction is not only an individual issue but also a matter of population control, as it demands investments in public health, social assistance, and public education, for example. Thus, reproductive processes have been historically controlled as they become a social problem that should be governed by state actions and public policies [@preciado2008testo].
+
+## Final Considerations
+
+The right to sexual and reproductive health involves several elements, from individual choice, access to public policies, social justice, and distribution of safe contraceptive methods, etc. This discussion needs to consider the different realities of women, especially those in situations of social vulnerability, assisted by social assistance policies. Informed and equal access to sexual and reproductive rights is a fundamental prerequisite for the emancipation of women in general. Since the right to birth control is obviously an advantage for women of all classes and races.
+
+Therefore, it is necessary to reinforce the importance of technical consultancy activities, such as those carried out by university extension, as they enable reflection and access to information in a way that values women's knowledge on the subject, expanding their repertoire. It is through playful and participatory strategies that we can gradually deconstruct the discourses of female responsibility and blame concerning reproductive processes or their interruption, ensuring the right to citizenship.
+
+Promoting interventions like these, aiming to transform the current logic, allows for constructing a path to women's autonomy and equality, who have been silenced for much of history. Thus, reflecting on and understanding these issues help women to understand their rights and claim them.

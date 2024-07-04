@@ -1,0 +1,1457 @@
+---
+author: 
+  - name: David Sousa Rodrigues
+    url: http://lattes.cnpq.br/5773893453788519
+    orcid: 0000-0002-9935-2174
+    email: davidrdgs@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Esthela Sá Cunha
+    url: http://lattes.cnpq.br/1818023056598329
+    orcid: 0000-0002-4822-0454
+    email: esthelasa7@gmail.com
+    affiliations: 
+      - name: Faculdade 05 de Julho
+      - name: Centro Universitário INTA
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601 
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Quitéria Alves Melo
+    url: http://lattes.cnpq.br/4267116496336781 
+    orcid: 0000-0002-2831-1631
+    email: quiterialvesm@gmail.com 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Iratan Bezerra de Sabóia
+    url: http://lattes.cnpq.br/4256908254336676 
+    orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+editor: visual
+editor_options: 
+  chunk_output_type: console
+lang: en
+warning: false
+message: false
+fig-width: 6
+fig-asp: 0.618
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+filters:
+  - section-bibliographies
+bibliography: rodrigues_relatorio_tecnico.bib
+reference-section-title: References
+citeproc: true
+---
+
+# Work and mental health of teachers in the interior of Ceará during the COVID-19 pandemic: conclusive technical research report
+
+## Introduction
+
+```{r}
+#| label: setup
+
+# Setup
+## Packages
+
+library(tidyverse)
+library(janitor)
+library(careless)
+library(gt)
+library(scales)
+library(sysfonts)
+library(extrafont)
+library(showtext)
+library(ggthemes)
+library(scales)
+library(cowplot)
+library(patchwork)
+loadfonts(device = "win")
+theme_set(theme_cowplot())
+
+## Data collection
+
+sample <- read_csv("./data/dados_municipios.csv")
+
+df <- read_csv("./data/dados_municipios.csv")
+
+nomes_eactdr <- read_csv("./data/nomes_eactdr.csv")
+
+## Creation of an identification variable
+df <- df |> 
+  mutate(
+    id = 1:nrow(df), .before = 1
+  )
+```
+
+```{r}
+#| eval: false
+
+# Data screening
+## Evaluation of the limits of quantitative variables
+
+data_screening <- df |> 
+  summarise(
+    across(c(where(is.double)), list(
+      min = \(x) min(x, na.rm = T),
+      max = \(x) max(x, na.rm = T)
+    ))
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("measure", "stat"),
+    names_sep = "_(?=[^_]+$)"
+  ) |> 
+  pivot_wider(
+    id_cols = measure,
+    names_from = stat,
+    values_from = value
+  )
+
+## DASS-21
+
+data_screening |> 
+  filter(str_detect(measure, "dass")) |> 
+  print(n = Inf)
+
+## EACTDR
+
+data_screening |> 
+  filter(str_detect(measure, "ct")) |> 
+  print(n = Inf)
+
+## Age
+
+data_screening |> 
+  filter(str_detect(measure, "\\bidade\\b"))
+
+## Income
+
+data_screening |> 
+  filter(str_detect(measure, "renda"))
+
+df |> 
+  ggplot(aes(renda_mensal_familiar)) +
+  geom_boxplot() +
+  coord_flip()
+
+df |> 
+  ggplot(aes(renda_mensal_familiar)) +
+  geom_histogram()
+
+df |> 
+  filter(renda_mensal_familiar >= 20000) |> 
+  select(id, renda_mensal_familiar, 
+         dependentes_da_renda) |> 
+  arrange(desc(renda_mensal_familiar))
+  
+df |> 
+  filter(renda_mensal_familiar > 40000) 
+
+## Didactic activities
+
+data_screening |> 
+  filter(str_detect(measure, "sinc"))
+
+## Careless responses
+
+df <- df |> 
+  rowwise() |> 
+  mutate(
+    dass_media = mean(c_across(dass1:dass21)),
+    eactdr_media = mean(c_across(ct1:ct40))
+  ) |> 
+  ungroup()
+
+df |> 
+  filter(dass_media %in% c(0:3)) |> 
+  select(id, dass_media)
+
+df |> 
+  filter(eactdr_media %in% c(1:5)) |> 
+  select(id, eactdr_media)
+
+df |> 
+  filter(dass_media %in% c(0:3), 
+         eactdr_media %in% c(1:5))
+
+
+### Longstring Index
+
+careless_long_dass  <- df |> 
+  select(starts_with("dass")) |> 
+  longstring(avg = T) |> 
+  tibble()
+
+
+long_dass <- careless_long_dass |> 
+  select(longstr) |> 
+  pull()
+
+careless_long_eactdr  <- df |> 
+  select(starts_with("ct")) |> 
+  longstring(avg = T) |> 
+  tibble()
+
+long_eactdr <- careless_long_eactdr |> 
+  select(longstr) |> 
+  pull()
+
+findoutlier <- function(x) {
+  return(x < quantile(x, .25) - 1.5*IQR(x) | x > quantile(x, .75) + 1.5*IQR(x))
+}
+
+df <- df |> 
+  mutate(
+    long_dass = long_dass,
+    long_eactdr = long_eactdr,
+    out_long_dass = case_when(findoutlier(long_dass) ~ id, 
+                              .default = NA),
+    out_long_eactdr = case_when(findoutlier(long_eactdr) ~ id, 
+                                .default = NA)
+  ) |> 
+  relocate(long_dass, out_long_dass, 
+           long_eactdr, out_long_eactdr,
+           .after = id)
+
+df |> 
+  ggplot(aes(long_dass)) +
+  geom_boxplot(outlier.colour = "#D55E00") +
+  geom_jitter(aes(x = long_dass, y = 0,
+                  color = "#D55E00")) +
+  coord_flip() +
+  theme(legend.position = "none")
+
+df |> 
+  ggplot(aes(long_eactdr)) +
+  geom_boxplot(outlier.colour = "#D55E00") +
+  geom_jitter(aes(x = long_dass, y = 0,
+                  color = "#D55E00")) +
+  coord_flip() +
+  theme(legend.position = "none")
+
+
+df |> 
+  filter(!is.na(out_long_dass) & !is.na(out_long_eactdr)) |> 
+  select(id) |> 
+  pull() |> 
+  str_c(collapse = ",")
+```
+
+```{r}
+#| label: careless-cases
+#### 20 cases considered as careless responses regarding the DASS-21 and EACDR were removed
+
+ids_descuidados <- c(116,157,177,275,297,
+                     305,319,343,367,385,
+                     397,398,403,413,439,
+                     488,679,719,724,726)
+
+
+df <- df |> 
+  filter(!(id %in% ids_descuidados))
+```
+
+```{r}
+#| label: manipulation-demo
+
+# Data manipulation
+## Creation of per capita income variable
+
+df <- df |> 
+  mutate(
+    rper = renda_mensal_familiar/dependentes_da_renda,
+    .after = dependentes_da_renda
+  )
+
+## Creation of mental health variables
+
+df <- df |> 
+  rowwise() |> 
+  mutate(
+    depressao = sum(dass16, dass17,dass10,
+                    dass13,dass21,dass3,
+                    dass5),
+    ansiedade = sum(dass20, dass9, dass19,
+                    dass2, dass15, dass7,
+                    dass4),
+    estresse = sum(dass18, dass6, dass8,
+                   dass12,dass11,dass1,
+                   dass14)
+  ) |> 
+  ungroup()
+
+## Creation of qualitative mental health variables
+
+labels <- c("Normal","Mild","Moderate","Severe","Extremely severe")
+
+df <- df |> 
+  mutate(depre_2 = depressao*2,
+         ansie_2 = ansiedade*2,
+         estre_2 = estresse*2) |>
+  mutate(depre_corte = cut(depre_2,
+                           breaks = c(-Inf,9,13
+
+,20,27,+Inf),
+                           labels = labels),
+         ansie_corte = cut(ansie_2,
+                           breaks = c(-Inf,7,9,14,19,+Inf),
+                           labels = labels),
+         estre_corte = cut(estre_2,
+                           breaks = c(-Inf,14,18,25,33,+Inf),
+                           labels = labels))
+```
+
+The COVID-19 pandemic brought challenges to various areas of society. In the field of education, it was necessary to start emergency teaching that kept students and teachers in their homes to avoid the spread of the virus. The remote teaching model emerged so that educational activities could continue without offering the risk of contagion [@pereira_santos_manenti_2020; @silva_pimenta_nascimento_2022]. Despite the widespread adoption of this strategy by educational institutions, this change had an impact on teachers' mental health indices [@silva_pimenta_nascimento_2022].
+
+Due to the abrupt modification of the work context during the pandemic, teachers had to deal with issues that impacted their mental health, such as the need to develop new skills with the use of technologies, high demands for results, and the double workload caused by demands in their home routine [@candido2022impactos]. In this context, it was identified that receiving demands outside of working hours, losing contact with colleagues, and having difficulty separating private and work life made it difficult to carry out remote activities [@bernardo_maia_bridi_2020]. It was also noted that the mental illness of this category was associated with news about deaths due to COVID-19, the pressure exerted by educational institutions, the stress load related to personal life, and the fear of death arising from the pandemic [@santos_silva_belmonte_2021].
+
+Several studies showed high rates of mental disorders among teachers during the remote work period. A study conducted with 125 university teachers from the northeastern hinterland identified prevalence rates of 60% for anxiety and 50.4% for stress [@machado2022qualidade]. Additionally, an investigation with teachers from the state public network of Montes Claros, Minas Gerais, found rates of 51.8% and 52.6% for anxiety and depression, respectively [@ruas_oliveira_silva_mello_soares_2022]. In a study conducted with basic education teachers (n = 203) in Peru, teachers showed rates of 87.45% for the presence of anxiety symptoms and 55.8% for the presence of depressive disorders to some degree, while female teachers showed respective rates of 70.3% and 60.4% to some degree [@betancur2022salud].
+
+Given this scenario, the Laboratory of Practices and Research in Psychology and Education (LAPPSIE) at the Sobral campus of the Federal University of Ceará partnered with nine municipalities in the state of Ceará to conduct research aimed at evaluating the work context, mental health, and the relationship of teachers with the COVID-19 pandemic during the remote work period. This chapter aims to present the results of this study, characterizing it as a conclusive technical research report.
+
+Since they are neither visible nor tangible, occupational diseases associated with mental health are often not identified as problems arising from the work context. Thus, there is difficulty in establishing a causal link between the two [@borsoi2007trabalho]. In addition, legal and social security views on mental health reinforce the idea that such problems do not stem from work but from individual reality [@sato_bernardo_2005].
+
+Thus, situations of mental illness are mostly attributed to the negligence and irresponsibility of the worker. As a result, organizations attempt to conceal the pressures and demands regarding production. The idea of blaming the individual for situations of mental suffering, which are largely produced and intensified by the work context, is reinforced [@silva_bernardo_souza_2016].
+
+In contrast, the field of Worker Health, which underpins this study, seeks to confront this approach that restricts the origin of illness to possible agents or risk situations present in the work environment. Such an approach fails to understand the relationships between work organization and the subjectivity of workers [@mendes_dias_1991; @lacaz2007campo]. Therefore, the referred approach recognizes the individual as a protagonist, capable of transforming their work reality to reduce health hazards beyond work accidents and diseases. It is proposed that workers be seen as social and political actors capable of intervening in their work context, becoming knowledge producers and health care strategists [@gomez2011introducao; @lacaz2007campo].
+
+## Method
+
+### Participants
+
+```{r}
+#| label: demographics
+# Table for demographics
+## Categorical demographics - part 1
+
+demo_cat <- df |> 
+  select(c(renda_pos_covid,
+           escolaridade,
+           estado_civil,
+           cor_raca,
+           sexo)) |> 
+  pivot_longer(cols = everything()) 
+
+
+demo_cat <- demo_cat |>   
+  count(name,
+        value) |> 
+  group_by(name) |>
+  mutate(prop = (n/sum(n))*100 |> 
+           round(1)) |>
+  ungroup() 
+
+
+demo_cat <- demo_cat |>
+  arrange(factor(name, levels = c("sexo","cor_raca",
+                                  "estado_civil","escolaridade",
+                                  "renda_pos_covid")),
+          desc(n)) |>
+  select(value, n, prop)
+
+
+## Categorical demographics - part 2
+
+sexo <- tibble(
+  value = "Sex", n = NA, 
+  prop = NA
+)
+
+raca <- tibble(
+  value = "Race", n = NA, 
+  prop = NA
+)
+
+est_civil <- tibble(
+  value = "Marital status", n = NA, 
+  prop = NA
+  
+)
+
+escol <- tibble(
+  value = "Education level", n = NA, 
+  prop = NA
+)
+
+rend_pos <- 
+  tibble(
+    value = "Income after the start of the pandemic", n = NA, 
+    prop = NA
+  )
+
+demo_cat <- demo_cat |> 
+  add_row(sexo, .before = 1) |> 
+  add_row(raca, .before = 4) |> 
+  add_row(est_civil, .before = 9) |> 
+  add_row(escol, .before = 15 )|> 
+  add_row(rend_pos, .before = 22)
+
+## Categorical demographics - part 3
+
+education_levels <- df |>
+  select(educacao_infantil:atendimento_educacional_especializado_aee) |> 
+  pivot_longer(cols = everything(), cols_vary = "slowest") |> 
+  count(name, value) |> 
+  group_by(name) |> 
+  mutate(prop = ((n/sum(n))*100) |> 
+           round(1)) |>
+  arrange(desc(n)) |> 
+  filter(value == "Sim") |> 
+  select(name, n, prop) |>
+  mutate(name = case_when(name == "fundamental_ii" ~ "Final years of elementary school",
+                          name == "fundamental_i" ~ "Initial years of elementary school",
+                          name == "educacao_infantil" ~ "Early childhood education",
+                          name == "educacao_de_jovens_e_adultos_eja" ~ "Youth and Adult Education",
+                          name == "atendimento_educacional_especializado_aee" ~ "Specialized Educational Assistance")) |> 
+  ungroup() |> 
+  rename(
+    value = name
+  )
+
+edu_levels <- 
+  tibble(
+    value = "Education level", n = NA, 
+    prop = NA
+  )
+
+education_levels <- education_levels |> 
+  add_row(edu_levels, .before = 1)
+
+demo_cat <- demo_cat |> 
+  bind_rows(education_levels)
+
+## Dynamic entries table for the text
+
+demo_cat_prop <- demo_cat |> 
+  select(value, prop) |> 
+  mutate(
+    prop = prop/100,
+    prop = label_percent(0.1, decimal.mark = ",")(prop)
+  )
+
+## Categorical demographics part 4
+demo_cat <- demo_cat |> 
+  mutate(
+    prop = format(round(prop, 1), decimal.mark = ",", 
+                  big.mark = ".", nsmall = 1),
+    n = as.character(n),
+    prop = case_when(prop == "  NA" ~ NA,
+                     .default = prop)
+  )
+
+## Numerical demographics
+
+demo_num <- df |> 
+  summarise(
+    across(c(idade, rper), list(
+      M = \(x) mean(x, na.rm = T),
+      SD = \(x) sd(x, na.rm = T)
+    ))
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("value", ".value"),
+    names_sep = "_(?!.*_)"
+  )
+
+demo_num <- demo_num |> 
+  mutate(
+    value = case_when(value == "idade" ~ "Age",
+                      value == "rper" ~ "Per capita income")
+  ) |> 
+  rename(
+    n = M, 
+    prop = SD
+  )
+
+demo_num <- demo_num |> 
+  mutate(
+    across(where(is.double),
+           \(x) format(round(x, 1), decimal.mark = ",", 
+                       big.mark = ".", nsmall = 1))
+  )
+
+num <- tibble(
+  value = NA,
+  n = "M",
+  prop = "SD"
+)
+
+demo_num <- demo_num |> 
+  add_row(num, .before = 1)
+
+# Demographics table
+
+demo_tbl <- demo_cat |> 
+  bind_rows(demo_num) |> 
+  rename(
+    "Characteristic" = value,
+    "%" = prop
+  )
+
+## Final table
+
+demo_tbl <- demo_tbl |> 
+  mutate(
+    Characteristic = case_when(
+      Characteristic == "Sexo" ~ "Sex",
+      Characteristic == "Feminino" ~ "Female",
+      Characteristic == "Masculino" ~ "Male",
+      Characteristic == "Raça" ~ "Race",
+      Characteristic == "Pardo" ~ "Mixed race",
+      Characteristic == "Branco" ~ "White",
+      Characteristic == "Preto" ~ "Black",
+      Characteristic == "Amarelo" ~ "Asian",
+      Characteristic == "Estado civil" ~ "Marital status",
+      Characteristic == "Casado(a)" ~ "Married",
+      Characteristic == "Solteiro(a)" ~ "Single",
+      Characteristic == "União estável" ~ "Stable union",
+      Characteristic == "Divorciado(a)" ~ "Divorced",
+      Characteristic == "Viúvo(a)" ~ "Widowed",
+      Characteristic == "Nível de escolaridade" ~ "Education level",
+      Characteristic == "Especialização" ~ "Specialization",
+      Characteristic == "Curso superior completo" ~ "Completed higher education",
+      Characteristic == "Curso superior incompleto" ~ "Incomplete higher education",
+      Characteristic == "Mestrado" ~ "Master's degree",
+      Characteristic == "Ensino Médio" ~ "High school",
+      Characteristic == "Doutorado" ~ "Doctorate",
+      Characteristic == "Renda após o início da pandemia" ~ "Income after the start of the pandemic",
+      Characteristic == "Ficou estável" ~ "Stayed stable",
+      Characteristic == "Diminuiu" ~ "Decreased",
+      Characteristic == "Aumentou" ~ "Increased",
+      Characteristic == "Anos finais do ensino fundamental" ~ "Final years of elementary school",
+      Characteristic == "Anos iniciais do ensino fundamental" ~ "Initial years of elementary school",
+      Characteristic == "Educação infantil" ~ "Early childhood education",
+      Characteristic == "Educação de jovens e adultos" ~ "Youth and Adult Education",
+      Characteristic == "Atendimento Educacional Especializado" ~ "Specialized Educational Assistance",
+      .default =  Characteristic
+    )
+  )
+
+
+tabela_demograficos <- demo_tbl |> 
+  gt() |> 
+  sub_missing(
+    missing_text = ""
+  ) |>
+  tab_options(
+    data_row.padding = 1
+  ) |> 
+  cols_align(align = "center",columns = c(n, "%")
+  ) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "Characteristic")) |> 
+  tab_style(
+    style = cell_text(indent = px(20)),
+    locations = cells_body(columns = 1,
+                           rows = c(2:3, 5:8, 10:14, 16:21,
+                                    23:25, 27:31))
+  ) |> 
+  tab_source_note(
+    source_note = md("Note. *N* = 838")
+  ) |> 
+  cols_width(
+    "Characteristic" ~ px(200)
+  ) |> 
+  tab_options(
+    table.width = pct(100),
+  )
+```
+
+The study included `r nrow(sample)` basic education teachers from nine municipalities in the interior of Ceará. `r nrow(sample) - nrow(df)` cases were removed due to careless responses regarding the scales used. The majority of the sample was composed of women (`r demo_cat_prop[[2,2]]`) and mixed race individuals (`r demo_cat_prop[[5,2]]`). The age ranged from `r range(df$idade)[1]` to `r range(df$idade)[2]` years (M = `r format(round((mean(df$idade)),1), decimal.mark = ",")`; SD = `r format(round((sd(df$idade)),1), decimal.mark = ",")`). Regarding marital status, `r demo_cat_prop[[10,2]]` of the participants reported being married. In terms of education, `r demo_cat_prop[[16,2]]` declared having completed a specialization. In terms of teaching level, most teachers worked in the final years of elementary school (`r demo_cat_prop[[27,2]]`).
+
+```{r}
+#| label: tbl-demo
+#| tbl-cap: Sociodemographic characteristics of participants 
+
+tabela_demograficos
+```
+
+### Instruments
+
+The questionnaire used in the survey included the following instruments: Depression, Anxiety, and Stress Scale [DASS-21, @VIGNOLA2014104] and the Teacher Remote Work Context Assessment Scale [EACTDR, @Cunha2023]. Additionally, the questionnaire was composed of sociodemographic questions (e.g., gender, race, education level, etc.) and questions related to experiences during the COVID-19 pandemic (e.g., “Did you lose friends or family members due to the COVID-19 pandemic?”).
+
+#### Depression, Anxiety, and Stress Scale
+
+The DASS-21 is an instrument composed of 21 questions that assess anxiety (e.g., “I felt I was close to panic”), depression (e.g., “I had no initiative to do things”), and stress (e.g., “I felt that I was always nervous”). Respondents are instructed to indicate how much the questions applied to them during the past week. The statements range from 0 – “Did not apply at all” – to 3 – “Applied very much, or most of the time.” Thus, the higher the participant's score, the higher the levels of anxiety, depression, and stress.
+
+The scale also allows for qualitative interpretation. In this case, the scores are summed and multiplied by two, and the parameters are divided into normal (depression: 0 to 9 points; anxiety: 0 to 7 points; stress: 0 to 14 points), mild (depression: 10 to 13 points; anxiety: 8 to 9 points; stress: 15 to 18 points), moderate (depression: 14 to 20 points; anxiety: 10 to 14 points; stress: 19 to 25 points), severe (depression: 21 to 27 points; anxiety: 15 to 19 points; stress: 26 to 33 points), and extremely severe (depression: 28 points or more; anxiety: 20 points or more; stress: 34 points or more).
+
+#### Teacher Remote Work Context Assessment Scale
+
+The EACTDR contains 33 items that assess three dimensions of the remote work context of teachers: working conditions, work organization, and socioprofessional relationships [@ferreira_mendes_2008]. The first dimension refers to the work infrastructure, work environment, and institutional support, covering elements such as furniture, resources, tools, and organizational support (e.g., “During my work, my internet connection is poor – it frequently drops, is slow, takes time to load videos, etc.”). The second dimension concerns work management practices that guide the activity and manifest in factors such as division of labor, expected productivity, rules, times, and rhythms (e.g., “The deadlines for tasks demanded by the coordination or school management are short”). The last dimension expresses the interactions established at work, such as hierarchical, collective, and external interactions (e.g., “There are communication difficulties between teachers and principals.”). The instrument uses a frequency scale ranging from one (never) to five (always). The items express negative statements, so higher scores imply worse perceptions of the work context [@Cunha2023].
+
+### Procedures
+
+#### Data Collection
+
+Data collection was conducted between February and June 2021. During the research period, teachers were carrying out their activities remotely, mediated by the internet. Only teachers who stated they were working in this modality were included in the study.
+
+#### Data Analysis
+
+The RStudio software (version 2023.12.0+369) was used for data analysis. Descriptive statistics (mean, standard deviation, and frequencies) were performed to verify the prevalence of the targeted variables.
+
+### Ethical Considerations
+
+This research was approved by the Research Ethics Committee of the Vale do Acaraú State University (UVA) under CAAE number 51056621.2.0000.5053. This approval aligns with the guidelines defined in Resolutions 466/12 and 510/2016 of the National Health Council.
+
+## Results and Discussion
+
+### Experiences Related to the COVID-19 Pandemic
+
+Regarding experiences related to the COVID-19 pandemic, it was observed that most teachers adopted preventive behaviors against coronavirus infection, for example, frequent and reduced access to places and services considered non-essential, such as gyms, bars, restaurants, and shopping centers. Additionally, safety measures such as the use of masks and hand hygiene were frequent practices among teachers. In this context, it is important that education departments reinforce that such precautions positively impact teachers' physical and mental health, as maintaining healthy habits can reflect in better work performance and quality of life. Thus, lectures and meetings can be promoted so that teachers have accurate information about coronavirus prevention and are encouraged to become disseminators of this knowledge.
+
+```{r}
+# Table on behaviors related to the pandemic
+academia_c <- df |> 
+  count(academia) |> 
+  mutate(
+    prop = n/sum(n)
+  ) 
+
+academia_c <- academia_c |> 
+  pivot_wider(
+    names_from = academia, 
+    values_from = c(n, prop),
+    names_vary = "slowest",
+  ) |> 
+  mutate(
+    var = "Gym", 
+    .before = 1
+  )
+
+bares_c <- df |> 
+  count(bares_restaurantes) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+bares_c <- bares_c |> 
+  pivot_wider(
+    names_from = bares_restaurantes,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Bars and restaurants",
+    .before = 1
+  )
+
+shopping_c <- df |> 
+  count(shopping) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+shopping_c <- shopping_c |> 
+  pivot_wider(
+    names_from = shopping,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Shopping",
+    .before = 1
+  )
+
+mascara_c <- df |> 
+  count(mascara) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+mascara_c <- mascara_c |> 
+  pivot_wider(
+    names_from = mascara,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Use of masks",
+    .before = 1
+  )
+
+higiene_c <- df |> 
+  count(higiene_das_maos) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+higiene_c <- higiene_c |> 
+  pivot_wider(
+    names_from = higiene_das_maos,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Hand hygiene",
+    .before = 1
+  )
+
+comportamentos_tbl <- academia_c |> 
+  add_row(bares_c) |> 
+  add_row(shopping_c) |> 
+  add_row(mascara_c) |> 
+  add_row(higiene_c)
+
+
+comportamentos_tbl <- comportamentos_tbl |>   
+  gt() |> 
+  cols_align(align = "center", columns = c(!var)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "var")
+  ) |> 
+  tab_spanner(
+    label = "Never",
+    columns = c(n_0, prop_0)
+  ) |> 
+
+
+  tab_spanner(
+    label = "Rarely",
+    columns = c(n_1, prop_1)
+  ) |> 
+  tab_spanner(
+    label = "Sometimes",
+    columns = c(n_2, prop_2)
+  ) |> 
+  tab_spanner(
+    label = "Often",
+    columns = c(n_3, prop_3)
+  ) |>
+  tab_spanner(
+    label = "Almost always",
+    columns = c(n_4, prop_4)
+  ) |>
+  tab_spanner(
+    label = "Always",
+    columns = c(n_5, prop_5)
+  ) |>
+  fmt_percent(
+    columns = where(is.double),
+    decimals = 1, dec_mark = ",",
+    sep_mark = "."
+  ) |> 
+  cols_label( 
+    var = "Variable",
+    n_0 = md("*n*"), prop_0 = md("*%*"),
+    n_1 = md("*n*"), prop_1 = md("*%*"),
+    n_2 = md("*n*"), prop_2 = md("*%*"),
+    n_3 = md("*n*"), prop_3 = md("*%*"),
+    n_4 = md("*n*"), prop_4 = md("*%*"),
+    n_5 = md("*n*"), prop_5 = md("*%*")
+  )
+
+```
+
+```{r}
+#| label: tbl-comportamentos
+#| tbl-cap: "Behaviors related to the COVID-19 pandemic"
+
+comportamentos_tbl
+```
+
+```{r}
+# Dynamic data for the text: impacts of COVID-19
+grupo_covid <- df |> 
+  count(grupo_de_risco_dic) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "grupo_de_risco_dic"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(values_from = "prop", 
+              names_from = grupo_de_risco_dic)
+
+
+diag_covid <- df |> 
+  count(diagnostico_de_covid) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "diagnostico_de_covid"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(values_from = "prop", 
+              names_from = diagnostico_de_covid) 
+
+perda_covid <- df |> 
+  count(perdeu_amigo_familiar_covid) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "perdeu_amigo_familiar_covid"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(values_from = "prop", 
+              names_from = perdeu_amigo_familiar_covid)
+
+covid <- grupo_covid |> 
+  bind_rows(diag_covid) |> 
+  bind_rows(perda_covid) 
+
+covid <- covid |> 
+  select(!Não) |> 
+  mutate(
+    Sim = label_percent(0.1, decimal.mark = ",")(Sim)
+  )
+
+
+```
+
+It was also found that `r covid[[1,2]]` of the teachers belonged to the risk group for COVID-19, `r covid[[2,2]]` were infected with the coronavirus. Furthermore, `r covid[[3,2]]` lost friends or family members due to the pandemic.
+
+```{r}
+#| label: fig-plot-covid
+#| fig-dpi: 600
+#| fig-align: center  
+#| fig-cap: "Impacts of COVID-19 on teachers"
+#| fig-cap-location: top
+#| out-width: 75%
+#| fig-alt: "The image displays three bar charts representing statistical data related to the impact of COVID-19 on a group of teachers. In the first chart, titled 'Risk Group', two bars show that 76% of teachers did not belong to the risk group for COVID-19 (blue bar), while 24% did (orange bar). The second chart, 'Diagnosis', follows a similar pattern, with 76% of teachers not infected with the coronavirus (blue bar) and 24% infected (orange bar). The third chart, 'Losses', shows an inversion in colors, indicating that 38% of teachers did not lose friends or family members due to the pandemic (blue bar), compared to 62% who did (orange bar). Each bar is accompanied by the respective percentage value. The charts are simple, with a white background and clearly marked categories, making it easy to interpret the visual data presented."
+
+p_diagnostico <- df |> 
+  ggplot(aes(diagnostico_de_covid,
+             y = after_stat(count/sum(count)),
+             fill = diagnostico_de_covid)) +
+  geom_bar() +
+  labs(
+    x = NULL, 
+    y = NULL,
+    title = "Diagnosis"
+  ) +
+  geom_text(aes(label = percent(after_stat(count/sum(count)), 
+                                0.1, decimal.mark = ",")),
+            stat = "count",
+            nudge_y = 0.03)
+
+p_diagnostico <- p_diagnostico +
+  scale_y_continuous(labels = percent) +
+  scale_fill_manual(values = c("#0072B2", "#D55E00")) +
+  theme(
+    legend.position = "none",
+    text = element_text(family = "Source Sans Pro"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+p_g_de_risco <- df |> 
+  ggplot(aes(grupo_de_risco_dic,
+             y = after_stat(count/sum(count)),
+             fill = grupo_de_risco_dic)) +
+  geom_bar() +
+  labs(
+    x = NULL, 
+    y = NULL,
+    title = "Risk Group"
+  ) +
+  geom_text(aes(label = percent(after_stat(count/sum(count)), 
+                                0.1, decimal.mark = ",")),
+            stat = "count",
+            nudge_y = 0.03)
+
+p_g_de_risco <- p_g_de_risco + 
+  scale_y_continuous(labels = percent) +
+  scale_fill_manual(values = c("#0072B2", "#D55E00")) +
+  theme(
+    legend.position = "none",
+    text = element_text(family = "Source Sans Pro"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+p_perdas <- df |> 
+  ggplot(aes(perdeu_amigo_familiar_covid,
+             y = after_stat(count/sum(count)),
+             fill = perdeu_amigo_familiar_covid)) +
+  geom_bar() +
+  labs(
+    x = NULL, 
+    y = NULL,
+    title = "Losses"
+  ) +
+  geom_text(aes(label = percent(after_stat(count/sum(count)), 
+                                0.1, decimal.mark = ",")),
+            stat = "count",
+            nudge_y = 0.03)
+
+p_perdas <- p_perdas +  
+  scale_y_continuous(labels = percent) +
+  scale_fill_manual(values = c("#0072B2", "#D55E00")) +
+  theme(
+    legend.position = "none",
+    text = element_text(family = "Source Sans Pro"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+p_g_de_risco + p_diagnostico + p_perdas
+```
+
+Belonging to the group of people vulnerable to the virus can mean an unfavorable experience, as these individuals may manifest feelings of fear due to the potential complications inherent to the disease [@lindemann2021percepcao]. Being diagnosed with COVID-19 can bring adverse consequences for teachers' health and routine, as, besides the physical implications of the disease and the risk of death, infected people may experience greater social isolation and fear of transmitting the virus to their families [@mazza2020survey]. Regarding losses due to the coronavirus, containment measures for SARS-CoV-2 made the grieving experience difficult, as many people could not say goodbye to their loved ones through funeral rituals [@crepaldi_schmidt_noal_bolze_gabarra_2020].
+
+In this sense, it is essential that managers disseminate information about the importance of testing in the face of symptoms indicative of COVID-19, the need for proper medical follow-up, and the use of available vaccines. It is also understood that teachers can be affected in various ways by the consequences of the pandemic, and it is up to the administrations to promote environments that make issues such as grief less harmful.
+
+### Teaching During Remote Work
+
+Regarding the teaching modality, it was found that teachers carried out asynchronous activities more frequently. It was also found that student participation in these activities was higher compared to the synchronous modality. Other studies have shown that a significant portion of students did not have quality equipment and internet to follow remote classes, which may partially explain the lower participation in real-time activities [@vazquez_pesce_2022].
+
+Furthermore, other investigations revealed that teachers also had difficulties with the use of technological resources for online work [@STANGRABRIG2022103803], as well as insufficient training for using digital tools. Thus, it is necessary to implement training courses that facilitate the use of technological resources by teachers and guide them on using specific didactic strategies for this context.
+
+Moreover, in an emergency situation, it is essential that teachers have support for acquiring adequate equipment and access to quality internet. In the case of students, the departments should provide the necessary equipment and conditions for the students to follow the classes properly.
+
+```{r}
+atividades_sincronas_c <- df |> 
+  count(atividades_sincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+atividades_sincronas_c <- atividades_sincronas_c |> 
+  pivot_wider(
+    names_from = atividades_sincronas, 
+    values_from = c(n, prop),
+    names_vary = "slowest",
+  ) |> 
+  mutate(
+    var = "Conducting synchronous activities", 
+    .before = 1
+  )
+
+alunos_participam_sincronas_c <- df |> 
+  count(alunos_participam_sincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+alunos_participam_sincronas_c <- alunos_participam_sincronas_c |> 
+  pivot_wider(
+    names_from = alunos_participam_sincronas,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Student participation in synchronous activities",
+    .before = 1
+  )
+
+atividades_assincronas_c <- df |> 
+  count(atividades_assincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+atividades_assincronas_c <- atividades_assincronas_c |> 
+  pivot_wider(
+    names_from = atividades_assincronas,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Conducting asynchronous activities",
+    .before = 1
+  )
+
+alunos_participam_assincronas_c <- df |> 
+  count(alunos_participam_assincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )  
+
+alunos_participam_assincronas_c <- alunos_participam_assincronas_c |> 
+  pivot_wider(
+    names_from = alunos_participam_assincronas,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Student participation in asynchronous activities",
+    .before = 1
+  )
+
+ensino_tbl <- atividades_sincronas_c |> 
+  add_row(alunos_participam_sincronas_c) |> 
+  add_row(atividades_assincronas_c) |> 
+  add_row(alunos_participam_assincronas_c)
+
+ensino_tbl <- ensino_tbl |> 
+  gt() |> 
+  cols_align(align = "center", columns = c(!var)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "var")
+  ) |> 
+  tab_spanner(
+    label = "Never",
+    columns = c(n_1, prop_1)
+  ) |> 
+  tab_spanner(
+    label = "Rarely",
+    columns = c(n_2, prop_2)
+  ) |> 
+  tab_spanner(
+    label = "Sometimes",
+    columns = c(n_3, prop_3)
+  ) |> 
+  tab_spanner(
+    label = "Often",
+    columns = c(n_4, prop_4)
+  ) |>
+  tab_spanner(
+    label = "Almost always",
+    columns = c(n_5, prop_5)
+  ) |> 
+  tab_spanner(
+    label = "Always",
+    columns = c(n_6, prop_6))
+
+
+ensino_tbl <- ensino_tbl |>
+  fmt_percent(
+    columns = where(is.double),
+    decimals = 1, dec_mark = ",",
+    sep_mark = "."
+  ) |> 
+  cols_label( 
+    var = "Variable",
+    n_1 = md("*n*"), prop_1 = md("*%*"),
+    n_2 = md("*n*"), prop_2 = md("*%*"),
+    n_3 = md("*n*"), prop_3 = md("*%*"),
+    n_4 = md("*n*"), prop_4 = md("*%*"),
+    n_5 = md("*n*"), prop_5 = md("*%*"),
+    n_6 = md("*n*"), prop_6 = md("*%*")
+  )
+```
+
+```{r}
+#| label: tbl-ensino
+#| tbl-cap: Teaching During Remote Work
+
+ensino_tbl
+```
+
+### Work Context
+
+The evaluation of teachers' work context showed that, in terms of work organization, the time for preparing remote activities, the number of students to accompany, and the invasion of work into rest hours were the elements worst rated by teachers. These results can be seen in @tbl-organizacao.
+
+```{r}
+organizacao_do_trabalho <- df |> 
+  summarise(
+    across(c(ct1, ct4, ct7,
+             ct8, ct12, ct13,
+             ct14, ct17, ct19,
+             ct21, ct22, ct23,
+             ct24, ct30, ct37), list(
+               M = \(x) mean(x, na.rm = T),
+               SD = \(x) sd(x, na.rm = T)
+             ))
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("var", ".value"),
+    names_sep = "_"
+  ) |> 
+  arrange(desc(M))
+
+itens_organizacao <- organizacao_do_trabalho |> 
+  select(var) |> 
+  pull() 
+
+
+nomes_organizacao <- nomes_eactdr |> 
+  select(any_of(itens_organizacao)) |> 
+  pivot_longer(
+    cols = everything(), 
+  ) |> 
+  select(Item = value)
+
+organizacao_do_trabalho <- nomes_organizacao |> 
+  bind_cols(organizacao_do_trabalho) |> 
+  select(-var)
+```
+
+```{r}
+organizacao_do_trabalho <- organizacao_do_trabalho |> 
+  mutate(
+    Item = case_when(
+      Item == "As atividades de trabalho realizadas pela internet demandam muito tempo de preparação." ~ "The work activities performed over the internet require a lot of preparation time.",
+      Item == "Tenho que acompanhar uma grande quantidade de alunos durante as atividades remotas." ~ "I have to monitor a large number of students during remote activities.",
+      Item == "O horário de descanso e/ou finais de semana são usados para trabalho." ~ "Rest hours and/or weekends are used for work.",
+      Item == "Falta cooperação dos pais ou responsáveis no processo de ensino e aprendizagem dos alunos." ~ "There is a lack of cooperation from parents or guardians in the teaching and learning process.",
+      Item == "As atividades remotas dificultam o acompanhamento do desempenho dos alunos." ~ "Remote activities make it difficult to monitor student performance.",
+      Item == "Preciso responder e-mails, ligações ou mensagens de trabalho que chegam fora do horário de expediente." ~ "I need to respond to emails, calls, or work messages that arrive outside of working hours.",
+      Item == "As atividades remotas dificultam a interação com os alunos durante as aulas." ~ "Remote activities hinder interaction with students during classes.",
+      Item == "Há uma grande quantidade de formulários ou questionários online para preencher." ~ "There is a large number of online forms or questionnaires to fill out.",
+      Item == "Falta tempo para realizar pausas de descanso no trabalho." ~ "There is no time to take breaks during work.",
+      Item == "Há cobrança por parte dos alunos para responder rapidamente dúvidas e questões enviadas através de redes sociais (p. ex.: WhatsApp, Instagram, Messenger etc.)." ~ "Students demand quick responses to questions sent through social networks (e.g., WhatsApp, Instagram, Messenger, etc.).",
+      Item == "Os resultados esperados estão além do que é possível realizar." ~ "The expected results are beyond what can be realistically achieved.",
+      Item == "A formação dada aos professores para usar aplicativos ou programas é insuficiente." ~ "The training provided to teachers to use apps or programs is insufficient.",
+      Item == "O grande número de alunos não permite acompanhá-los adequadamente." ~ "The large number of students does not allow for adequate monitoring.",
+      Item == "Os prazos para a realização das tarefas demandadas pela coordenação ou direção escolar são curtos." ~ "The deadlines for completing tasks demanded by the coordination or school management are tight.",
+      Item == "Há um número excessivo de reuniões online." ~ "There is an excessive number of online meetings.",
+      .default = Item
+    )
+  )
+
+```
+
+```{r}
+#| label: tbl-organizacao
+#| tbl-cap: Evaluation of Work Organization
+
+organizacao_tbl <- organizacao_do_trabalho |> 
+  gt() |> 
+  cols_align(align = "center", columns = c(!Item)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "Item")
+  ) |> 
+  fmt_number(columns = c(M, SD),
+             decimals = 2,sep_mark = ".", 
+             dec_mark = ","
+  )
+
+organizacao_tbl
+```
+
+Several studies conducted during the pandemic found that there was an increase in teachers' working hours during this period [@messineo_tosto_2023; @oliveira_pereira_junior_2021; @petrakova_kanonire_kulikova_orel_2021]. The global health crisis of SARS-CoV-2 accentuated and introduced new forms of intensification and precariousness of teachers' work [@pessanha_trindade_2022].
+
+Before the pandemic, Brazilian educational reforms implemented new models of management of teaching work that had repercussions, among other aspects, on the increase in workload, curricular changes, and pressure for results [@garcia_anadon_2009]. These changes occurred in the quest for efficiency and productivity that entered schools, but without the necessary structural counterpoint [@pessanha_trindade_2022].
+
+During the pandemic, remote work required a sudden adaptation to the distance learning modality. Teachers had to learn to use digital, pedagogical, and evaluative resources compatible with the new reality, which was a challenge. Moreover, the adaptation process also impacted the balance between work and personal life, as remote activities could demand more flexible schedules and result in the invasion of rest and leisure time [@petrakova_kanonire_kulikova_orel_2021].
+
+Thus, it is essential that the departments ensure teachers' planning time and guide them so that the flexibility allowed by remote teaching does not impact an increase in workload. In addition, the demands presented by the institutions should be accompanied by resources that enable the teachers to carry out their work.
+
+Regarding working conditions, it was observed that the worst-rated elements were the availability and quality of technological resources, such as computers and cell phones, and the internet connection for carrying out activities. These findings are in @tbl-condicoes.
+
+```{r}
+condicoes_de_trabalho <- df |> 
+  summarise(
+    across(c(ct9, ct16, ct18,
+             ct20, ct26, ct33,
+             ct36, ct38), list(
+               "M" = mean, 
+               "SD" = sd)
+    )
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("var", ".value"),
+    names_sep = "_"
+  ) |> 
+  arrange(desc(M))
+
+itens_condicoes <- condicoes_de_trabalho |> 
+  select(var) |> 
+  pull() 
+
+
+nomes_condicoes <- nomes_eactdr |> 
+  select(any_of(itens_condicoes)) |> 
+  pivot_longer(
+    cols = everything(), 
+  ) |> 
+  select(Item = value)
+
+condicoes_de_trabalho <- nomes_condicoes |> 
+  bind_cols(condicoes_de_trabalho) |> 
+  select(-var)
+```
+
+```{r}
+condicoes_de_trabalho <- condicoes_de_trabalho |> 
+  mutate(
+    Item = case_when(
+      Item == "O computador ou celular fica lento ou trava durante a realização do meu trabalho." ~ "The computer or cell phone is slow or crashes during my work.",
+      Item == "O celular é o único equipamento disponível para realizar meu trabalho." ~ "The cell phone is the only device available for my work.",
+      Item == "Ao realizar reuniões online, ocorrem falhas no áudio e/ou no vídeo que prejudicam a comunicação." ~ "During online meetings, there are audio and/or video failures that hinder communication.",
+      Item == "Durante a realização do meu trabalho, a minha conexão com a internet é ruim (cai com frequência, é lenta, demora para carregar vídeos etc.)." ~ "During my work, my internet connection is poor (frequently drops, is slow, takes time to load videos, etc.).",
+      Item == "O espaço utilizado para trabalhar é desconfortável (mesa, cadeira, teclado, mouse, monitor, iluminação, climatização, ventilação etc)." ~ "The space used for work is uncomfortable (desk, chair, keyboard, mouse, monitor, lighting, air conditioning, ventilation, etc.).",
+      Item == "Os aplicativos/programas que uso para ministrar aulas/atividades pela internet são difíceis de utilizar." ~ "The apps/programs I use to teach classes/activities over the internet are difficult to use.",
+      Item == "Os equipamentos (celular, computador, tablet etc.) utilizados para o trabalho são compartilhados com outras pessoas." ~ "The devices (cell phone, computer, tablet, etc.) used for work are shared with other people.",
+      Item == "O espaço para a realização do trabalho é barulhento e/ou movimentado." ~ "The workspace is noisy and/or busy.",
+      .default =  Item
+    )
+  )
+
+```
+
+```{r}
+#| label: tbl-condicoes
+#| tbl-cap: "Evaluation of working conditions"
+
+condicoes_de_trabalho_tbl <- condicoes_de_trabalho |> 
+  gt() |> 
+  cols_align(align = "center", columns = c(!Item)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "Item")
+  ) |> 
+  fmt_number(columns = c(M, SD),
+             decimals = 2,sep_mark = ".", 
+             dec_mark = ","
+  )
+
+condicoes_de_trabalho_tbl
+```
+
+Before the COVID-19 pandemic, teachers already faced adverse working conditions, and during the pandemic context
+
+, the situation was intensified as teachers had to adapt their homes to transform them into a work environment.
+
+Only a small part of the teachers received help from institutions regarding the maintenance and acquisition of essential technological equipment for conducting classes [@santos_silva_belmonte_2021]. In this sense, many of them had to deal with the lack of a computer or the need to share the equipment with other family members, which became one of the main causes of dissatisfaction with remote work, as this situation represented a disadvantage in planning and carrying out activities [@silva_barbosa_silva_pinho_ferreira_moreira_brito_haikal_2021].
+
+As presented above, emergency situations, such as teaching during the pandemic, require subsidies for teachers to acquire equipment and have access to quality internet. This measure is important for conducting classes, planning, and evaluating students.
+
+Regarding socioprofessional relationships, the worst-rated items pointed to the lack of teacher participation in planning and decision-making about the school. There was also the perception that communication between teachers was inadequate, as shown in @tbl-relacoes.
+
+```{r}
+relacoes_de_trabalho <- df |> 
+  summarise(
+    across(c(ct5, ct6, ct10,
+             ct11, ct15, ct27,
+             ct29, ct32, ct35,
+             ct39), list(
+               "M" = mean, 
+               "SD" = sd)
+    )
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("var", ".value"),
+    names_sep = "_"
+  ) |> 
+  arrange(desc(M))
+
+itens_relacoes <- relacoes_de_trabalho |> 
+  select(var) |> 
+  pull() 
+
+
+nomes_relacoes <- nomes_eactdr |> 
+  select(any_of(itens_relacoes)) |> 
+  pivot_longer(
+    cols = everything(), 
+  ) |> 
+  select(Item = value)
+
+relacoes_de_trabalho <- nomes_relacoes |> 
+  bind_cols(relacoes_de_trabalho) |> 
+  select(-var)
+```
+
+```{r}
+relacoes_de_trabalho <- relacoes_de_trabalho |> 
+  mutate(
+    Item = case_when(
+      Item == "Os professores não participam das decisões sobre a escola." ~ "Teachers do not participate in decisions about the school.",
+      Item == "Os gestores (coordenadores e diretor) realizam planejamentos e tomam decisões sobre a escola sem consultar os professores." ~ "Managers (coordinators and principal) make plans and decisions about the school without consulting the teachers.",
+      Item == "A comunicação entre os professores é insatisfatória." ~ "Communication among teachers is unsatisfactory.",
+      Item == "Existem disputas profissionais entre os professores." ~ "There are professional disputes among teachers.",
+      Item == "Existem dificuldades na comunicação entre docentes e coordenadores." ~ "There are communication difficulties between teachers and coordinators.",
+      Item == "Não há autonomia para decidir sobre as metodologias de ensino aplicadas nas aulas." ~ "There is no autonomy to decide on the teaching methodologies applied in classes.",
+      Item == "Falta apoio dos gestores escolares (coordenadores e diretor) para o meu desenvolvimento profissional." ~ "There is a lack of support from school managers (coordinators and principal) for my professional development.",
+      Item == "Falta autonomia para decidir sobre os conteúdos das aulas." ~ "There is a lack of autonomy to decide on class content.",
+      Item == "Falta apoio dos coordenadores escolares para realizar meu trabalho." ~ "There is a lack of support from school coordinators to do my work.",
+      Item == "Há dificuldades na comunicação entre docentes e diretores." ~ "There are communication difficulties between teachers and principals.",
+      TRUE ~ Item
+    )
+  )
+
+```
+
+
+```{r}
+#| label: tbl-relacoes
+#| tbl-cap: "Evaluation of socioprofessional relationships"
+
+relacoes_de_trabalho_tbl <- relacoes_de_trabalho |> 
+  gt() |> 
+  cols_align(align = "center", columns = c(!Item)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "Item")
+  ) |> 
+  fmt_number(columns = c(M, SD),
+             decimals = 2,sep_mark = ".", 
+             dec_mark = ","
+  )
+
+relacoes_de_trabalho_tbl
+```
+
+In this sense, it is possible to assume that the social isolation imposed to reduce the spread of the virus also reflected in interpersonal relationships with colleagues, as teachers were prevented from attending the same space and maintaining the routine contact [@anastacio_antao_crames_2022]. Additionally, regarding the lower participation in decision-making and school activity planning, it is possible to assume that there was a centralization of decisions, considering the emergency nature of the situation. However, it is essential to bet on participatory management models, even in severe situations such as that faced during the period of social isolation.
+
+Thus, it is necessary to decentralize decisions regarding the progress of classes, involving all professionals in both planning and managing activities. The possibility of sharing ideas and dividing tasks can be less harmful by avoiding an overload on managers, as well as contributing to better relationships among school community members.
+
+### Mental Health
+
+```{r}
+## Dynamic data for the text: mental health
+
+ind_depre <- df |>
+  count(depre_corte) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "Depression"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(
+    names_from = depre_corte,
+    values_from = prop)
+
+ind_ansiedade <- df |> 
+  count(ansie_corte) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "Anxiety"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(
+    names_from = ansie_corte,
+    values_from = prop
+  )
+
+ind_estrese <- df |> 
+  count(estre_corte) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "Stress"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(
+    names_from = estre_corte,
+    values_from = prop
+  )
+
+saude_mental <- ind_depre |> 
+  add_row(ind_ansiedade) |> 
+  add_row(ind_estrese) |> 
+  rowwise() |> 
+  mutate(
+    ind = sum(c_across(Mild:"Extremely severe")),
+    ind = label_percent(0.1, decimal.mark = ",")(ind)
+  ) |> 
+  ungroup() |> 
+  select(var, ind)
+```
+
+Regarding mental health, `r saude_mental[[1,2]]` of the teachers presented some level of depression between moderate and extremely severe. For anxiety and stress, these rates were `r saude_mental[[2,2]]` and `r saude_mental[[3,2]]`, respectively.
+
+```{r}
+#| label: fig-plot-sm
+#| fig-dpi: 600
+#| fig-align: center  
+#| fig-cap: "Evaluation of teachers' mental health"
+#| fig-cap-location: top
+#| out-width: 75%
+#| fig-alt: "The image shows three bar charts representing the qualitative evaluation of the DASS-21 scale for depression, anxiety, and stress. In the first chart, titled 'Depression', the bars represent the following categories and percentages: 'Normal' with 64.4%, 'Mild' with 11.2%, 'Moderate' with 13.1%, 'Severe' with 6.3%, and 'Extremely Severe' with 4.9%. The second chart, 'Anxiety', shows the categories: 'Normal' with 53.94%, 'Mild' with 6.56%, 'Moderate' with 15.16%, 'Severe' with 5.85%, and 'Extremely Severe' with 18.50%. In the third chart, 'Stress', the categories are presented with the following percentages: 'Normal' with 58.71%, 'Mild' with 9.90%, 'Moderate' with 12.05%, 'Severe' with 12.89%, and 'Extremely Severe' with 6.44%. Each category is represented by a different colored bar on a scale of 0% to 60%. The charts have a white background with black text and lines and are organized side by side to facilitate visual comparison between the three mental health conditions evaluated by the DASS-21 scale."
+
+p_depre <- df |> 
+  ggplot(aes(depre_corte ,
+             y = after_stat(count/sum(count)),
+             fill = depre_corte )) +
+  geom_bar() +
+  labs(
+    x = NULL, y = NULL,
+    title = "Depression"
+  ) +
+  geom_text(aes(label = percent(after_stat(count/sum(count)))),
+            stat = "count", nudge_y = 0.03,
+            size = 2, nudge_x = 0.04)
+
+p_depre <- p_depre + 
+  scale_y_continuous(labels = percent) +
+  scale_fill_colorblind() +
+  theme(
+    legend.position = "none",
+    text = element_text(family = "Source Sans Pro"),
+    axis.text.x = element_text(angle = 45, vjust = 1, 
+                               hjust = 1, size = 8),
+    axis.text.y = element_text(size = 8),
+    title = element_text(size = 10),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+p_ansiedade <- df |> 
+  ggplot(aes(ansie_corte,
+             y = after_stat(count/sum(count)),
+             fill = ansie_corte)) +
+  geom_bar() +
+  labs(
+    x = NULL, y = NULL,
+    title = "Anxiety"
+  ) +
+  geom_text(aes(label = percent(after_stat(count/sum(count)))),
+            stat = "count", nudge_y = 0.03,
+            size = 2, nudge_x = 0.04) 
+
+p_ansiedade <- p_ansiedade + 
+  scale_y_continuous(labels = percent) +
+  scale_fill_colorblind() +
+  theme(
+    legend.position = "none",
+    text = element_text(family = "Source Sans Pro"),
+    axis.text.x = element_text(angle = 45, vjust = 1, 
+                               hjust = 1, size = 8),
+    axis.text.y = element_text(size = 8),
+    title = element_text(size = 10),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+p_estresse <- df |> 
+  ggplot(aes(estre_corte,
+             y = after_stat(count/sum(count)),
+             fill = estre_corte)) +
+  geom_bar() +
+  labs(
+    x = NULL,y = NULL,
+    title = "Stress"
+  ) +
+  geom_text(aes(label = percent(after_stat(count/sum(count))),),
+            stat = "count",nudge_y = 0.03,
+            size = 2, nudge_x = 0.04,
+  ) 
+
+p_estresse <- p_estresse + 
+  scale_y_continuous(
+    labels = percent
+  ) +
+  scale_fill_colorblind() +
+  theme(
+    legend.position = "none",
+    text = element_text(family = "Source Sans Pro"),
+    axis.text.x = element_text(angle = 45, vjust = 1, 
+                               hjust = 1, size = 8),
+    axis.text.y = element_text(size = 8),
+    title = element_text(size = 10),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+p_depre + p_ansiedade + p_estresse
+```
+
+These results are similar to those found in the aforementioned studies, which revealed high rates of anxiety, stress, and depression [@machado2022qualidade; @ruas_oliveira_silva_mello_soares_2022]. Studies indicate that teaching work carries a share of physical and mental wear due to its specificities, such as the need for constant focus and concentration. Additionally, professionals had to deal with existing vulnerabilities alongside the double workload, pressure for results, and excessive demands from administrations [@machado2022qualidade].
+
+The lack of interaction with students and colleagues, coupled with concerns about the pandemic and the precariousness of teaching work during the period, contributed to worse mental health evaluations [@machado2022qualidade; @ruas_oliveira_silva_mello_soares_2022]. In this sense, it is important to promote mental health care for teachers, reinforcing the importance of therapy, the role of school psychologists, and partnering with teachers to transform the work environment into a health-promoting space.
+
+## Conclusions
+
+This research aimed to profile teachers' mental health, work context, and their relationship with the COVID-19 pandemic. The findings presented here can serve as a basis for education departments to improve the education system by promoting better working conditions for teachers.
+
+It was found that most teachers were aware and adopted preventive behaviors against COVID-19, such as wearing masks and social isolation. 24% of them were part of the risk group, and 24% of them were infected with the virus. Additionally, 69% of the sample lost friends or family members to COVID-19. Regarding the teaching modality, teachers carried out asynchronous activities more frequently, and students participated more in this configuration compared to synchronous activities.
+
+Regarding the work context, the preparation of remote activities, the number of students to accompany, and the invasion of work into rest hours were the elements worst rated by teachers. In terms of working conditions, the availability and quality of technological resources were the worst-rated items. Concerning socioprofessional relationships during the period, it was found that teachers negatively evaluated the possibilities of participating in planning and decision-making at the school.
+
+Regarding mental health, 35.6% of the teachers presented some level of depression between moderate and extremely severe. Anxiety and stress showed respective rates of 46.06% and 41.29%.
+
+Given the findings in this research, it is important to recognize that the education system needs to make improvements that not only address the shortcomings exposed by the pandemic context but also use resources that contribute to the performance of teaching activities. Regarding teachers' behavior during the pandemic, it is important to hold lectures and meetings so that teachers have accurate information about coronavirus prevention, reinforcing the attitudes already taken and making them disseminators of good prevention practices. It is also timely to reinforce the importance not only of testing in the face of symptoms indicative of COVID-19 but also of using the available vaccines.
+
+In an emergency situation like this, it is essential that teachers receive support for acquiring equipment and contracting quality internet services, as well as promoting training courses that facilitate the use of these tools and guide them on using the best didactic strategies for this context. For students, the departments should provide the necessary equipment and conditions for students to properly follow classes, preferably synchronously.
+
+It is also essential to ensure teachers' planning hours and guide them on the impact of increased workload caused by the flexibility of the remote teaching model. It is also important to adapt the demands presented by institutions to the pandemic period and what teachers could achieve with the resources they had at the time. The pandemic period also highlighted the need to decentralize decisions regarding the progress of classes and include professionals in decision-making about the school. Based on the data presented, it is essential that departments promote mental health care actions for professionals through lectures and other activities that provide accurate information on the subject and can reduce the strain often caused by the work context itself. \`\`\`
