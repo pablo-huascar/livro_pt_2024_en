@@ -1,0 +1,117 @@
+---
+author: 
+  - name: Francisca Denise Silva Vasconcelos
+    orcid: 0000-0002-3997-7869
+    url: http://lattes.cnpq.br/2515278419639079
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Gracymara Severiano Mesquita
+    orcid: 0000-0001-6813-8258
+    url: http://lattes.cnpq.br/6973773546458473
+    email: gracymesquita@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Luana Paiva da Silva
+    orcid: 0000-0002-5968-5206
+    url: http://lattes.cnpq.br/0683599911313684
+    email: lpaivva7@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Jorge Samuel de Sousa Teixeira
+    orcid: 0000-0003-4188-5303
+    url: http://lattes.cnpq.br/8162807562828913
+    email: jorgesamuel199@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Bárbara Éllen Viana Sales
+    orcid: 0000-0003-3175-0237
+    url: http://lattes.cnpq.br/5579433624678520
+    email: bellen018@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+
+filters:
+  - section-bibliographies
+bibliography: vasconcelos_narrativas.bib
+reference-section-title: References
+---
+
+# Narratives and Trajectories: Advising on Youth Experiences in Public Schools
+
+## Introduction
+
+The Laboratory for the Study of Inequalities and Diversities – LAEDDES is an extension linked to the Federal University of Ceará – Sobral Campus, which began its activities in March 2010, with readings and studies on poverty, based on authors such as Marx, Green, Souza, and Martins. Until the end of 2021, the laboratory was coordinated by its founder, Professor Dr. Francisca Denise Silva Vasconcelos, and carried out numerous intervention actions in public and private educational institutions, universities, and schools. In 2021, LAEDDES had two scholarship extensionists, Bárbara Ellen Viana Sales and Luana Paiva da Silva, in addition to volunteer extensionists.
+
+In this chapter, we will discuss actions carried out at the Dr. João Ribeiro Ramos High School, involving the laboratory coordinator, program scholarship holders, and several volunteer extensionists[^vasconcelos_narrativas-1]. The actions were aligned with the themes worked on in the Laboratory and, as a whole, should be understood as an advisory process composed of three interconnected stages:
+
+[^vasconcelos_narrativas-1]: This action involved: Gracymara Mesquita Severiano, a graduate student in the Professional Master's Program in Psychology and Public Policies, and psychology students Jorge Samuel de Sousa Teixeira, Ana Heliza Pontes, Antonio Lucas Siqueira Ximenes, Ariadsa Mesquita Aragão, Ellayne Oliveira Marques, Erica de Paula Sousa, Erika Tamires Rodrigues Silva, Francisco Denilson Mendonça de Sousa, Francisco Ivo Duarte de Sousa, Geovanna Forte Escórcio, Kyaya Gomes de Carvalho, Larissa Mesquita Farias Protásio, Madyson Matheus Sousa Mororó, Mikaelly Monique do Nascimento Costa, Nathan Rodrigues Ximenes Furtado, Taynara Kelle de Menezes Lima, and Vitória Ferreira Azevedo.
+
+1.  Preparation and conduct of workshops, during which data were collected;
+2.  analysis of the data collected in the workshops; and
+3.  presentation of the results to the teachers and administrators of the school.
+
+## Problem Analysis: What Led Us to the School?
+
+Initially, Dr. João Ribeiro Ramos High School established a partnership with the laboratory, positioning itself as a beneficiary of the extension activities offered by the program. Having presented the proposed activities usually conducted by LAEDDES, the management showed additional interest in understanding the meanings the student body attributed to the school, so that these could be presented to the faculty. Thus, the laboratory, beyond conducting its regular extension activities, developed specific research mechanisms for data collection and analysis in its interventions with the students of Dr. João Ribeiro Ramos High School, to support a well-founded presentation to the teachers and administrators of the institution.
+
+Aware that students have diverse trajectories and that these entail various perspectives and meanings about education, and understanding that the meanings attributed directly affect the teaching-learning process, the extension activities of LAEDDES worked with the students, listening to them about the meanings they attribute to the school. These meanings, constructed by the students, referred to in the text presented to the teachers, are verbal forms about these attributions, minimally defining how students view the school environment and the relationships within it.
+
+Thus, we initially assumed the existence of an interconnection between the themes of youth, modernity, and public school based on previously acquired experiences from listening to students by the project's extensionists. Later, we became interested in knowing how and in what ways these existing relationships affect students in the school environment. Listening to and analyzing these data allowed us to conclude that within the school, there are diverse meanings about youth experiences, among which three themes stand out: future uncertainties, the challenges of existing demands, and affective relationships.
+
+Therefore, the importance of analyzing these meanings lies in the singularities and, at the same time, in the pluralities attributed by the students to their school experiences, allowing us to understand a bit of their lived experiences. Conveying these meanings to the teachers is essential, as they are also part of this interconnection and directly contribute to the construction of these meanings.
+
+## Objectives and Justification of the Project
+
+Thus, the advisory aimed to raise, analyze, and present to the teaching staff and coordination the meanings that high school students attribute to the school, enabling the involved professionals to have a critical-reflective moment about their roles within this network of meanings and allowing them to understand the importance of their roles in the school environment from the students' experiences.
+
+## Development
+
+### Methodology Details
+
+Before going into the field, readings were conducted on the themes of education, public school, poverty, youth, and modernity, as well as the relationship between each of these themes.
+
+Following the acceptance of the interventions proposed by the laboratory, we worked with the management to create a visitation schedule for the selected classes, which were four third-year classes, totaling 73 participants. All activities were conducted in October 2019 and were led by psychology students from the Federal University of Ceará – Sobral Campus, members of LAEDDES, divided into groups of 8, each responsible for two classes.
+
+Upon entering the field, we conducted an initial intervention with each class by presenting the trailer of the 2017 documentary "Nunca Me Sonharam" and the song "Cota Não é Esmola" by singer and composer Bia Ferreira. After these presentations, we divided the class into groups of about 5 students and 2 extensionists to discuss their thoughts on the presented media and debate topics such as dreams, future, school, university, and quotas. These initial discussions were important for creating bonds with the students and facilitating communication for the next stages of the intervention.
+
+In a second moment with each class, we presented slides about the public technical and higher education institutions available in the city of Sobral, as well as information on courses, entrance exams, and other important elements, aiming to present the university as a viable path for these young people. At the end of the presentations, the extensionists were available to answer students' questions and, from there, discuss the issues that most concerned them.
+
+In our final meeting, we applied the Instrument for Generating Affective Maps (IGMA) with each class. The IGMA is a tool developed by Bomfim [-@Bomfim2003] in his doctoral thesis as a method for investigating emotions related to the environment. This tool is divided into two parts, with a qualitative component, through which the participant creates images and expresses their feelings in writing, and a quantitative component, which we did not use, consisting of a Likert-type scale.
+
+Regarding the application procedures, materials such as A4 sheets, colored pencils, pens, and pencils were initially made available to the students. We asked them to represent, through drawings, their way of seeing and feeling the school. Then, we asked them to list 6 words that expressed and summarized their feelings about this space. After this moment, we began a conversation about what they represented, using the following questions as prompts: What does your drawing mean? What feelings does it represent? What words did you write? Why? Finally, we asked the young people to write their age and sex on their sheet, identifying themselves by name only if they felt comfortable doing so. It is worth noting that for this application, we divided the class into small groups of students, with extensionists as mediators for each group to facilitate and bring the dialogue closer to all participants.
+
+For data analysis[^vasconcelos_narrativas-2], we used the software IRAMUTEQ (Interface de R pour les Analyses Multidimensionnelles de Textes et des Questionnaires) and Bardin's Content Analysis methodology [-@Bardin1977], along with theoretical support from Social Representation Theory (SRT).
+
+[^vasconcelos_narrativas-2]: The analysis was conducted in 4 stages by: Bárbara Ellen Viana Sales, Francisca Denise Silva Vasconcelos, Jorge Samuel de Sousa Teixeira, and Luana Paiva da Silva.
+
+The study of the content of
+
+ representations was carried out using the words produced by the students with the help of Similarity Analysis performed by IRAMUTEQ. Similarity Analysis allows identifying occurrences and indications of the connection between words, aiding in identifying the structure of the content of a textual corpus [@CamargoJusto2013]. In this context, the words were categorized using Bardin's Content Analysis process [-@Bardin1977], involving operational stages: organization, coding, and categorization of the material. Furthermore, we conducted an analysis and interpretation of thematic content grouped by categories, guided by Social Representation Theory, which allows us to understand how subjects construct and express their meanings to their experiences in the social world and project social values and aspirations [@Jodelet2001].
+
+Finally, to achieve the advisory's objective, the data were presented to the teachers, pedagogical coordination, and school administration through an oral presentation via Google Meet on May 20, 2021[^vasconcelos_narrativas-3].
+
+[^vasconcelos_narrativas-3]: The presentation was conducted by extensionists Bárbara Ellen Viana Sales, Jorge Samuel de Sousa Teixeira, and Luana Paiva da Silva, with 15 teachers and 2 administrators (1 pedagogical coordinator and 1 director) in attendance.
+
+### Counterparts
+
+To ensure the smooth conduct of the advisory process, the school and the laboratory established an agreement in which Dr. João Ribeiro Ramos High School would provide weekly spaces for the activities and be responsible for convening the entire teaching staff for the presentation of results. The school's commitment was essential, as it made it possible to carry out the activities proposed by the extension. The Laboratory for the Study of Inequalities and Diversities – LAEDDES was responsible for applying the affective maps to collect the necessary data for the chosen analysis, conducting the data analysis, and cataloging them for subsequent presentation to the school's teaching staff, pedagogical coordination, and administration. Recruitment, selection, and training of the individuals involved in the extension activities were also the responsibility of the Laboratory.
+
+### Investment
+
+The advisory required the involvement of 22 people: the laboratory coordinator, Francisca Denise Silva Vasconcelos, scholarship extensionists Barbara Ellen Viana Sales and Luana Paiva da Silva, and 19 volunteers. Thus, in addition to the costs of materials and transportation to the school, the operationalization of the advisory primarily required human resources. In this perspective, the support of the university, especially the Dean of Extension – PREX, in validating the coordinator's work hours, funding the scholarships, and issuing certification for volunteer extensionists, was essential for the advisory's success.
+
+## Results/Deliverables
+
+After fieldwork and data analysis, the results showed that the school represents a space of conflicting feelings; at times, it translates into a place of acceptance, and at other times, it becomes a place of psychological distress due to excessive demands placed on the students. Regarding positive associations, the school involves a set of affective relationships between friendship groups, helping students to view this space as a welcoming environment. However, the negative meanings relate to the high demands imposed by the institution, generating stressful feelings such as fear, insecurity, and anxiety.
+
+Based on these data, it was suggested to the institution to hold support groups with the school's teachers, mediated by LAEDDES extensionists, to discuss themes affecting their professional and personal lives. This action aimed not only to open a space for dialogue and listening for these professionals but also to ensure that the issues raised by the students were debated with the teachers, given their close relationship with the students in the classroom.
+
+## Conclusion
+
+In retrospect, it can be seen that the advisory achieved its proposed objective, contributing to improved dialogue between the school and high school students, promoting active listening by the teaching and administrative staff to students' perceptions. The activities developed in this technical production offered the school's teaching and administrative staff fundamental knowledge for adopting changes that favor relationships with students.
+
+Considering that the results presented by the advisory touched on the impact of teaching methodologies and detailed student perceptions of acceptance and oppression in the school environment, it is reasonable to expect that they will help generate new teaching methodologies and strategies to address conflicts in teacher-student relationships. Thus, it is legitimate to assume that this advisory has potential implications for teaching-learning and reducing dropout rates.
+
+The success of this advisory is closely linked to a strong extension activity at the university, specifically the ties that the Laboratory for the Study of Inequalities and Diversities establishes with the school community of Sobral and the region since its creation in 2011. Despite this, there is room for improvement. On the one hand, extension activities are still undervalued, including in terms of funding, compared to other areas like research, although, as seen in this chapter, both can go hand in hand, mutually reinforcing each other. On the other hand, good ties with the school community alone are not enough to eliminate concrete obstacles, such as the difficulty of finding time and space to carry out activities, given the excessive focus of schools on the National High School Exam (ENEM) and the school calendar, which needs to be well-adjusted to the demands of the Department of Education (SEDUC).
+
+Finally, this advisory also demonstrates the significant role that art, through the application of Affective Maps, can play in improving education. In this methodology, students were invited to use art (drawing, poetry, among others) to express their feelings about the school. Art, therefore, can be a powerful tool in addressing the long-standing issue of the teacher-student relationship, bringing to the center of the debate a new way of listening to high school students. While talking about or giving a lecture on feelings of anguish, fear, and anger may not be very productive, using music, poetry, and the arts in general for students to express these feelings opens a communication channel, as these students' emotions become accessible to themselves and others. As explained throughout this chapter, accessing, analyzing, and reflecting on student perceptions and feelings is a way to help school management and teaching staff think about strategies for change.

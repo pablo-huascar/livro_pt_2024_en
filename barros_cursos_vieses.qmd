@@ -1,0 +1,170 @@
+---
+author: 
+  - name: João Paulo Pereira Barros
+    orcid: 0000-0001-7680-576X
+    url: http://lattes.cnpq.br/0351156693555523
+    email: joaopaulobarros07@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Lucia Maria Bertini
+    orcid: 0000-0001-7498-6640
+    url: http://lattes.cnpq.br/1310420364745804
+    email: lubertini.ce@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Larissa Ferreira Nunes
+    orcid: 0000-0001-5384-0896
+    email: larissafnpsico@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Carla Jéssica de Araújo Gomes
+    orcid: 0000-0002-6979-2646
+    url: http://lattes.cnpq.br/9684612126688971
+    email: carlajessicagomes@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Lívia Lima Gurgel
+    orcid: 0000-0003-2095-2415
+    url: http://lattes.cnpq.br/1093745359879934
+    email: livialgurgel@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Aldemar Ferreira da Costa
+    orcid: 0000-0003-0281-9944
+    url: http://lattes.cnpq.br/1217856125920106
+    email: demarfcost92@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Laisa Forte Cavalcante
+    orcid: 0000-0002-6523-847X
+    url: http://lattes.cnpq.br/1827305975624111
+    email: laisacavalcante9393@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: José Dannilo Ferreira Marques Arruda
+  - name: Antônio Gabriel Miranda da Silva
+  - name: Lucas Araújo da Silva
+    orcid: 0000-0002-6491-4659
+    email: lucasarjslv@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Davi Lucas Moraes
+    orcid: 0009-0008-9075-8494
+    url: http://lattes.cnpq.br/8589151447403539
+    email: davimoraes@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Authors"
+bibliography: barros_cursos_vieses.bib
+reference-section-title: References
+---
+
+# VIESES-UFC Extension Courses: Countercolonial Dialogues in Psychology
+
+## Introduction
+
+This chapter aims to report experiences of conducting extension courses promoted by VIESES: Research and Intervention Group on Violence, Social Exclusion, and Subjectivation, between 2019 and 2022. This laboratory, in turn, is part of the Department of Psychology and the Graduate Program in Psychology at the Federal University of Ceará (UFC). Next, the experiences of formative processes provided by 5 extension courses that aimed to strengthen countercolonial dialogues in the field of Psychology will be reported, addressing themes that question colonial matrices of knowledge-power-subjectivation, addressing topics such as racial relations, gender, and inequalities in Psychology, and challenging public policies to listen to and recognize subalternized existences.
+
+## Extension Course "Racism, Mental Health, and Care Practices"
+
+This course aimed to discuss the effects of racism on the mental health of black people and the challenges of caring for this population in the field of Psychosocial Care. This initiative was designed considering the issue of structural racism, which is expressed in social, political, legal, and economic relations, being one of the main triggers of psychological suffering for black populations in Brazil [@almeida2018racismoestrutural].
+
+Historically, in Brazil, the black population has been relegated to the margins of society, experiencing different forms of oppression and social exclusion [@heringer2002desigualdades; @igreja2016combate; @damasceno2018saude]. Regarding Brazilian racial studies, Nogueira [-@nogueira2006preconceito] points to a tendency to deny racial prejudice, a kind of erasure of racist situations and softening of tensions that involve the maintenance of white privilege, which characterizes the Brazilian myth of racial democracy [@nascimento2017genocidio].
+
+Thus, it is inferred that the social, economic, and political relations that sustain structural racism tend to be mitigated, so the sufferings resulting from situations of oppression can be summarized in the individual scope. Research indicates the need to discuss the effects of racism on the mental health of black populations [@cuevas2013mediators; @pieterse2012perceived; @faro2011raca; @jones2016future]. This is because, structurally, racism has driven an unequal distribution of resources and worse access to education, health, housing, justice, and work.
+
+Additionally, some issues deserve more attention, such as: 1) the association between perceived racism/discrimination and some mental disorders [@tavares2018repercussoes]; 2) the greater vulnerability of the black population to mental disorders and the difficulty of self-care in this population in the face of daily violence. In terms of public policies in Brazil, ethnic-racial issues have already been addressed, especially within the SUS, with the National Policy for the Comprehensive Health of the Black Population. However, despite some advances, challenges in implementing this policy are recognized, as well as the need to intensify debates and achievements around racial issues and their impacts.
+
+The course was conducted as an offshoot of research and extension activities developed by VIESES-UFC, which, as an Extension Program, has promoted medium and long-term actions that articulate research, extension, and teaching around the psychosocial aspects involved and resulting from the various expressions of violence and social exclusion, primarily aiming at producing intersections between the university and other social agents.
+
+The course audience consisted of workers from the Psychosocial Care Network of Fortaleza, Psychology students and/or other areas, and other community members interested in the topic. The proposal was structured through modules, totaling 44 hours/class, during which we emphasized topics concerning the historical and conceptual aspects of racism studies and their impacts:
+
+1.  module I: Racism: historical and conceptual aspects from an anticolonial perspective in dialogues with Social Psychology (8 hours);
+2.  module II: Racism and intersectionality (8 hours);
+3.  module III: Racism and mental health (8 hours);
+4.  module IV: Care practices in the face of the effects of racism on mental health (8 hours);
+5.  module V: Care practices in the face of the effects of racism on mental health (8 hours).
+
+Forty-five people participated in the course.
+
+We consider it important to address racism also from an intersectional perspective since race oppression intersects with class, gender, and territory. Therefore, we used participatory methodological approaches that fostered the exchange of experiences among participants about racial issues and the formation of a potent group where care and resistance practices in the face of daily expressions of racism were experienced, based on critical-reflective perspectives, from the experiences in the territories.
+
+The five modules of the course were guided by the relationship: classes-practice scenarios, problematizing lived realities, based at the same time on legal, conceptual, methodological, and practical guidelines. Documents, texts, research, and national policies were used, establishing multiple dialogues with various disciplines, besides developing antiracist care practices in the field of Psychosocial Care.
+
+## Extension Course "Psychology and Human Rights: Experiences, Dialogues, and (De)constructions"
+
+The course took place from March 23 to April 14, 2021, and aimed to critically address topics related to Psychology and Human Rights, based on professional experience reports, research results, and theoretical reflections. This initiative was designed considering the intersections between defending Human Rights and producing knowledge and interventions in Psychology, being relevant for professional and academic performance in its most diverse fields [@bicalho2009formacao; @bock2010direitoshumanos; @coimbra2001psicologia; @scisleski2015juventude]. The field of Human Rights has been a territory of intense dispute by reactionary forces, aiming to exclude different existences from the condition of subjects to whom fundamental rights must be guaranteed [@barros2019criminalizacao]. Therefore, it is of extreme relevance that the public university, especially Psychology courses, critically, plurally, and rigorously addresses such topics to denaturalize the psychosocial aspects that have historically corroborated the production of "unimportant," "killable," and "dying" subjects [@barros2019juventudes], as well as necropolitical expressions [@barros2019criminalizacao; @mbembe2017politicas] that produce zones of death and modes of subjectivation indifferent to the extermination of these subjects.
+
+The construction of the field of Human Rights is vast and complex, born from a universalist perspective of humanity, which places the essence of man at the center, the result of an aristocratic bourgeoisie [@nascimento2015transvalorizando], being necessary to think about this theme from a critical-reflective position. It is necessary to historicize this field, the result of a supposed evolution in search of the progress of the human genre [@hunt2009invencao], so that there is no hegemonic naturalization of Human Rights, as it is a product of social practices, often transformed into a field of action of "specialisms." This form of social control and framing of humanity is permeated by European colonialism, which historically updates and structures the modern/colonial world system [@lugones2014rumo]. Thus, a transdisciplinary and decolonial approach is fundamental to broaden the scope of this theme, understanding it as relevant to the current context of challenges in defending Brazilian democracy and confronting the growing violence and social and racial inequalities, to which gender is added.
+
+Colonialism is an economic and political phenomenon that is at the origins of the structuring of sciences and is epistemologically linked to the birth of human sciences, where various oppressions of gender, ethnicity, and race are at play, as well as the identities of colonizers and colonized created in its eurocentrically established structuring [@ballestrin2013america]. Overcoming colonialism, colonialism, and coloniality relations was on the course's agenda, considering the knowledge brought by Fanon and Césaire, among other authors, who deconstruct the "production of knowledge in the exercise of domination over the other" [@ballestrin2013america, p. 93]. Likewise, it is necessary to think about the notion of subalternity, according to [@figueiredo2010estudos], concerning people and groups considered subaltern because they are outside the power of the hegemonic structure in theoretical critical Asian and Latin American studies, which, with Spivak [-@spivak2020subalterno], point out an intellectual production crossed by imperialism and international economic interests, making it essential to exercise decolonizing Psychology and the traditional understanding of Human Rights. Both are founded under the power of the European elite that produces capitalist subjectivities [@guattari1996micropolitica], as well as the understanding of a Western, globalized, neoliberal, and individualistic culture of society, permeated by the unequal production of existences and epistemicides [@santos1997concepcao]. This complex framework was a reference for proposing the course in a critical understanding of knowledge for the decolonization of Psychology.
+
+To move against uncritical and reductionist approaches to the subject, the course had as theoretical references the main thinkers of Psychology and related areas who problematize the "cis-hetero-patriarchal-colonial" patterns, structural racism, social and racial inequalities, as well as gender, and the psychosocial aspects of violence. The context of inequality, increasing urban violence, mass incarceration, violence against the LGBTQIA+ population (Lesbians, Gays, Bisexuals, Transvestites/Transsexuals, Queer, Intersex, Agender), black genocide, and inequality in relation to traditional peoples and other vulnerable groups needs to be understood in the very production of subjectivity, impacting the ways of life of subjects who, although they suffer its occurrence, are also active in overcoming the inequities experienced, producing resistance. Therefore, the course aimed to reflect on this context and understand the dynamics of violence that traverse the trajectory of children, adolescents, young people, women, blacks and blacks, who move between markers of race, class, and gender, seeking to produce ways of working that respect, stimulate, and help in the production of resistances.
+
+The course took place in a virtual format, with a total of 36 hours, in twelve conversation circles, with the participation of guests, under the mediation of VIESES members. With 450 registered on the first day, the meetings took place three times a week, mediated by VIESES participants, and were broadcast synchronously on the Pós-PsicologiaS UFC YouTube channel, enabling the participation and certification of other interested people. This broadcast allowed later access to the Circles, enabling greater participation in the context of the COVID-19 pandemic, with the first meeting reaching 1,754 views, and the other circles ranging between 500 and 1400 views by the end of the course. During the circle's broadcast, those watching could participate through the chat, with an attendance list available.
+
+The first Circle – “Racism, Whiteness, and Human Rights” included: Vera Rodrigues, professor in the Associated Program of Postgraduate Studies in Anthropology at UFC-UNILAB; Ana Y. Ramos Zayas, anthropologist, Bachelor in Economics and Latin American Studies from Yale College, and MA/PhD in Anthropology from Columbia University. This theme had repercussions throughout all the Circles, as it is a transversal theme related to the course's main objectives.
+
+The second Circle – “Human Rights and Mental Health: Anti-asylum Fight and Harm Reduction” - included: Haroldo Caetano, PhD in Psychology from the Federal University of Fluminense (UFF) and a member of the Public Ministry of the State of Goiás; Dassayeve Távora Lima, Master in Psychology and Public Policies at the Professional Graduate Program in Psychology and Public Policies (PPGPPPP/UFC) in Sobral; Luana Silva Bastos Malheiro, PhD candidate in Social Sciences at the Federal University of Bahia (UFBA) and co-founder of the Balance Collective of Harm Reduction.
+
+The third Circle – “Violence and its effects: Urban Conflicts and Protection for Threatened People” - had the participation of Ana Letícia Lins, researcher at the Violence Studies Laboratory (LEV/UFC) and the Observatories Network of Security; Erick Rastelli, PhD candidate in Clinical Psychology at the Universidad de Ciencias Empresariales y Sociales, Buenos Aires, Argentina; Renato Roseno, president of the Human Rights Commission of the Ceará Legislative Assembly, a member of the State Committee for the Prevention and Combat of Torture and the State Human Rights Council; Marcus Giovani Moreira, PhD candidate in Sociology at UFC and member of VIESES.
+
+The fourth Circle – “Memory, Justice, and Combating Torture” - included: Helena Vieira, Bachelor in Humanities at the Federal University of Integration of Afro-Brazilian Lusophony (UNILAB); Pedro Paulo Bicalho, Associate Professor at the Institute of Psychology of the Federal University of Rio de Janeiro (UFRJ), representative of the Federal Council of Psychology on the National Committee for the Prevention and Combat of Torture (CNPCT), and president of the Regional Council of Psychology of Rio de Janeiro.
+
+The fifth Circle – “Psychology, Human Rights, and Criminal Justice in Brazil” - included Luciano Goes, PhD candidate in Law at the University of Brasília (UnB); Ana Vládia Holanda Cruz, PhD in Psychology, professor at the FANOR Wyden University Center (UNIFANOR WYDE); and Franciane Santos, researcher at the Laboratory of Afro-Brazilian, Gender and Family Studies (NUAFRO/UECE).
+
+The sixth Circle – “Traditional Peoples and Human Rights: Indigenous Issues” included Chief Adriana Tremembé, indigenous leader of the Tremembé people of Barra do Mundaú/CE; Juliana Alves, indigenous of the Jenipapo Kanindé people and Master's student in Anthropology at the Federal University of Ceará (PPGA/UFC); Leonardo Barros Soares, professor at the Faculty of Social Sciences and the Graduate Program in Political Science at the Federal University of Pará (UFP) and member of the Laboratory and Group of Studies in Interethnic Relations at the University of Brasília (LAGERI/UnB).
+
+The seventh Circle – “Human Rights Education” included: Cláudia Mayorga, professor in the Department of Psychology at the Federal University of Minas Gerais (UFMG) and the Graduate Program in Psychology, member of the Human Rights Commission of the Federal Council of Psychology, and Coordinator of the Itinerant Chair in Human Rights of the Association of Universities Grupo Montevideo; Letícia Carolina, transfeminist, professor at the Federal University of Piauí (UFPI), PhD candidate in Education at UFPI, and member of the Center for Studies and Research in Education, Gender, and Citizenship (NEPEGECI/UFPI).
+
+The eighth Circle – “LGBTQIA+ Youth and Collective Resistances” - included Jô Costa, non-binary artist, coordinator of “Gueto Queen,” the 1st LGBTQIA+ collective of Bom Jardim, coordinator of the Cia Viv'arte, and member of the Maracatu Nação Bom Jardim; Talles Azigon, writer, poet, and reading mediator, creator of Livro Livre Curió Community Library.
+
+The ninth Circle – “Childhoods, Adolescences, Youth, and Human Rights,” included Camila Holanda Marinho, Professor and Researcher at the State University of Ceará (UECE) in the Social Sciences course, Itapipoca campus, and the Graduate Program in Public Policies, researcher at the Violence Studies Laboratory (LEV) and the Arts and Youth Laboratory (LAJUS), leader of the Research Group Travessias, and researcher at the Network of Studies and Research on Youth Actions and Experiences (REAJ); Leo Suricate, co-creator of “Suricate Seboso,” a humorous page originally created on Facebook in 2012, which portrays Northeastern culture and today has more than 6 million followers.
+
+The tenth Circle – “Genders and Human Rights” - included Luma Nogueira, visiting researcher at the Center for Research and Studies in Sociology (CIES-ISCTE) of the University Institute of Lisbon and Adjunct Professor at the University of International Integration of Afro-Brazilian Lusophony (UNILAB); Kaciano Barbosa, Adjunct Professor of Sociology at the Federal University of Rio Grande (FURG) and member of the Center for Afro-Brazilian and Indigenous Studies at FURG; Anna Paula Uziel, professor at the State University of Rio de Janeiro (UERJ) and associate researcher at the Latin American Center on Sexuality and Human Rights (CLAM/IMS/ UERJ).
+
+The eleventh Circle – “Homeless People (PSR) and Human Rights” - included Deivison Miranda, Master's student in Psychology at the Federal University of Delta do Parnaíba (UFDPar); Eugênia Maciel, representative of the Pastoral for Street People, agent of the Pastoral in the Archdiocese and the house for Street People Dom Luciano Mendes, and worker at the Centro Pop de Fortaleza; Antônio Arlindo, artisan, militant for the life and income of the homeless population, representative of the National Movement of Homeless People (MNPR); Carlos Eduardo Esmeraldo Filho, psychologist, PhD in Psychology from UFC, professor of the Psychology course at the UniFanor University Center, and member of the Community Psychology Center (NUCOM).
+
+The twelfth Circle – “Art, Culture, and Re-existences” included Glória Diógenes, professor of the Graduate Program in Sociology at UFC, researcher at the National Council for Scientific and Technological Development – CNPQ, and coordinator of the Arts and Youth Laboratory (LAJUS); Rômulo Silva, PhD candidate in the Graduate Program in Sociology at the State University (PPGS/UECE), member of the Violence and Conflict Studies Laboratory (COVIO/UECE), where he coordinates the research line "Afro-Atlantic Studies," and collaborative researcher at the Contemporary Art Laboratory (LAC/UFC).
+
+According to our analyses, the course had the potential to produce in students the critical-reflective capacity and the engagement of Psychology in the issues circumscribed in the field of Human Rights. By historicizing this field, we discussed the universalization of Human Rights and the neoliberal rationality in power relations around the notion of humanity. Therefore, we debated in the course the context of inequality, the increase in urban violence, mass incarceration, LGBTQIA+phobia, structural racism, Brazilian sexism, the extermination of traditional peoples and ethnic and racial minorities, and how this impacts modes of subjectivation.
+
+The large adherence to the course – whose registrations were all filled within the first two initial hours of public offering – showed the interest in formative spaces that provide connections between different epistemological currents and, given the virtual model, enabled the exchange with different thinkers of Psychology in Brazil, as well as with students and members of collectives and social movements that act in these plural and complex fields.
+
+In general, conducting the course, involving different actors, was consolidated as an important device for tension and reinvention of what is understood by Human Rights in Psychology, especially in Social Psychology. The course also contributed to a comprehensive, decolonial, and critical-reflective training of students in facing contexts of vulnerabilities and life precarization, as well as collaborating for the (re)formulation of local strategies against Human Rights violations in Fortaleza.
+
+## Course “(Re)Existing at the Crossroads: Dialogues on Racial Relations, Gender, and Youth”
+
+This course aimed to produce theoretical-methodological and experiential connections, approaches, and improvements regarding the implications of gender relations intersections in subjectivation modes in peripheral urban areas, agenced by violence scenarios and marked not only by oppression contexts but also by youth reexistences inserted in these territorialities, the difficulties for public policies that act in guaranteeing human rights, and for producing and promoting care practices in the face of violence and mortification produced by racism, LGBTQIA+phobia, and the intersections of other oppression markers.
+
+VIESES presents itself as a possibility of strengthening LGBTQIA+ people in Grande Bom Jardim. Since its insertion in the territory in 2018, the Program has carried out several research actions and has 4 extension projects in development in the territory, alongside infant-juvenile segments, in partnerships with public culture and education policies, non-governmental organizations, social movements, and collectives from the territory focused on defending human rights. Our initiatives aim to strengthen care promotion strategies, considering the psychosocial effects of sexual discrimination, LGBTQIA+phobia, and racism.
+
+As known, Brazil is the country that most murders LGBTQIA+ people in the world, highlighting still the cruel and spectacularized way these deaths occur, with traces of misogynistic and LGBTQIA+phobic cruelty [@sousa2020interseccionalidade]. When observing these deaths and violations also through a racial lens, especially in peripheral contexts like the one we intend to act in, structural racism stands out as a necropolitical engine of violence plots [@costa2020dispositivo]. Thus, this reality reflects social structures that corroborate the formation of hatred against black and LGBTQIA+ people.
+
+We also emphasize that the Brazilian scenario, especially with the advance of conservative ideas, has contributed to maintaining race, gender, and sexuality hierarchies, thus hindering advances regarding understanding and respect for the phenomenon of racism and gender identities and sexual orientations, although, in recent years, some laws have been achieved, such as stable union and the equating of homophobia to the crime of racism.
+
+Regarding the target audience, the course was aimed at Psychology and related areas students, professionals and managers working in public policies, members of civil society organizations, LGBTQIA+ youth from Grande Bom Jardim (GBJ), and the general community interested in discussing the proposed themes. The course had a total of 36 hours and took place from October to December 2022. It is important to point out that the first four meetings of the initial modules took place at the UFC Department of Psychology, while the final modules, from a territorialization perspective, were held at the Herbert de Souza Life Defense Center (CDVHS), aiming to strengthen the exchange and knowledge production in the dialogue between the university and the community, as 40% of the 45 places were reserved for participants who live or work in youth-focused equipment in GBJ.
+
+Eight proposed modules were:
+
+1.  Gender: historical, conceptual aspects, and their intersections in youth trajectories and experiences;
+2.  Racial Relations: historical, conceptual aspects, and their intersections in youth trajectories and experiences;
+3.  Psychosocial effects of racism and LGBTQIA+phobia on youth mental health;
+4.  Gender inequalities and challenges for public policies and human rights guarantee;
+5.  Racism and challenges for public policies and human rights guarantee;
+6.  Care practices and facing LGBTQIA+phobia: theoretical-epistemic and clinical-political challenges and experiments;
+7.  Quilombola practices and care policies against racism: theoretical-epistemic and clinical-political challenges and experiments;
+8.  Intersectional dialogues between race, gender, class, generation, and territory: experiences and collective reexistences of youth in urban peripheries.
+
+Based on the accumulations built by extension experiences developed by VIESES since 2015 in various peripheries of Fortaleza and the formative proposals already experimented by the laboratory, the course adopted active, dialogical, and collaborative methodologies, prioritizing critical reading of reality, exchange of experiences among diverse participants, and contextualized deepening of contents related to race and gender relations, youth trajectories in urban territorialities, public policies for human rights guarantee, and clinical-political care practices. For this, pedagogical strategies were used, such as dialogued exposition, reading circles from texts, group work techniques, sharing social, professional, and academic experiences brought by the participants.
+
+## Final Considerations
+
+The technical productions reported in this chapter (extension courses promoted by VIESES-UFC) have in common the aim of critically addressing themes related to Psychology praxis in defending Human Rights, proposing public policies to face violence, and producing knowledge from the university's dialogue with different sectors and social groups.
+
+Another common aspect of these technical productions is that all courses used methodologies that allowed the sharing of experiences, professional experience reports, research results, and theoretical reflections from Psychology and its interlocutions with related areas. These initiatives were also designed considering possible interventions in Psychology, being relevant for professional and academic performance in its most diverse fields.
+
+The creation of such technical productions in the context of the COVID-19 pandemic and the rise of neofascist values and practices assumed that addressing the multifaceted field of Human Rights is fundamental for promoting an ethically committed Psychology training with transformations in the Brazilian context, which still coexists with strong coloniality marks and practices. To move against uncritical and reductionist approaches on the subject, both the communication products and the extension course reported were able to socialize realities and theoretical references of thinkers from Psychology and related areas that problematize cis-hetero-patriarchal-colonial-capitalist patterns.
+
+We believe these technical productions linked to VIESES had the potential to strengthen and stimulate reflections on confronting inequalities and oppressions in Brazil. Furthermore, they sought to contribute to expanding the impact of the Graduate Program in Psychology at UFC in society, enhancing the resonance of discussions dear to VIESES since its creation. This is because, with the extension courses, especially those held remotely, these problematizations could reach from undergraduate and graduate students, professionals, whether from Psychology or related areas, to public policy managers and members of collectives, social movements, and civil society organizations from different regions of Brazil and even outside the national territory.

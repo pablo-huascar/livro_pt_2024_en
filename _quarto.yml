@@ -40,7 +40,7 @@ book:
         - gomes_polifonias.qmd
         - liberato_contagios.qmd
         - vasconcelos_eneddes.qmd
-    - part: "Relatórios técnicos: assessoria, consultoria e pesquisa"
+    - part: "Technical Reports: Advisory, Consulting, and Research"
       chapters:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
@@ -49,6 +49,15 @@ book:
         - costa_assessoria_saae.qmd
         - sampaio_assessoria.qmd
         - lima_assessoria.qmd
+        - vasconcelos_narrativas.qmd
+        - soares_psicologia_saude.qmd
+    - part: Professional Training Course
+      chapters:
+        - barros_cursos_vieses.qmd
+        - bomfim_metodologias_part.qmd
+        - sena_curso_r.qmd
+
+
 
 
 

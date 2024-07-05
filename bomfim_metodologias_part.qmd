@@ -1,0 +1,209 @@
+---
+author: 
+  - name: Zulmira Áurea Cruz Bomfim
+    orcid: 0000-0002-1874-8821
+    url: http://lattes.cnpq.br/1210419516945897
+    email: zulaurea@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Nara Maria Forte Diogo Rocha
+    orcid: 0000-0001-5040-1492
+    url: http://lattes.cnpq.br/8711220429784748
+    email: narafdiogo@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Fábio Pinheiro Pacheco
+    orcid: 0000-0003-4139-1506
+    url: http://lattes.cnpq.br/7580641163210143
+    email: fabio.pacheco@uece.br
+    affiliations: 
+      - name: Universidade Estadual do Ceará
+  - name: Andie de Castro Lima
+    orcid: 0000-0003-1469-8529
+    url:  http://lattes.cnpq.br/5263513220053487
+    email: lima.castro94@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Cícera Mônica da Silva Sousa Martins
+    orcid: 0000-0003-1773-0061
+    url: http://lattes.cnpq.br/4057474289308489
+    email: monicamartins_sousa@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Halaine Cristina Pessoa Bento
+    orcid: 0000-0002-2247-5096
+    url: http://lattes.cnpq.br/1306220024705448
+    email: halainecristinapessoa@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Elcides Hellen Ferreira Landim Barreto
+    orcid: 0000-0003-1284-5679
+    url: http://lattes.cnpq.br/0406518963460217
+    email: hellenbarreto0@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Graciella Faico Ferreira
+    orcid: 0000-0001-9075-5180
+    url: http://lattes.cnpq.br/1642574960298281
+    email: graciella@ufrj.br
+    affiliations: 
+      - name: Universidade Federal do Rio de Janeiro
+      - name: Universidade Federal Fluminense
+filters:
+  - section-bibliographies
+bibliography: bomfim_metodologias_part.bib
+reference-section-title: References
+---
+
+# Extension course “Socio-environmental participatory approaches and methodologies”: report of an interdisciplinary action in teaching, research, and extension
+
+## Introduction
+
+This chapter aims to report the experience of constructing and facilitating the extension course "Socio-environmental Participatory Approaches and Methodologies," developed by the Environmental Psychology Research Laboratory (Locus) at the Federal University of Ceará (UFC). Locus, linked to the UFC Psychology Department, has the hallmark of its academic production in the articulation between research, teaching, and extension, realizing the university tripod as described by the Ministry of Education.
+
+The laboratory was established in 2003, bringing a socio-environmental perspective through an environmental, psychosocial, and socio-historical vision to understand the person-environment relationship, encompassing the physical, social, cultural, psychological, and political dimensions, and directing its studies and interventions to emerging societal demands [@pacheco2021revisao]. Theoretically and methodologically, Locus adopts an interdisciplinary perspective, considering the complexity of the phenomena studied and the multiplicity of factors involved in person-environment interactions, establishing contacts with the fields of Psychology, Education, Geography, Architecture, Urbanism, Sociology, Anthropology, Political Science, among others.
+
+In the teaching sphere, Locus is related to Social Psychology and Environmental Psychology subjects at undergraduate and graduate levels. In the research sphere, the laboratory is linked to the UFC Graduate Program in Psychology (PPGP-UFC/Fortaleza), developing master's and doctoral research. In extension, it carries out actions with the university community and society in general, with its main projects being:
+
+1.  Campus Life, aimed at improving the quality of life for students, teachers, and other employees in the university environment [@bomfim2019afetividade];
+2.  Diagnostic-Action through Affective Maps, conducting socioeconomic, infrastructural, psychosocial, and environmental diagnostics and interventions in groups and communities in Fortaleza and the metropolitan region [@lima2021psicologia];
+3.  On the Trails of Environmental Psychology, aiming to facilitate processes of appropriation and identification of Fortaleza's spaces, using urban and ecological trails as tools; and
+4.  Locus Program, developing interdisciplinary actions, with its research and extension activities since 2015 focused on indigenous ethnicities [@pacheco2021revisao] and, since 2020, together with the Sankofa Project, also including quilombola communities, discussing ethnic-racial issues.
+
+In 2020, Locus was involved in developing the extension course “Psychosocial Aspects of Vulnerabilities in the Context of the COVID-19 Pandemic,” organized by PPGP-UFC/Fortaleza and the Professional Graduate Program in Psychology and Public Policies at UFC (PPGPPPP-UFC/Sobral), being responsible for creating and teaching a module titled “Active and Participatory Methodologies in Facing COVID-19 with Indigenous Populations.” From this activity, considering the need for deeper discussions held in the module, the initiative to develop another extension course emerged to share Locus’s research, teaching, and extension experiences.
+
+Thus, the course “Socio-environmental Participatory Approaches and Methodologies” was developed, aiming to expand the discussions that arose in the previous course. As such, other scenarios were encompassed, such as the city and its landscape aspects, indigenous peoples and transcultural issues, human development processes and learning, and experiences in social assistance and health public policies. The course aimed to present to the target audience (undergraduate and graduate students, professionals from various fields, and other members of society) socio-environmental methodologies based on Social Psychology and Environmental Psychology, intending to train interested people in facing environmental and social vulnerabilities.
+
+Among the main objectives of the course, we sought to:
+
+1.  Work from different realities and approaches of psychology, in a socio-environmental and transdisciplinary perspective, according to the current context;
+2.  Facilitate teaching-learning processes based on active and participatory methodologies that favor the experience and integration of sociocultural and affective aspects of socio-spatially segregated populations, traditional, indigenous/original, and quilombola communities, considering decolonial perspectives [@santos2009epistemologias] within the practice of psychology;
+3.  Expand dialogues between the academic sphere and the general community: community leaders, indigenous peoples, quilombolas, public policy workers, representatives of civil society organizations, and other social actors, aiming at facing the COVID-19 pandemic and the action potency [@sawaia2009psicologia] of these publics, creating a space for debate and knowledge exchange that extends beyond the course itself and occurs permanently; and
+4.  Introduce participants to basic concepts of socio-environmental psychology approaches and their possible uses.
+
+Thus, the course was organized into five main modules, addressing different knowledge areas, context problems, theoretical aspects, participatory methodologies, and research developed at Locus, PPGP-UFC/Fortaleza, and PPGPPPP-UFC/Sobral. The following details each of the modules.
+
+## Course Outline and Organization
+
+The extension course provided a space for reflection on the content covered by the subjects Theories and Practices in Social Psychology III, Environmental Psychology, among others, at undergraduate and graduate levels. Beyond teaching, the course also directly dialogued with research conducted by PPGP and PPGPPPP master's and doctoral students.
+
+Considering the need for physical distancing due to the COVID-19 pandemic, the course was held remotely with synchronous and asynchronous moments. Thus, the meetings were held online once a week, every Friday in August and the first Friday in September 2020, from 4 pm to 6 pm, via Google Meet platform, lasting 2 hours/class. To account for the 20-hour certificate issuance, besides the 10 hours of synchronous meetings, readings and activities were made available on the Google Classroom platform to complement discussions and reflections asynchronously.
+
+As for course registrations, these were conducted virtually through the Google Forms platform in July 2020. Initially, the course organizing team planned to offer 100 vacancies; however, given the high demand identified, 162 registrations were made. Regarding the profile of registrants, besides undergraduate, specialization, master’s, and doctoral students, professionals from public policies, members of non-governmental organizations, participants of social movements, collectives, and community leaders also participated. The following table 1 summarizes the profile of enrolled students regarding their areas of education.
+
+|                    |                                                                                                                                                                                                                                                                           |
+|---------------|--------------------------------------------------------|
+| **Undergraduate**  | Psychology; Education; Sociology; Law; History; Nutrition; Finance; Medicine; Tourism Management; Architecture and Urbanism; Geography; Environmental Sciences; Biological Sciences; Fisheries Engineering; Environmental Engineering; Environmental Management; Physics. |
+| **Specialization** | Health; Social Legislation, Public Policies, and Social Work.                                                                                                                                                                                                             |
+| **Master’s**       | Psychology; Interdisciplinarity in Humanities; Tropical Marine Sciences; Development and Environment.                                                                                                                                                                     |
+| **Doctorate**      | Psychology; Public Health; Society and Environment.                                                                                                                                                                                                                       |
+
+Table 1 - Areas of education (undergraduate and graduate) of enrolled students in the course.
+
+Regarding the participants' locations, the course reached 52 cities distributed across 17 states in the five regions of Brazil. The following table 2 shows the location of cities by region of the country:
+
+| **Regions of Brazil** | **Brazilian states and cities**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------|--------------------------------------------------------|
+| **Northeast**         | Ceará (Fortaleza, Caucaia, Cascavel, Quixadá, Guaiúba, Maracanaú, Aquiraz, Maranguape, Itapajé, Mauriti, Sobral, Pacatuba, Tabuleiro do Norte, Crato, Horizonte, Morrinhos, Pacajus, Limoeiro do Norte, Juazeiro do Norte, Palmácia, Canindé, Umirim, Tianguá, São Gonçalo do Amarante, Tauá and Barreira), Rio Grande do Norte (Natal, Apodi, Santa Cruz, Mossoró and Acari); Bahia (Ipirá); Paraíba (João Pessoa); Pernambuco (Camaragibe); Piauí (Floriano); Sergipe (Aracaju and São Cristóvão). |
+| **Southeast**         | Rio de Janeiro (Rio de Janeiro, Niterói, Magé); São Paulo (São José do Rio Preto, Ribeirão Preto, São Carlos); Minas Gerais (Ouro Preto, Juiz de Fora).                                                                                                                                                                                                                                                                                                                                              |
+| **North**             | Amazonas (Manaus); Pará (Redenção); Roraima (Boa Vista).                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Central-West**      | Brasília (Federal District); Goiás (Anápolis).                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **South**             | Rio Grande do Sul (Guaíba); Santa Catarina (Florianópolis).                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+Table 2 - Location of course participants.
+
+Regarding the institutions, organizations, and/or social movements linked to the registrants, 55 different affiliations were recorded, distributed among associations (03), social movements, hospitals, and clinics (02), institutes (05), secretariats and city halls (07), reference and health centers (06), public schools and universities (17), and private educational centers and colleges (14).
+
+Regarding the organization of the meetings, five modules were held in total, namely:
+
+1.  Theoretical and participatory methodological perspectives (88 participants);
+2.  Human development, professional training, and participation (101 participants);
+3.  Indigenous peoples and transcultural issues (92 participants);
+4.  Health and social assistance public policies (83 participants); and
+5.  Cities, sociocultural movements, and participation (77 participants).
+
+The facilitation was conducted by the Locus coordinator and postgraduate researchers (master's and doctoral) who comprise the laboratory, in addition to guests. The research and experiences were presented and discussed, enabling the collective construction of knowledge.
+
+A bibliography was made available beforehand so participants could bring questions to the meetings. The material used as a reference in each class was made available in a public folder on Google Drive, organized in a Google Classroom. Finally, after accounting for attendance and activities completed by participants, 74 certificates were issued and sent via email.
+
+## Facilitation of Thematic Axes: Exchanges of Experiences and Teaching
+
+Throughout the extension course, discussions were held on how socio-environmental and historical-cultural perspectives contribute to understanding the social problems of the national context. Concepts from specific areas (Psychology, Geography, Education, Architecture and Urbanism, Sociology, etc.) were addressed, relating them to the studied contexts, methods, and facilitation processes that contribute to field insertion, needs assessment, action development, knowledge construction and sharing, etc., from a participatory perspective, involving professionals, students, and residents of the studied contexts.
+
+These experiences, from a historical-cultural [@vygotsky1996teoria; @lane1989psicologia], decolonial [@santos2009epistemologias], and ethical-political [@sawaia2009psicologia; -@sawaia2011sofrimento; @martinbaro2011desafios; -@martinbaro2017critica] standpoint, allowed the development of approaches and actions in various research and intervention fields, configuring active and participatory methodological proposals [@montero2007hacer; @freire1980conscientizacao]. These methodologies developed stem from the need to reach populations in situations of social and environmental vulnerability, inequality, and ethical-political suffering.
+
+The methodologies presented in the course also went beyond a solely psychological science focus, seeking transdisciplinarity as a way to create a new field encompassing various disciplines to provide a comprehensive understanding of environmental, social, and human problems, allowing the emergence of knowledge connecting Psychology, Education, Geography, Environmental Sciences, Social Sciences, and other areas, to embrace the cultural and methodological diversity required.
+
+Due to the COVID-19 pandemic context, a readaptation to the social isolation reality was made, demanding greater course insertion in the community more accessible through online platforms, reaching many people. In total, the course had five meetings, each corresponding to a module within broad thematic axes. Below, we present the main characteristics of each module.
+
+### Theoretical and Participatory Methodological Perspectives
+
+This module was facilitated by Andie de Castro Lima (master's student at PPGP-UFC/Fortaleza), Fábio Pinheiro Pacheco (doctoral student at PPGP-UFC/Fortaleza), and Zulmira Bomfim, the instrument's author and Locus coordinator. A total of 88 participants attended.
+
+In this meeting, the course construction was presented, contextualizing how the idea emerged and how it was organized. An introduction to the theoretical and methodological bases of Socio-historical Social Psychology [@lane1989psicologiasocial] and Environmental Psychology from a transactional perspective [@garciamira1997aportacion; @bomfim2010cidade] was also conducted, highlighting how these two combine to construct a socio-environmental perspective within Locus. The participatory aspects in the articulation between teaching, research, and extension were also discussed. At this moment, the importance of participatory methods in facilitating psychosocial actions aimed at social transformation [@montero2007hacer; @freire1980conscientizacao] was emphasized.
+
+On the occasion, the Affective Maps Generator Instrument [@bomfim2010cidade; @bomfim2014affective], developed by Locus coordinator Zulmira Bomfim from her doctoral thesis in 2003, was also presented. Integrating the aforementioned theoretical bases, Bomfim [-@bomfim2010cidade] outlined an instrument capable of creating affective maps, through which one can capture the socio-affective synthesis of an individual's encounter with a place, whether it is the home, the neighborhood, the city, etc.
+
+### Human Development, Professional Training, and Participation
+
+In this second module, the discussion focused on the dialogue between personal and collective development, participation in culture, lifelong development, and the repercussions on educational processes. The psychosocial aspects of psychology training and the psychologist's work in education and art as an intercultural proposal were also discussed. The module was facilitated by Nara Maria Forte Diogo Rocha (Professor at the UFC Psychology Department in Fortaleza and PPGPPPP-UFC/Sobral), Helenira Fonseca de Alencar (Ph.D. in Education), Janaína Farias de Melo (doctoral student at PPGP-UFC/Fortaleza), and Benedito Rodrigues (master's student at PPGPP-Sobral). A total of 101 participants attended.
+
+To discuss personal and collective development and participation in culture, the "Life in Verse" dynamic (Haiku) was conducted to express the relationship between humans and nature from a perspective on possible life changes. Additionally, it was relevant to address, in the educational field, the experience of the flipped classroom (conducting group activities and exercises and professor attendance), different from the traditional classroom (professor lectures to students). Finally, the experience of the school psychologist creating spaces for student discourse circulation and the re-signification of daily life with new group-created activities were addressed.
+
+### Indigenous Peoples and Transcultural Issues
+
+The third module's discussion focused on the community insertion process [@montero2007hacer] in indigenous villages and other traditional communities. Emphasis was placed on how initial contacts are established and how participatory research and extension are delineated, considering subject participation. The module was facilitated by Maria Zelfa de Souza Feitosa (post-doctoral researcher at PPGP-UFC/Fortaleza), Francisco Jésus Dias Mota Araújo (master's student at PPGP-UFC/Fortaleza), Janaína Farias de Melo (doctoral student at PPGP-UFC/Fortaleza), and Halaine Cristina Pessoa Bento (master's student at PPGP-UFC/Fortaleza). A total of 92 participants attended.
+
+In the module, Francisco Jésus chose to bring a discussion on interculturality from a decolonial dialogue [@santos2009epistemologias] in Serra dos Encantados (Aratuba), Pacatuba, Ceará: the affects and actions with the Pitaguary people. From the Locus Program and her doctoral thesis, Zelfa Feitosa presented her experience as a researcher within the Pitaguary indigenous village, addressing the community insertion process and outlining her doctoral thesis, which studied the rights of indigenous peoples, understanding the affects and conflicts involved in the experiences of indigenous leaders [@feitosa2019liderancas]. Additionally, Zelfa also presented the "Game as a socio-cultural, collaborative intervention and potency for action" [@feitosa2019liderancas], an activity developed with indigenous children from the said village.
+
+In this sense, seeking new methodological possibilities for affective maps [@bomfim2010cidade], Janaína de Melo addressed the outline of her doctoral research in the field of transculturality between Ceará and Japan from the perspective of young people from Ceará. Thus, she brought a reflection on subjects from their social and cultural aspects, understanding spaces as dynamic, in constant symbolic construction [@tavares2014comunicacao].
+
+Continuing the discussions on cultures in Brazil, Halaine Pessoa presented her master's research with the Venezuelan migrant and refugee population, arriving through the state of Roraima in search of better living conditions. Thus, a look from Environmental Psychology in the sphere of experience, living, meanings, and appropriation of spaces by Venezuelans with Brazilian territory [@moser1998psicologia] was presented, as well as her experience with this public in a shelter for Venezuelan refugees from Operation Welcome in Boa Vista (RR).
+
+### Public Health and Social Assistance Policies
+
+Module four presented the areas of Social Assistance and Health, making an interlocution with Environmental Psychology and Social Psychology. The participatory methodologies used in these contexts, in the fields of work, research, and teaching, emphasized issues related to the importance of territorialization in professional practices in the highlighted public policies and the understanding of affective elements involved in socially vulnerable and risky situations experienced by policy users.
+
+The module was facilitated by Andie de Castro Lima (master's student at PPGP-UFC/Fortaleza), José Reginaldo Feijão Parente (doctoral student at PPGP-UFC/Fortaleza), Elcides Hellen Ferreira Landim Barreto (doctoral student at PPGP-UFC/Fortaleza), and Cícera Mônica da Silva Sousa Martins (doctoral student at PPGP-UFC/Fortaleza). A total of 83 participants attended the module.
+
+The activity was conducted based on research and intervention experiences in two public policy fields: Health and Social Assistance. The choice of these themes was based on the understanding of health and social assistance policies as the main fields of psychology professionals' action in the public sector, both on the front line, attending the population, and in management processes and training of workers in the Unified Health System (SUS) and the Unified Social Assistance System (SUAS).
+
+To this end, the class was conducted in two stages: a theoretical conceptual moment, on the fundamental bases for understanding the functioning of SUS and SUAS, and later, the presentation of the Affective Maps Generator Instrument - IGMA [@bomfim2010cidade; @bomfim2014affective], as a research and intervention tool in the aforementioned fields. The two facilitators of the first moment not only focused on discussing the organizational structure and services provided by Health and Social Assistance policies but also began a debate on the importance of the psychologist's social commitment in acting in the public policy field [@sawaia2009psicologia].
+
+Next, two application situations of the IGMA methodology were presented in two facilities: a Basic Health Unit (UBS) in the city of Icó, and a Social Assistance Reference Center (CRAS) in the city of Maracanaú, Fortaleza's metropolitan region. Initially, Hellen Barreto presented the construction process and results of her research, discussing how understanding the affects present in UBS can expand the possibilities of more effective actions and services, greater user involvement with a healthy lifestyle [@barreto2017estima].
+
+Subsequently, Andie Lima and Mônica Martins brought the discussion of affects to the social assistance sphere. At this point, the main results of research and actions developed at CRAS were presented, focusing on the importance of territorialization and understanding the affective elements that permeate the appropriation of this territory by residents [@lima2019estima]. The examples presented showed the potential of IGMA both for diagnosing residents' links with accessed public policy facilities and for intervention and evocation of reflections on the importance of understanding affects in the process of implementing and conducting public policy.
+
+### Cities, Sociocultural Movements, and Participation
+
+In the final stage, a discussion was held on cultural spaces, constructing participation and resistance in urban social movements. This module was facilitated by Fábio Pinheiro Pacheco (doctoral student at PPGP-UFC/Fortaleza), José Reginaldo Feijão Parente (doctoral student at PPGP-UFC/Fortaleza), Cícera Mônica da Silva Sousa Martins (doctoral student at PPGP-UFC/Fortaleza), and Daniel Welton Arruda Cabral (doctoral student at PPGP-UFC/Fortaleza). A total of 77 participants attended. The module presented methods and facilitation processes for research, teaching, and extension, highlighting socio-environmental [@morais2011nas] and cultural trails as possibilities for reflection-action and collective construction; and the organization of social movements of struggle [@cabral2015relacao; @martins2020afetividade] and resistance to socio-spatial segregation situations [@pacheco2018afetividade].
+
+Initially, Reginaldo Parente started a discussion on cultural heritage and affectivity to address his doctoral research outline experience. In his thesis, he focused on the phenomenon of affects experienced in relation to cultural heritage in the context of the city of Sobral-Ceará, discussing the social implications and infrastructural development present in person-environment relationships [@parente2020patrimonio]. Next, Daniel Cabral addressed the organization of residents of Prainha do Canto Verde, discussing lifestyles, solidarity bonds, cooperation, and claim processes in constructing social and political participation and struggle [@cabral2015relacao].
+
+Finally, Fábio Pacheco and Mônica Martins brought a discussion on space expropriation processes. Fábio Pacheco addressed the importance of action research [@montero2007hacer] and the development of community activities [@gois2005psicologia]. Based on his master's research, he discussed the psychosocial implications present in space expropriation processes [@pacheco2020contribuicoes], reaffirming that real estate speculation accentuates the segregational nature of urban development, impacting the lives of the poor population targeted for removals [@pacheco2018afetividade]. Bringing the discussion to the rural context, Mônica Martins presented her experience of community insertion and research outline, discussing the psychosocial impacts of the Ceará water belt works and the resistance practices developed by the population (Martins, 2020).
+
+All modules were based on theoretical and methodological perspectives in the mentioned areas, considering social inequalities and vulnerabilities context, as well as the social exclusion-inclusion dialectic, decolonial theories, and indigenous peoples (Santos & Meneses, 2011). The presentation showed how Latin American Social Psychology [@lane1989psicologia; @martinbaro2011desafios] and transactional-based Environmental Psychology [@garciamira1997aportacion; @bomfim2010cidade] contribute to understanding socio-environmental phenomena in a theoretical-practical way. The affectivity category [@sawaia2011sofrimento] stood out as an axis for observation, investigation, intervention, and analysis to overcome psychological science's own dichotomies that separate subjectivity from objectivity, rationality from affects, the individual from the social, among others that approach a prescribed posture and naturalize the social exclusion-inclusion dialectic.
+
+## Learning Process and Evaluation
+
+At the end of the fifth module, students were asked to fill out an evaluation form to understand the learning process throughout the course and measure the impact of the topics covered during the students' professional trajectory. The evaluation form was created on the G Suite platform (Google Forms) in an electronic questionnaire format, evaluating five aspects: Virtual Environment, Pedagogical Aspects, Technical Support, Teaching Team and Moderation, and Self-evaluation. Each of the five topics mentioned above presented objective questions with five agreement scale alternatives, with numbers between 1 (totally disagree) and 5 (totally agree).
+
+At the end of the form, there was a comment section with questions about interest in participating in other actions promoted by Locus, suggestions for themes for future training, and other remarks. Although adherence to the evaluation form was voluntary, 45 registrants filled out this evaluative instrument. The results were analyzed and compiled by the event organizing committee.
+
+Regarding the first topic, the virtual environment, the eight alternatives concerned the use of the chosen virtual platforms for conducting the course (Google Classroom, Google Forms, and Google Meet). In all alternatives, more than 90% of students evaluated the choice and conduction satisfactorily, marking "agree" and "totally agree." In the final question, asking for an overall opinion on the experience in the course's virtual environments, the satisfaction rate was unanimously positive, obtaining the following percentages, agree (19.5%) and totally agree (80.5%).
+
+In the additional comments section on the "virtual environment" topic, students stated they were in the process of adapting to these tools, especially in activities conducted during this pandemic period. As a suggestion, the need to bring more reading indications available for download in the Classroom was pointed out, and the notifications received by email for each posted content were praised.
+
+In the second topic, concerning pedagogical aspects, the nine statements addressed the format, duration, and content of the classes presented in the five modules. Satisfaction rates regarding the content, format, and day of the course were 82.9%, comparable to what was presented in additional comments and suggestions. In this space, students pointed out that the chosen content met their needs and that the teachers' methodology was effective.
+
+However, a common complaint about the duration of each module class was noted. Students considered the two-hour duration short and saw it as limiting the teachers' speaking time. Participants requested that in future courses offered by Locus, classes have longer durations and, if necessary, the theme be divided over more than one day for greater content absorption. Some also suggested new courses to deepen the presented themes, such as territory, public policies, and sustainability.
+
+In the third evaluative topic, the effectiveness and service provision by the course technical support were addressed. The five alternatives concerned the response time and effectiveness of the support, as well as the quality of the service provided. In the final evaluative alternative, over 90% satisfaction with the services was obtained. In the additional comments section, the promptness, quick responses to demands, attention, and student reception were praised. Some participants reported not needing support services, while others expressed satisfaction with the service when sought.
+
+The fourth topic addressed the performance of the teaching and mediation team, with eleven alternatives aimed at evaluating the topics presented by the teachers, teaching methodology, teacher-student interaction, clarification of doubts, and the role of moderation in the process. The average response per alternative was over 90% satisfaction with teachers and mediators, considering the percentage compilation of each question. In the additional comments section, participants reported that they not only approved the way the classes of each module were conducted but also noticed the effort and dedication of the team, as well as the care and study devoted to each theme. It was also mentioned that in future courses, it would be interesting to have a folder with complementary bibliographic materials on the theme of each module to expand the acquired knowledge.
+
+In the final evaluative topic, self-evaluation, the thirteen statements addressed technical, pedagogical, and experiential questions of the students regarding their experience as course students. Factors such as motivation to participate in classes, course contribution to professional training, interest in the covered content, participation, and understanding of presented content were mostly evaluated positively. Most students did not have difficulties managing the Classroom and Meet platforms, although 19.5% of students had problems with internet access.
+
+Regarding the applicability of the presented content to their professional career and curriculum, most students were in favor of reapplying what was learned in their daily activities, with 22% agreement and 78% total agreement. In the additional comments, students reported being happy to participate in the course and considering the use of the presented methodologies in their professional and academic activities.
+
+Additionally, some mentioned the relation of the discussed themes with their final course projects and research lines, reaffirming the interest in themes related to active methodologies in environmental psychology. In the suggestions box, it was requested that future courses have modules with longer class durations and breaks during classes. Some themes expected for future Locus training were also suggested, such as research in urban environments, affectivity and territory, pro-environmental behavior, ecological commitment, practices in environmental psychology; an intensive course on IGMA, restorative environments, well-being, and current environmental issues were also suggested.
