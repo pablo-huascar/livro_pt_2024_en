@@ -79,7 +79,7 @@ The group interventions were divided into five structured meetings following the
 
 All participants were present at the first meeting, dedicated to introducing the students. For this purpose, the "self-portrait" activity was carried out, aiming to bring
 
- the group members closer together and strengthen the bonds between them and the researcher. Papers and colored pencils were distributed, asking each student to describe their characteristics. This activity promotes a moment of self-reflection on identity and allows for greater closeness with the "other." Additionally, it involves feelings and creativity, enabling reflection on one's identity [@Maia2013].
+the group members closer together and strengthen the bonds between them and the researcher. Papers and colored pencils were distributed, asking each student to describe their characteristics. This activity promotes a moment of self-reflection on identity and allows for greater closeness with the "other." Additionally, it involves feelings and creativity, enabling reflection on one's identity [@Maia2013].
 
 Each participant showed their work to the others, who observed and tried to describe what they saw in the image. The dynamic met its objective, as the students' engagement showed they could get closer and know each other better.
 
@@ -101,10 +101,10 @@ The choice of the last musical composition was deliberate to introduce a contras
 
 The students were divided into smaller teams, given printed lyrics of each song, and instructed to discuss the following topics:
 
-- Representation of women in the songs;
-- Three problematic behaviors of men mentioned in the lyrics;
-- Changes in male behavior intended to avoid these problematic behaviors;
-- Changes in female behavior perceived throughout the songs.
+-   Representation of women in the songs;
+-   Three problematic behaviors of men mentioned in the lyrics;
+-   Changes in male behavior intended to avoid these problematic behaviors;
+-   Changes in female behavior perceived throughout the songs.
 
 The purpose was to investigate the gender dynamics present in the lyrics and identify stereotypes, behavioral patterns, and possible narrative evolutions. The aim was to provide a critical analysis of the conveyed messages.
 
@@ -127,9 +127,9 @@ The third meeting had all participants present and began with a review of the co
 
 ![Representation of political debate](./imagens/renata_debate.png){#fig-debate fig-alt="The image is a black and white illustration of a political debate. In the center, a moderator stands with his back to the viewer, facing three candidates at podiums. The candidates are facing the audience, each at an elevated podium, and appear to be responding or awaiting questions. The candidate on the left has one hand on the podium and the other by his side, the middle candidate has both hands on the podium, and the right candidate has one hand on the podium and the other on his hip. They are formally dressed in dark suits. In the foreground, a panel with four people seated, likely judges or journalists, is taking notes. Above them, an attentive audience watches the debate. The setting is a circular auditorium with a high ceiling and lighting focused on the stage, where five large stars adorn the background, possibly symbolizing the national flag or a campaign emblem. The illustration style is dramatic, with strong contrasts and shading, emphasizing the seriousness and formality of the event. The perspective chosen puts the viewer in the moderator's position, as if participating or watching the debate from a privileged viewpoint." width="250"}
 
-![Representation of marriage](./imagens/renta_casamento.png){#fig-casamento fig-alt="The image is a black and white illustration of a couple at the altar of a church during their wedding. The bride, on the left, wears a traditional dress with lace and a long veil; her hair is arranged in an elegant hairstyle. The groom, on the right, is dressed in a classic tuxedo with a flower on the lapel. They are holding hands and leaning towards each other, almost touching foreheads, in an intimate and loving gesture
+![Representation of marriage](./imagens/renta_casamento.png){#fig-casamento fig-alt="The image is a black and white illustration of a couple at the altar of a church during their wedding. The bride, on the left, wears a traditional dress with lace and a long veil; her hair is arranged in an elegant hairstyle. The groom, on the right, is dressed in a classic tuxedo with a flower on the lapel. They are holding hands and leaning towards each other, almost touching foreheads, in an intimate and loving gesture. Behind the couple, guests are seated in church pews, observing the ceremony. The church architecture includes tall gothic arches and a large circular stained glass window above the altar, where a cross is the focal point. The use of light and shadow in the illustration creates a dramatic contrast that highlights the couple and the surrounding architecture, giving an air of solemnity and beauty to the captured moment." width="250"}
 
-. Behind the couple, guests are seated in church pews, observing the ceremony. The church architecture includes tall gothic arches and a large circular stained glass window above the altar, where a cross is the focal point. The use of light and shadow in the illustration creates a dramatic contrast that highlights the couple and the surrounding architecture, giving an air of solemnity and beauty to the captured moment." width="250"}
+
 
 ![Representation of aesthetic procedure](./imagens/renata_estetica.png){#fig-estetico fig-alt="The image is a black and white illustration depicting a scene of an aesthetic procedure. A man dressed in a white lab coat, suggesting he is a health professional or aesthetician, is applying an injection to the face of another man lying down and appearing relaxed with eyes closed. The professional, with a focused expression, holds a syringe precisely near the forehead or eye area of the lying man, indicating a botox application or other facial aesthetic treatment. In the front pocket of the lab coat, at chest level, there are several other syringes, reinforcing the idea that the procedure occurs in a medical or aesthetic setting. The illustration style is detailed and dramatic, with shadows and strong lines creating an accentuated contrast, characteristic of noir or classic comic styles." width="250"}
 
@@ -142,13 +142,13 @@ The third meeting had all participants present and began with a review of the co
 
 Each image was presented individually, and the participants were asked to categorize them as 'man,' 'woman,' or 'both.' This activity aimed to examine the influence of gender roles on students' perceptions. At the end, the images were organized into the corresponding groups, resulting in the following categorization:
 
-| **Woman**                                        | Both                             | Man                               |
+| **Woman**                                        | Both                                 | Man                                 |
 |-----------------------------|---------------------|----------------------|
-| Representation of silence                         | Representation of marriage        | Representation of physical strength       |
-| Representation of work with numbers (productive) | Representation of political debate  | Representation of power/leadership |
+| Representation of silence                        | Representation of marriage           | Representation of physical strength |
+| Representation of work with numbers (productive) | Representation of political debate   | Representation of power/leadership  |
 | Representation of weight loss                    | Representation of alcoholic beverage |                                     |
-| Representation of aesthetic procedure            |                                   |                                     |
-| Representation of romantic love                   |                                   |                                     |
+| Representation of aesthetic procedure            |                                      |                                     |
+| Representation of romantic love                  |                                      |                                     |
 
 : Division of images conducted by the students {#tbl-divisao}
 
@@ -197,12 +197,12 @@ Most students were unaware of the truth of statements 1 and 3 and considered the
 
 Thus, the students were divided into three groups and instructed to think of alternative solutions to mitigate the presented challenges. The alternative solutions proposed by the students are listed below:
 
-- Report cases of violence against women;
-- Encourage men's commitment to equally sharing household chores;
-- Talk more about this topic at school for other students who did not participate in this project;
-- Elect more women in politics;
-- Elect people with gender-related agendas;
-- Assume, as students, the duty to use our voice and knowledge to speak about these issues in various places;
+-   Report cases of violence against women;
+-   Encourage men's commitment to equally sharing household chores;
+-   Talk more about this topic at school for other students who did not participate in this project;
+-   Elect more women in politics;
+-   Elect people with gender-related agendas;
+-   Assume, as students, the duty to use our voice and knowledge to speak about these issues in various places;
 
 ## Intervention Results
 
@@ -246,4 +246,4 @@ The intervention can be reapplied, as no difficulties were detected in understan
 
 The intervention can be considered of medium complexity, as it involved simple activities but required facilitator skills, such as theoretical and empirical knowledge on the topic and effective communication skills, among others.
 
-Finally, the use of active and participatory methodologies, as well as discussing situations and reflecting on potentially unequal gender actions, considering the context and experiences of the participants, provided interaction among the students and facilitated dialogue and knowledge exchange, also enabling behavior changes that can perpet
+Finally, the use of active and participatory methodologies, as well as discussing situations and reflecting on potentially unequal gender actions, considering the context and experiences of the participants, provided interaction among the students and facilitated dialogue and knowledge exchange, also enabling behavior changes that can perpetuate gender inequalities, stereotypes, and biases.
