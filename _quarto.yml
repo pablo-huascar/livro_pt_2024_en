@@ -56,6 +56,9 @@ book:
         - barros_cursos_vieses.qmd
         - bomfim_metodologias_part.qmd
         - sena_curso_r.qmd
+    - part: Instructional Material
+      chapters: 
+        - da_silva_pandemia_pergunta.qmd
 
 
 
