@@ -134,7 +134,6 @@ So far, six modules have been developed for the workshop, and a module on regres
 
 This module introduces the minimum necessary to familiarize oneself with R's basic language [@r_2022]. When dealing with basic coding, there is not always a transposition of what is done in software with a graphical interface, but this initial step is essential to understand how R works by itself.
 
-
 ::: {#lst-assign-both-introducao}
 **Exemplo: função** `seq()`
 
@@ -177,7 +176,6 @@ Introduction to R
 
 Before analyzing the collected data, some essential tasks are necessary, such as creating variables from those initially collected, filtering values, and arranging them in ascending or descending order. It may also be necessary to select, rename, and reposition variables. Summarizing some results is also important in this data manipulation phase. All these tasks can be done with the `dplyr` package [@dplyr_r]. Learning how `dplyr` works will be the main goal of this module.
 
-
 ::: {#lst-assign-both-transform}
 ```{r}
 #| warning: false
@@ -219,7 +217,6 @@ Data Transformation
 #### Iteration
 
 In the tidyverse context, iteration refers to repeatedly performing the same action on different objects. It is possible, for instance, with the `summarise` function, to calculate the mean and standard deviation of several columns at once or transform them with the `mutate` function. Iteration is important as it avoids copying and pasting functions more than twice, which can propagate errors in the code. This is a very powerful tidyverse capability; however, given the workshop's introductory nature, the focus will be on the `across()` function.
-
 
 ::: {#lst-assign-both-iter}
 ```{r}
@@ -302,7 +299,6 @@ estudantes
 -   Uppercase and lowercase
 -   Accents and special characters
     -   `janitor::clean_names()`
-
 
 ```{r}
 estudantes <- estudantes |> 
@@ -391,7 +387,6 @@ Linear regression is a simple statistical analysis but a fundamental tool for so
 
 ::: {#lst-assign-both-regress}
 **Simple Linear Regression: One Categorical Independent Variable**
-
 
 ```{r}
 library(broom)

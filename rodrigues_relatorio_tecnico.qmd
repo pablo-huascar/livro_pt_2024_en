@@ -31,7 +31,6 @@ author:
     email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
-
 editor: visual
 editor_options: 
   chunk_output_type: console
@@ -1264,7 +1263,6 @@ relacoes_de_trabalho <- relacoes_de_trabalho |>
   )
 
 ```
-
 
 ```{r}
 #| label: tbl-relacoes
