@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# Editorial Board
+# Editorial Board {.unnumbered .unlisted}
 
 Andréa Borges Leão - Federal University of Ceará (UFC)
 

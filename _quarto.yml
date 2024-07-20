@@ -1,6 +1,6 @@
 project:
   type: book
-number-sections: false
+#number-sections: false
 indent: true
 
 book:
@@ -61,6 +61,7 @@ book:
         - da_silva_pandemia_pergunta.qmd
         - lopes_rabiscos_palavras.qmd
 
+    - sobre_os_autores.qmd
 
 
 
